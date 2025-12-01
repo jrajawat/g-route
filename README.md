@@ -33,7 +33,12 @@ This connection to Liang et al.’s work demonstrates a research-grounded optimi
 Two CSV files are required.
 
 ### waterloo_subset_stops.csv  
-Contains all candidate/existing bus stops.  
+Contains all candidate/existing bus stops within the selected area, built using:
+
+- [Region of Waterloo Open Data – ION Stops](https://rowopendata-rmw.opendata.arcgis.com/datasets/RMW::ion-stops-1/about)
+- [Region of Waterloo Open Data – GRT Stops](https://rowopendata-rmw.opendata.arcgis.com/datasets/RMW::grt-stops-2/about)
+
+
 Required columns:
 - stop_id  
 - name  
