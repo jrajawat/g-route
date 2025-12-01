@@ -1,0 +1,1001 @@
+source,stop_id,name,street,cross_street,municipality,status,lon,lat
+GRT,12213,Keats Way at McDougall Rd,Keats Way,McDougall Rd,Waterloo,Active,-80.54524804,43.46121303
+GRT,10384,Elgin St N at Ferguson Ave,Elgin St N,Ferguson Ave,Cambridge,Active,-80.30726198,43.38110998
+GRT,12522,Erbsville Rd at Columbia St W,Erbsville Rd,Columbia St W,Waterloo,Active,-80.58128504,43.46225497
+GRT,12114,Hoffman St at Meinzinger Ave,Hoffman St,Meinzinger Ave,Kitchener,Active,-80.48266501,43.43208004
+GRT,11683,Franklin St N at Dalewood Dr,Franklin St N,Dalewood Dr,Kitchener,Active,-80.44770304,43.44323498
+GRT,11751,Belmont Ave W at Victoria St S,Belmont Ave W,Victoria St S,Kitchener,Active,-80.512007,43.44323498
+GRT,13255,Laurelwood Dr at Birchmount Dr,Laurelwood Dr,Birchmount Dr,Waterloo,Active,-80.590218,43.472771
+GRT,10518,Franklin Blvd at Bishop St,Franklin Blvd,Bishop St,Cambridge,Active,-80.30477,43.399157
+GRT,11790,Traynor Ave at Balfour Cres,Traynor Ave,Balfour Cres,Kitchener,Active,-80.44934798,43.42213697
+GRT,10362,Sagniaw Pky at Cowan Blvd,Sagniaw Pky,Cowan Blvd,Cambridge,Active,-80.29619319,43.38958246
+GRT,11302,Grand Ridge Dr at Mark Cres,Grand Ridge Dr,Mark Cres,Cambridge,Active,-80.33595001,43.34155803
+GRT,11413,Krug St at Samuel St,Krug St,Samuel St,Kitchener,Active,-80.47711004,43.45096803
+GRT,10179,Hazel St at Blythwood Dr,Hazel St,Blythwood Dr,Waterloo,Active,-80.53729296,43.48567501
+GRT,11403,Victoria St N at Edna St,Victoria St N,Edna St,Kitchener,Active,-80.47658198,43.46059201
+GRT,11806,Courtland Ave E at Stirling Ave S,Courtland Ave E,Stirling Ave S,Kitchener,Active,-80.48451301,43.44139801
+GRT,13868,Huron Rd at Fischer-Hallman Rd S,Huron Rd,Fischer-Hallman Rd S,Kitchener,Active,-80.48927097,43.38212663
+GRT,12244,Westmount Rd E at Ottawa St S,Westmount Rd E,Ottawa St S,Kitchener,Active,-80.50173801,43.419307
+GRT,11666,Weber St E at Dellroy Ave,Weber St E,Dellroy Ave,Kitchener,Active,-80.45113996,43.43558001
+GRT,10118,Fischer-Hallman Rd N at Laurelwood Dr,Fischer-Hallman Rd N,Laurelwood Dr,Waterloo,Active,-80.57111299,43.47255701
+GRT,10431,Rose St at Lowther St S,Rose St,Lowther St S,Cambridge,Active,-80.36036998,43.38930303
+GRT,13908,Doon South Dr at Robert Ferrie Dr,Doon South Dr,Robert Ferrie Dr,Kitchener,Active,-80.43319104,43.37807093
+GRT,11807,Courtland Ave E at Madison Ave S,Courtland Ave E,Madison Ave S,Kitchener,Active,-80.48648699,43.44262503
+GRT,11422,Krug St at Cambridge Ave,Krug St,Cambridge Ave,Kitchener,Active,-80.46237703,43.45602196
+GRT,11877,Lee Ave at Dunvegan Dr,Lee Ave,Dunvegan Dr,Waterloo,Active,-80.50444696,43.49324799
+GRT,10608,Preston Pky at Woods Lane,Preston Pky,Woods Lane,Cambridge,Active,-80.37748596,43.39188697
+GRT,10768,Pinnacle Dr at Doon Valley Dr,Pinnacle Dr,Doon Valley Dr,Kitchener,Active,-80.41529696,43.39002801
+GRT,10861,Old Carriage Dr at Homer Watson Blvd,Old Carriage Dr,Homer Watson Blvd,Kitchener,Active,-80.428047,43.39101804
+GRT,10091,Frederick St at Weber St E,Frederick St,Weber St E,Kitchener,Active,-80.48443497,43.45240001
+GRT,13864,Seabrook Dr at Fischer-Hallman Rd,Seabrook Dr,Fischer-Hallman Rd,Kitchener,Active,-80.49128976,43.38694849
+GRT,10842,Battler Rd at Old Huron Rd,Battler Rd,Old Huron Rd,Kitchener,Active,-80.46143702,43.39597
+GRT,10090,Frederick St at Lancaster St E,Frederick St,Lancaster St E,Kitchener,Active,-80.48237701,43.45350703
+GRT,10677,King St E at Fairway Rd,King St E,Fairway Rd,Kitchener,Active,-80.43109301,43.42826802
+GRT,10425,Bishop St S at Hamilton St,Bishop St S,Hamilton St,Cambridge,Active,-80.34842804,43.38844699
+GRT,12234,Highland Rd W at Fischer-Hallman Rd S,Highland Rd W,Fischer-Hallman Rd S,Kitchener,Active,-80.525896,43.431422
+GRT,10757,Pinnacle Dr at Doon Valley Rd,Pinnacle Dr,Doon Valley Rd,Kitchener,Active,-80.41537696,43.38987204
+GRT,10652,King St E at Brower St,King St E,Brower St,Cambridge,Active,-80.34422201,43.38877702
+GRT,10275,Winston Blvd at Cooper St,Winston Blvd,Cooper St,Cambridge,Active,-80.29283804,43.422132
+GRT,13584,Columbia St W at Hagey Blvd,Columbia St W,Hagey Blvd,Waterloo,Active,-80.547288,43.474512
+GRT,10506,Hespeler Rd at Sheldon Dr,Hespeler Rd,Sheldon Dr,Cambridge,Active,-80.32479705,43.39857296
+GRT,11925,Ottawa St S at Howland Dr,Ottawa St S,Howland Dr,Kitchener,Active,-80.49725202,43.42122004
+GRT,10145,Northlake Dr at Green Meadow Cres,Northlake Dr,Green Meadow Cres,Waterloo,Active,-80.55954797,43.49483001
+GRT,11053,Bridgeport Rd at Mackie Pl,Bridgeport Rd,Mackie Pl,Kitchener,Active,-80.48759302,43.47529696
+GRT,12373,Elm Ridge Dr at Hillbrook Cres,Elm Ridge Dr,Hillbrook Cres ,Kitchener,Active,-80.52644302,43.425672
+GRT,10784,Bechtel Dr at Anvil St,Bechtel Dr,Anvil St,Kitchener,Active,-80.44437699,43.38999798
+GRT,11415,Krug St at East Ave,Krug St,East Ave,Kitchener,Active,-80.47228598,43.45265203
+GRT,12718,Keats Way at Brynhurst Blvd,Keats Way,Brynhurst Blvd,Waterloo,Active,-80.56486301,43.456715
+GRT,11582,Hickory St E at King St N,Hickory St E,King St N,Waterloo,Detour,-80.52517302,43.47819198
+GRT,10751,Green Valley Dr at Pioneer Dr,Green Valley Dr,Pioneer Dr,Kitchener,Active,-80.42991195,43.39609699
+GRT,10333,Conestoga Blvd at Lena Cres,Conestoga Blvd,Lena Cres,Cambridge,Active,-80.31528196,43.39268297
+GRT,13503,Zeller Dr at Janet Crt,Zeller Dr,Janet Crt,Kitchener,Active,-80.420848,43.452734
+GRT,12696,Bridge St W at Crimson Cres,Bridge St W,Crimson Cres,Waterloo,Active,-80.49772698,43.49290197
+GRT,10837,Strasburg Rd at McIntyre Dr,Strasburg Rd,McIntyre Dr,Kitchener,Active,-80.47343504,43.40418196
+GRT,12393,Highview Dr at Sugar Maple St,Highview Dr,Sugar Maple St,Kitchener,Active,-80.54720997,43.41567503
+GRT,13335,Sportsworld Station at Stop 1572,Sportsworld Station,Stop 1572,Kitchener,Active,-80.392578,43.410186
+GRT,11658,Fourth Ave at Kingsway Dr,Fourth Ave,Kingsway Dr,Kitchener,Active,-80.45261002,43.43442501
+GRT,12061,Max Becker Dr at Fischer-Hallman Rd,Max Becker Dr,Fischer-Hallman Rd,Kitchener,Active,-80.500088,43.405721
+GRT,10065,Oldfield Dr at Springmount Dr,Oldfield Dr,Springmount Dr,Kitchener,Active,-80.42687699,43.44887503
+GRT,12592,Laurel St at North St,Laurel St,North St,Cambridge,Active,-80.35474499,43.40107556
+GRT,13799,Charles St E at Stirling Ave S,Charles St E,Stirling Ave S,Kitchener,Active,-80.478414,43.443929
+GRT,12665,New Bedford Dr at Eastbridge Blvd,New Bedford Dr,Eastbridge Blvd,Waterloo,Active,-80.50092,43.51108
+GRT,12844,Arthur St S at Oriole Pky,Arthur St S,Oriole Pky,Woolwich,Active,-80.56143295,43.58905004
+GRT,10619,King St E at Bishop St,King St E,Bishop St,Cambridge,Active,-80.34661801,43.38979002
+GRT,10227,Northland Rd at Bathurst Dr,Northland Rd,Bathurst Dr,Waterloo,Active,-80.53561797,43.50587703
+GRT,11978,Charles St E at Cedar St,Charles St E,Cedar St,Kitchener,Active,-80.48361998,43.44643
+GRT,10680,Morrison Rd at Morrison Park,Morrison Rd,Morrison Park,Kitchener,Active,-80.41637202,43.42999002
+GRT,12715,Keats Way at Keatswood Cres,Keats Way,Keatswood Cres,Waterloo,Active,-80.57321503,43.45581795
+GRT,10549,Ainslie Terminal at Stop 1521,Ainslie Terminal,Stop 1521,Cambridge,Active,-80.31319398,43.35701699
+GRT,10164,Hazel St at Tamarack Dr,Hazel St,Tamarack Dr,Waterloo,Active,-80.53664656,43.48496122
+GRT,11137,King St N at Nothland Rd,King St N,Nothland Rd,Waterloo,Active,-80.536775,43.504827
+GRT,10551,Ainslie St S at Walnut St,Ainslie St S,Walnut St,Cambridge,Active,-80.314075,43.354938
+GRT,13111,Fleming Dr at Sheldon Dr,Fleming Dr,Sheldon Dr,Cambridge,Active,-80.2929864,43.40901241
+GRT,10664,Preston Pky at Parkview Cres,Preston Pky,Parkview Cres,Cambridge,Active,-80.37793802,43.39728199
+GRT,10699,Stanley Park Mall at Stop 1668,Stanley Park Mall,Stop 1668,Kitchener,Active,-80.44383995,43.44893196
+GRT,13401,Block Line Station at ION platform - Southbound,Block Line Station,ION platform - Southbound,Kitchener,Active,-80.463085,43.422733
+GRT,12103,Country Hill Dr at Block Line Rd,Country Hill Dr,Block Line Rd,Kitchener,Active,-80.47547696,43.41702003
+GRT,12788,Columbia St E at Weber St N,Columbia St E,Weber St N,Waterloo,Active,-80.522155,43.483534
+GRT,12974,Ira Needles Blvd at Thorndale Dr,Ira Needles Blvd,Thorndale Dr,Waterloo,Active,-80.56581,43.442331
+GRT,12987,Westmount Rd W at Chopin Dr,Westmount Rd W,Chopin Dr,Kitchener,Active,-80.52266391,43.44313399
+GRT,11571,Ring Rd at University of Waterloo - University Club,Ring Rd,University of Waterloo - University Club,Waterloo,Active,-80.54797802,43.47273698
+GRT,11589,King St N at Central St,King St N,Central St,Waterloo,Active,-80.52373201,43.46980701
+GRT,10313,Guelph Ave at Sheffield St,Guelph Ave,Sheffield St,Cambridge,Active,-80.31152797,43.43444702
+GRT,13726,University of Waterloo Station at Platform 3,University of Waterloo Station,Platform 3,Waterloo,Active,-80.541204,43.474034
+GRT,12272,Victoria St S at Oprington Dr,Victoria St S,Oprington Dr,Kitchener,Active,-80.532421,43.43514
+GRT,10891,Manitou Dr at Cress Lane,Manitou Dr,Cress Lane,Kitchener,Active,-80.450664,43.416178
+GRT,12988,Westmount Rd W at Westwood Dr,Westmount Rd W,Westwood Dr,Kitchener,Active,-80.523118,43.446241
+GRT,12245,Westmount Rd E at Laurentian Dr,Westmount Rd E,Laurentian Dr,Kitchener,Active,-80.50116702,43.41680801
+GRT,13728,University of Waterloo Station at Platform 3,University of Waterloo Station,Platform 3,Waterloo,Active,-80.540778,43.474173
+GRT,12154,Greenbrook Dr at Birchcliffe Ave,Greenbrook Dr,Birchcliffe Ave,Kitchener,Active,-80.51251397,43.42405504
+GRT,13693,Morningside Cir at Postal Pick Up #5,Morningside Cir,Postal Pick Up #5,Wilmot,Active,-80.68963,43.374745
+GRT,12113,Hoffman St at Ottawa St S,Hoffman St,Ottawa St S,Kitchener,Active,-80.47999299,43.43190804
+GRT,11024,Westvale Dr at Heather Hill Pl,Westvale Dr,Heather Hill Pl,Waterloo,Active,-80.558366,43.448492
+GRT,13490,Zeller Dr at Wild Meadow St,Zeller Dr,Wild Meadow St,Kitchener,Active,-80.417438,43.453235
+GRT,13687,Hincks St at James St (Flex Stop),Hincks St,James St (Flex Stop),Wilmot,Active,-80.715167,43.387974
+GRT,11761,Queen St S at Courtland Ave E,Queen St S,Courtland Ave E,Kitchener,Active,-80.49333995,43.445643
+GRT,11061,Bridge St W at Bridle Trail,Bridge St W,Bridle Trail,Waterloo,Active,-80.488414,43.485413
+GRT,12861,King St N at Cedar St,King St N,Cedar St,Woolwich,Active,-80.55388298,43.53771695
+GRT,11729,University Ave W at Sunview St,University Ave W,Sunview St,Waterloo,Active,-80.53314801,43.47326499
+GRT,10887,Fairway Rd S at Wilson Ave,Fairway Rd S,Wilson Ave,Kitchener,Active,-80.44433197,43.42087296
+GRT,10905,Weber St E at Emmanuel Village Homes,Weber St E,Emmanuel Village Homes,Kitchener,Active,-80.44455794,43.43364698
+GRT,10448,Langs Dr at Industrial Rd,Langs Dr,Industrial Rd,Cambridge,Active,-80.33131697,43.40031204
+GRT,10444,Langs Dr at William G. Davis Public School,Langs Dr,William G. Davis Public School,Cambridge,Active,-80.34401697,43.39813999
+GRT,10375,Green Vista Dr at Whittaker Cres,Green Vista Dr,Whittaker Cres,Cambridge,Active,-80.29453303,43.39452204
+GRT,11338,Myers Rd at Cheese Factory Rd,Myers Rd,Cheese Factory Rd,Cambridge,Active,-80.29066115,43.34268765
+GRT,13180,The Boardwalk Station at Stop 4003,The Boardwalk Station,Stop 4003,Kitchener,Active,-80.561022,43.43544
+GRT,10379,Dunbar Rd at Conestoga Pky,Dunbar Rd,Conestoga Pky,Cambridge,Active,-80.314832,43.39138
+GRT,13429,Victoria St N at Margaret Ave,Victoria St N,Margaret Ave,Kitchener,Active,-80.489186,43.456228
+GRT,11423,Krug St at Krug Centre,Krug St,Krug Centre,Kitchener,Active,-80.46108703,43.45723501
+GRT,13383,Willis Way Station at ION platform - Southbound,Willis Way Station,ION platform - Southbound,Waterloo,Active,-80.523369,43.462149
+GRT,12047,Wilderness Dr at Mountain Mint Cres,Wilderness Dr,Mountain Mint Cres,Kitchener,Active,-80.51386998,43.41073303
+GRT,11022,Erb St W at Gateview Dr,Erb St W,Gateview Dr,Waterloo,Active,-80.557832,43.450834
+GRT,10999,Erb St W at Avondale Ave N,Erb St W,Avondale Ave N,Waterloo,Active,-80.53031996,43.46226
+GRT,13493,Old Zeller Dr at Pebblecreek Dr,Old Zeller Dr,Pebblecreek Dr,Kitchener,Active,-80.40668,43.451058
+GRT,11596,King St W at Kitchener Collegiate Institute,King St W,Kitchener Collegiate Institute,Kitchener,Active,-80.508273,43.455955
+GRT,12396,Driftwood Dr at Westheights Dr,Driftwood Dr,Westheights Dr,Kitchener,Active,-80.53895796,43.41911796
+GRT,11682,Franklin St N at Kenneth Ave,Franklin St N,Kenneth Ave,Kitchener,Active,-80.44684299,43.44123298
+GRT,11844,University Ave E at Marsland Dr,University Ave E,Marsland Dr,Waterloo,Active,-80.51619803,43.47930199
+GRT,10769,Pinnacle Dr at Amherst Dr,Pinnacle Dr,Amherst Dr,Kitchener,Active,-80.41475198,43.39140314
+GRT,10045,Fairway Rd S at King St E,Fairway Rd S,King St E,Kitchener,Active,-80.43288195,43.42754698
+GRT,13721,The Boardwalk at Medical Centre,The Boardwalk,Medical Centre,Waterloo,Active,-80.565481,43.440242
+GRT,11073,University Ave E at Lexington Rd,University Ave E,Lexington Rd,Waterloo,Active,-80.49658195,43.50459499
+GRT,13894,Thomas Slee Dr at Robert Ferrie Dr,Thomas Slee Dr,Robert Ferrie Dr,Kitchener,Active,-80.42493174,43.37596574
+GRT,13244,Westvale Dr at Heather Hill Pl,Westvale Dr,Heather Hill Pl,Waterloo,Active,-80.55822,43.448411
+GRT,11664,Montgomery Rd at Weber St E,Montgomery Rd,Weber St E,Kitchener,Detour,-80.45833704,43.43805699
+GRT,11342,Champlain Blvd at Franklin Blvd,Champlain Blvd,Franklin Blvd,Cambridge,Active,-80.28942798,43.34849698
+GRT,12014,Activa Ave at Donnenwerth Dr,Activa Ave,Donnenwerth Dr,Kitchener,Active,-80.50979696,43.40307703
+GRT,13689,Stonecroft Way at Amberdale Way (Flex Stop),Stonecroft Way,Amberdale Way (Flex Stop),Wilmot,Active,-80.700522,43.366374
+GRT,13388,Grand River Hospital Station at ION platform - Southbound,Grand River Hospital Station,ION platform - Southbound,Kitchener,Active,-80.51207,43.457268
+GRT,10621,King St E at Concession St,King St E,Concession St,Cambridge,Active,-80.34234296,43.38768997
+GRT,11475,Lancaster St W at Hamel Ave,Lancaster St W,Hamel Ave,Kitchener,Active,-80.484337,43.47525999
+GRT,13532,Bingemans Centre Dr at Victoria St N,Bingemans Centre Dr,Victoria St N,Kitchener,Active,-80.441375,43.472313
+GRT,10960,Eastbridge Blvd at Eastbridge Green,Eastbridge Blvd,Eastbridge Green,Waterloo,Active,-80.505641,43.504478
+GRT,11497,Lancaster St W at Hill St,Lancaster St W,Hill St,Kitchener,Active,-80.484247,43.46411999
+GRT,11303,Grand Ridge Dr at St Andrews St,Grand Ridge Dr,St Andrews St,Cambridge,Active,-80.33413504,43.34073796
+GRT,11479,Bridge St E at Schweitzer St,Bridge St E,Schweitzer St,Kitchener,Active,-80.47419495,43.47895299
+GRT,10986,Bridgeport Rd E at Ellis Cres,Bridgeport Rd E,Ellis Cres,Waterloo,Active,-80.50802498,43.47163796
+GRT,10545,Ainslie Terminal at Stop 1517,Ainslie Terminal,Stop 1517,Cambridge,Active,-80.31274996,43.35758104
+GRT,11989,Mill St at Borden Pky,Mill St,Borden Pky,Kitchener,Active,-80.48289998,43.43506797
+GRT,10160,Albert St at Weber St N,Albert St,Weber St N,Waterloo,Active,-80.537553,43.49155504
+GRT,13914,Block Line Rd at Country Hill Dr,Block Line Rd,Country Hill Dr,Kitchener,Active,-80.47626195,43.41715201
+GRT,13593,Hespeler Rd at Eagle,Hespeler Rd,Eagle,Cambridge,Active,-80.328043,43.407203
+GRT,13077,University Ave E at Pastern Trail,University Ave E,Pastern Trail,Waterloo,Active,-80.49095745,43.49194633
+GRT,12357,Queens Blvd at Highland Rd W,Queens Blvd,Highland Rd W,Kitchener,Active,-80.49881797,43.44038202
+GRT,10690,Morgan Ave at Southill Dr,Morgan Ave,Southill Dr,Kitchener,Active,-80.42760729,43.42821803
+GRT,12809,Huron Rd at Parkvale Dr,Huron Rd,Parkvale Dr,Kitchener,Active,-80.471627,43.389173
+GRT,12581,Queen St W at Winston Blvd,Queen St W,Winston Blvd,Cambridge,Active,-80.31850803,43.42764195
+GRT,13706,Scott St at Duke St E (Temporary Stop),Scott St,Duke St E (Temporary Stop),Kitchener,Detour,-80.485221,43.449811
+GRT,11135,Northfield Dr E at Wissler Rd,Northfield Dr E,Wissler Rd,Waterloo,Active,-80.52586696,43.50511196
+GRT,11238,George St at James St,George St,James St,Cambridge,Active,-80.32085304,43.36657204
+GRT,13888,Fischer-Hallman Rd at Rockwood Rd,Fischer-Hallman Rd,Rockwood Rd,Kitchener,Active,-80.49733109,43.40408543
+GRT,11060,Bridge St W at Woolwich St,Bridge St W,Woolwich St,Kitchener,Active,-80.48439803,43.48279498
+GRT,10206,Northfield Dr W at Parkside Dr,Northfield Dr W,Parkside Dr,Waterloo,Active,-80.54620997,43.49694799
+GRT,10550,Ainslie Terminal at Stop 1522,Ainslie Terminal,Stop 1522,Cambridge,Active,-80.313486,43.35696499
+GRT,10776,Pioneer Dr at Old Carriage Dr,Pioneer Dr,Old Carriage Dr,Kitchener,Active,-80.43366202,43.39428504
+GRT,12802,Bridge St W at Lexington Rd,Bridge St W,Lexington Rd,Waterloo,Active,-80.503567,43.49813296
+GRT,10499,Ainslie St N at Simcoe St,Ainslie St N,Simcoe St,Cambridge,Active,-80.31456294,43.36556502
+GRT,10568,Franklin Blvd at Avenue Rd,Franklin Blvd,Avenue Rd,Cambridge,Active,-80.2983896,43.37916147
+GRT,10560,Savage Dr at Dobbie Dr,Savage Dr,Dobbie Dr,Cambridge,Active,-80.28574599,43.36658801
+GRT,10613,King St E at Eagle St S,King St E,Eagle St S,Cambridge,Active,-80.36368128,43.39852176
+GRT,13108,Thompson Dr at Pinebush Rd,Thompson Dr,Pinebush Rd,Cambridge,Active,-80.2855983,43.41215385
+GRT,13267,King St N at High Crest Lane W,King St N,High Crest Lane W,Woolwich,Active,-80.554343,43.535182
+GRT,12023,Wilderness Dr at Pine Martin Cres,Wilderness Dr,Pine Martin Cres,Kitchener,Active,-80.513898,43.41061702
+GRT,13871,Woodbine Ave at Maitland St,Woodbine Ave,Maitland St,Kitchener,Active,-80.48406813,43.38611787
+GRT,13430,Victoria St N at Margaret Ave,Victoria St N,Margaret Ave,Kitchener,Active,-80.488844,43.45655
+GRT,12787,Columbia St E at Marsland Dr,Columbia St E,Marsland Dr,Waterloo,Active,-80.519865,43.484378
+GRT,12002,Rittenhouse Rd at Erinbrook Dr,Rittenhouse Rd,Erinbrook Dr,Kitchener,Active,-80.48460504,43.40957697
+GRT,13201,Columbia St W at Salzburg Dr,Columbia St W,Salzburg Dr,Waterloo,Active,-80.582848,43.460369
+GRT,11645,Connaught St at Fourth Ave,Connaught St,Fourth Ave,Kitchener,Active,-80.45400804,43.43105501
+GRT,11500,Wellington St N at St Leger St,Wellington St N,St Leger St,Kitchener,Active,-80.48681803,43.45982998
+GRT,10689,Morgan Ave at Greendale Cres,Morgan Ave,Greendale Cres,Kitchener,Active,-80.42474668,43.42733007
+GRT,13912,Robert Ferrie Dr at Blair Creek Dr,Robert Ferrie Dr,Blair Creek Dr,Kitchener,Active,-80.42286841,43.37448263
+GRT,12664,New Bedford Dr at Starboard Cres,New Bedford Dr,Starboard Cres,Waterloo,Active,-80.50429002,43.51061195
+GRT,12854,First St W at Snyder Ave S,First St W,Snyder Ave S,Woolwich,Active,-80.56337436,43.59234043
+GRT,10827,Trillium Dr at Shoemaker St,Trillium Dr,Shoemaker St,Kitchener,Active,-80.46623503,43.40172697
+GRT,10109,Columbia St W at Cavendish Dr,Columbia St W,Cavendish Dr,Waterloo,Active,-80.57678296,43.46401
+GRT,11399,Victoria St N at Forfar Ave,Victoria St N,Forfar Ave,Kitchener,Active,-80.45447995,43.46736301
+GRT,12317,Westwood Dr at Westwood Cres,Westwood Dr,Westwood Cres,Kitchener,Active,-80.52958199,43.44513804
+GRT,12116,Hoffman St at Highland Rd E,Hoffman St,Highland Rd E,Kitchener,Active,-80.48708202,43.43055897
+GRT,12954,Belmont Ave W at Glasglow St,Belmont Ave W,Glasglow St,Kitchener,Active,-80.51720006,43.45198053
+GRT,12928,Bishop St N at 690 Bishop St N,Bishop St N,690 Bishop St N,Cambridge,Active,-80.33654655,43.39301873
+GRT,13670,Activa Ave at Grey Fox Dr,Activa Ave,Grey Fox Dr,Kitchener,Active,-80.508928,43.413217
+GRT,13805,Ottawa St S at Mill St,Ottawa St S,Mill St,Kitchener,Active,-80.478631,43.433962
+GRT,10853,Black Walnut Dr at Biehn Dr,Black Walnut Dr,Biehn Dr,Kitchener,Active,-80.45514795,43.393135
+GRT,10155,Cedarbrae Ave at Heasley Park Trail,Cedarbrae Ave,Heasley Park Trail,Waterloo,Active,-80.55008486,43.4879488
+GRT,12186,Hazelglen Dr at Chopin Dr,Hazelglen Dr,Chopin Dr,Kitchener,Active,-80.52419501,43.43862699
+GRT,11012,Keats Way at Sanford Fleming Dr,Keats Way,Sanford Fleming Dr,Waterloo,Active,-80.56489695,43.45695702
+GRT,10456,Langs Dr at Fairview Mennonite Home,Langs Dr,Fairview Mennonite Home,Cambridge,Active,-80.34263301,43.39843696
+GRT,13422,Highland Rd W at Westheights Dr,Highland Rd W,Westheights Dr,Kitchener,Active,-80.531695,43.429384
+GRT,12984,Westmount Rd W at Union Blvd,Westmount Rd W,Union Blvd,Kitchener,Active,-80.52578763,43.45251964
+GRT,11026,Westvale Dr at Eden Valley Cres,Westvale Dr,Eden Valley Cres,Waterloo,Active,-80.56014004,43.44586301
+GRT,12169,Victoria St S at Joseph St,Victoria St S,Joseph St,Kitchener,Active,-80.500278,43.450557
+GRT,13178,The Boardwalk Station at Stop 4001,The Boardwalk Station,Stop 4001,Kitchener,Active,-80.560344,43.435392
+GRT,13527,Bingemans Centre Dr at 400 Bingemans Centre Dr,Bingemans Centre Dr,400 Bingemans Centre Dr,Kitchener,Active,-80.45251999,43.47078272
+GRT,11913,Franklin St N at Bradley Dr,Franklin St N,Bradley Dr,Kitchener,Active,-80.44847501,43.44459502
+GRT,13650,Waterloo St at Christner,Waterloo St,Christner,Wilmot,Active,-80.70431,43.397171
+GRT,10470,King St E at Montrose St,King St E,Montrose St,Cambridge,Active,-80.34922696,43.39108003
+GRT,11255,Churchill Dr at Westgate Crt,Churchill Dr,Westgate Crt,Cambridge,Active,-80.33051503,43.35388999
+GRT,11991,Mill St at Ottawa St S,Mill St,Ottawa St S,Kitchener,Active,-80.47901802,43.43417197
+GRT,10311,Holiday Inn Dr at Franklin Blvd,Holiday Inn Dr,Franklin Blvd,Cambridge,Active,-80.31141798,43.41798799
+GRT,10254,Kerwood Dr at Gees Way,Kerwood Dr,Gees Way,Cambridge,Active,-80.293117,43.43094299
+GRT,13694,Hamilton Rd at Marvin St (Flex Stop),Hamilton Rd,Marvin St (Flex Stop),Wilmot,Active,-80.696526,43.379179
+GRT,10622,Coronation Blvd at Oriole Ave,Coronation Blvd,Oriole Ave,Cambridge,Active,-80.33928,43.38567202
+GRT,13373,Conestoga Station at ION platform - Southbound,Conestoga Station,ION platform - Southbound,Waterloo,Active,-80.529428,43.498309
+GRT,11229,Champlain Blvd at Brierdale Rd,Champlain Blvd,Brierdale Rd,Cambridge,Active,-80.29697503,43.34704
+GRT,13137,Shirley Dr at Cedarview Pl,Shirley Dr,Cedarview Pl,Kitchener,Active,-80.43377217,43.47684939
+GRT,11572,Ring Rd at University of Waterloo - B.C. Matthews Hall,Ring Rd,University of Waterloo - B.C. Matthews Hall,Waterloo,Active,-80.54622695,43.47393197
+GRT,12209,Keats Way at Midwood Cres,Keats Way,Midwood Cres,Waterloo,Active,-80.55446003,43.45787299
+GRT,11640,Greenfield Ave at Traynor Ave,Greenfield Ave,Traynor Ave,Kitchener,Active,-80.44519498,43.42562195
+GRT,13863,Fischer-Hallman Rd at Williamsburg Cemetery,Fischer-Hallman Rd,Williamsburg Cemetery,Kitchener,Active,-80.49125681,43.38981724
+GRT,12864,Farmers Market Rd at Benjamin Rd,Farmers Market Rd,Benjamin Rd,Woolwich,Active,-80.55580002,43.509883
+GRT,13353,Fisher Mills Rd at Scott Rd,Fisher Mills Rd,Scott Rd,Cambridge,Active,-80.32088,43.43535
+GRT,13843,Lennox Lewis Way at Hayward Ave,Lennox Lewis Way,Hayward Ave,Kitchener,Active,-80.47093847,43.42463798
+GRT,10061,Ottawa St N at Lackner Blvd,Ottawa St N,Lackner Blvd,Kitchener,Active,-80.43204695,43.45641702
+GRT,13279,Bishop St N at Cowansview Rd,Bishop St N,Cowansview Rd,Cambridge,Active,43.397357,-80.309168
+GRT,12285,Victoria St S at Strange St,Victoria St S,Strange St,Kitchener,Active,-80.50653701,43.44488301
+GRT,13495,Fairway Rd N at Pebblecreek Dr,Fairway Rd N,Pebblecreek Dr,Kitchener,Active,-80.409042,43.446705
+GRT,10013,River Rd E at Manchester Rd,River Rd E,Manchester Rd,Kitchener,Active,-80.45416802,43.45846696
+GRT,10651,King St E at Concession St,King St E,Concession St,Cambridge,Active,-80.34251302,43.38791196
+GRT,11897,Margaret Ave at Victoria St N,Margaret Ave,Victoria St N,Kitchener,Active,-80.48882701,43.45596195
+GRT,10663,Preston Pky at Hillview Rd,Preston Pky,Hillview Rd,Cambridge,Active,-80.37765001,43.39467003
+GRT,10667,Gateway Park Dr at 170 Gateway Park Dr,Gateway Park Dr,170 Gateway Park Dr,Kitchener,Active,-80.38608997,43.40582998
+GRT,13026,King St N at Ezra Ave,King St N,Ezra Ave,Waterloo,Active,-80.52427451,43.4723138
+GRT,11525,Margaret Ave at Guelph St,Margaret Ave,Guelph St,Kitchener,Active,-80.49456197,43.463365
+GRT,13094,Doon Village Rd at Anvil St,Doon Village Rd,Anvil St,Kitchener,Active,-80.43866257,43.39069881
+GRT,10538,Concession St at Cameron St,Concession St,Cameron St,Cambridge,Active,-80.30712196,43.35486303
+GRT,13583,Ring Rd at University of Waterloo - Quantum Nano Centre,Ring Rd,University of Waterloo - Quantum Nano Centre,Waterloo,Active,-80.54447,43.470719
+GRT,13250,Fischer-Hallman Rd N at Path to Laurel Gate Dr,Fischer-Hallman Rd N,Path to Laurel Gate Dr,Waterloo,Active,-80.57077,43.472392
+GRT,10742,Bechtel Dr at Sabrina Cres,Bechtel Dr,Sabrina Cres,Kitchener,Active,-80.44488299,43.38997703
+GRT,11240,Sunset Blvd at Bismark Dr,Sunset Blvd,Bismark Dr,Cambridge,Active,-80.32611797,43.37047504
+GRT,10759,Doon Valley Dr at Conestoga College Blvd,Doon Valley Dr,Conestoga College Blvd,Kitchener,Active,-80.41018001,43.39081503
+GRT,10312,Tannery St E at Queen St E,Tannery St E,Queen St E,Cambridge,Active,-80.309243,43.431587
+GRT,10988,Bridgeport Rd E at Weber St N,Bridgeport Rd E,Weber St N,Waterloo,Active,-80.51364997,43.46983704
+GRT,11347,Elgin St S at Main St,Elgin St S,Main St,Cambridge,Active,-80.29640204,43.35643696
+GRT,10050,Fairway Rd N at King St E,Fairway Rd N,King St E,Kitchener,Active,-80.43185499,43.42888299
+GRT,12872,Arthur St S at Scotch Line,Arthur St S,Scotch Line,Woolwich,Active,-80.56147203,43.56708801
+GRT,12819,Wellington St N at Weber St W,Wellington St N,Weber St W,Kitchener,Active,-80.49504631,43.45711346
+GRT,12968,Block Line Rd at Westmount Rd E,Block Line Rd,Westmount Rd E,Kitchener,Active,-80.4990788,43.41125099
+GRT,13402,Block Line Station at ION platform - Northbound,Block Line Station,ION platform - Northbound,Kitchener,Active,-80.462926,43.422825
+GRT,11106,Frobisher Dr at Davenport Rd,Frobisher Dr,Davenport Rd,Waterloo,Active,-80.529518,43.50528602
+GRT,11079,Eastbridge Blvd at Bridge St W,Eastbridge Blvd,Bridge St W,Waterloo,Active,-80.50929,43.503876
+GRT,10207,Northfield Dr W at Conestogo Rd W,Northfield Dr W,Conestogo Rd W,Waterloo,Active,-80.536994,43.500188
+GRT,11409,Queen St N at Ahrens St,Queen St N,Ahrens St,Kitchener,Active,-80.48633703,43.45338697
+GRT,12659,University Ave W at Westmount Rd N,University Ave W,Westmount Rd N,Waterloo,Active,-80.54145644,43.46449857
+GRT,12055,Activa Ave at Snowdrop Cres,Activa Ave,Snowdrop Cres,Kitchener,Active,-80.51806703,43.40274803
+GRT,11988,Mill St at St Andrew's Anglican Church,Mill St,St Andrew's Anglican Church,Kitchener,Active,-80.48608496,43.43610502
+GRT,10084,Frederick St at Bruce St,Frederick St,Bruce St,Kitchener,Active,-80.467853,43.46006801
+GRT,13139,Bingemans Centre Dr at Shirley Dr,Bingemans Centre Dr,Shirley Dr,Kitchener,Active,-80.443374,43.473667
+GRT,13703,Block Line Rd at Fallowfield Dr,Block Line Rd,Fallowfield Dr,Kitchener,Active,-80.4666,43.419023
+GRT,11841,University Ave W at King St N,University Ave W,King St N,Waterloo,Active,-80.52545,43.47582701
+GRT,10512,Franklin Blvd at Holiday Inn Dr,Franklin Blvd,Holiday Inn Dr,Cambridge,Active,-80.310762,43.418385
+GRT,11004,Erb St W at 300 Erb St W,Erb St W,300 Erb St W,Waterloo,Active,-80.54235897,43.45651399
+GRT,11856,Lee Ave at Dunvegan Dr,Lee Ave,Dunvegan Dr,Waterloo,Active,-80.50442903,43.49351997
+GRT,10540,Ainslie Terminal at Stop 1512,Ainslie Terminal,Stop 1512,Cambridge,Active,-80.31349995,43.35733401
+GRT,12175,Victoria St S at Alice Ave,Victoria St S,Alice Ave,Kitchener,Active,-80.51525695,43.44182802
+GRT,11459,Krug St at Lancaster St,Krug St,Lancaster St,Kitchener,Active,-80.48076999,43.44982203
+GRT,12979,Westmount Rd W at Highland Rd,Westmount Rd W,Highland Rd,Kitchener,Active,-80.51459317,43.43616592
+GRT,13860,Fischer-Hallman Rd at Max Becker Dr,Fischer-Hallman Rd,Max Becker Dr,Kitchener,Active,-80.499295,43.40563493
+GRT,11637,Greenfield Ave at Traynor Ave,Greenfield Ave,Traynor Ave,Kitchener,Active,-80.44547302,43.42558504
+GRT,10008,Frederick St at Ann St,Frederick St,Ann St,Kitchener,Active,-80.46978696,43.45929198
+GRT,10856,Bechtel Dr at Doon Village Dr,Bechtel Dr,Doon Village Dr,Kitchener,Active,-80.43992597,43.39195702
+GRT,11788,Traynor Ave at Siebert Ave,Traynor Ave,Siebert Ave,Kitchener,Active,-80.45485301,43.420568
+GRT,10111,Erbsville Rd at Willow Wood Dr,Erbsville Rd,Willow Wood Dr,Waterloo,Active,-80.58418695,43.46517301
+GRT,13473,Langs Dr at Shannon Dr,Langs Dr,Shannon Dr,Cambridge,Active,-80.338296,43.399212
+GRT,11424,Krug St at 623 Krug St,Krug St,623 Krug St,Kitchener,Active,-80.45781397,43.45832604
+GRT,12993,Westmount Rd S at Douglas St,Westmount Rd S,Douglas St,Waterloo,Active,-80.52908588,43.45566227
+GRT,10365,Saginaw Pky at Burnett Ave,Saginaw Pky,Burnett Ave,Cambridge,Active,-80.28548196,43.38954502
+GRT,12973,Ira Needles Blvd at Thorndale Dr,Ira Needles Blvd,Thorndale Dr,Waterloo,Active,-80.565642,43.442434
+GRT,11995,Ottawa St S at Alpine Rd,Ottawa St S,Alpine Rd,Kitchener,Active,-80.48407198,43.42510203
+GRT,12024,Wilderness Dr at Activa Ave,Wilderness Dr,Activa Ave,Kitchener,Active,-80.51051295,43.41026003
+GRT,13817,Ottawa St S at Westmount Rd E,Ottawa St S,Westmount Rd E,Kitchener,Active,-80.501241,43.420389
+GRT,11397,Natchez Rd at Rothsay Ave,Natchez Rd,Rothsay Ave,Kitchener,Active,-80.44830999,43.46795197
+GRT,12519,Erbsville Rd at Leighland Dr,Erbsville Rd,Leighland Dr,Waterloo,Active,-80.57637996,43.45792803
+GRT,12616,Sheldon Dr at Thompson Dr,Sheldon Dr,Thompson Dr,Cambridge,Active,-80.29572798,43.40821801
+GRT,12041,Fischer-Hallman Rd at McGarry Dr,Fischer-Hallman Rd,McGarry Dr,Kitchener,Active,-80.51939501,43.42366699
+GRT,13551,Ira Needles Blvd at Highland Marketplace,Ira Needles Blvd,Highland Marketplace,Kitchener,Active,-80.552825,43.425611
+GRT,13501,Old Zeller Dr at Zeller Dr,Old Zeller Dr,Zeller Dr,Kitchener,Active,-80.412095,43.454047
+GRT,11032,Erb St W at Fischer-Hallman Rd S,Erb St W,Fischer-Hallman Rd S,Waterloo,Active,-80.55283004,43.45260195
+GRT,11789,Traynor Ave at Belwood Cres,Traynor Ave,Belwood Cres,Kitchener,Active,-80.451867,43.42130301
+GRT,11680,Franklin St N at Shuh Ave,Franklin St N,Shuh Ave,Kitchener,Active,-80.44579496,43.437875
+GRT,13861,Fischer-Hallman Rd at Rockwood Rd,Fischer-Hallman Rd,Rockwood Rd,Kitchener,Active,-80.49750026,43.40385917
+GRT,12778,Northfield Dr E at Toman Dr,Northfield Dr E,Toman Dr,Waterloo,Active,-80.51873322,43.51540536
+GRT,10883,Manitou Dr at Webster Rd,Manitou Dr,Webster Rd,Kitchener,Active,-80.45064296,43.416373
+GRT,12360,Queens Blvd at Belmont Ave W,Queens Blvd,Belmont Ave W,Kitchener,Active,-80.50352994,43.43667002
+GRT,10806,Strasburg Rd at Bleams Rd,Strasburg Rd,Bleams Rd,Kitchener,Active,-80.47514798,43.40740502
+GRT,11992,Ottawa St S at Hoffman St,Ottawa St S,Hoffman St,Kitchener,Active,-80.47952504,43.43196802
+GRT,11903,Weber St E at Fairview Ave,Weber St E,Fairview Ave,Kitchener,Active,-80.47652495,43.44696301
+GRT,12751,Trillium Dr at 825 Trillium Dr,Trillium Dr,825 Trillium Dr,Kitchener,Active,-80.4841506,43.39955728
+GRT,13057,University Ave W at Sunview St,University Ave W,Sunview St,Waterloo,Active,-80.532244,43.47339
+GRT,11521,Union St E at Ellis Cres,Union St E,Ellis Cres,Waterloo,Active,-80.50301501,43.466065
+GRT,10072,River Rd E at Bradley Dr,River Rd E,Bradley Dr,Kitchener,Active,-80.44133197,43.44587301
+GRT,13234,Lincoln Rd at Weber St N,Lincoln Rd,Weber St N,Waterloo,Active,-80.513586,43.47127
+GRT,13712,Cambridge Centre Station at Stop 1066,Cambridge Centre Station,Stop 1066,Cambridge,Active,-80.322822,43.392958
+GRT,10063,Oldfield Dr at Jadestone Crt,Oldfield Dr,Jadestone Crt,Kitchener,Active,-80.43077303,43.45239503
+GRT,12056,Activa Ave at Reistview St,Activa Ave,Reistview St,Kitchener,Active,-80.51444799,43.40248002
+GRT,10421,Dunbar Rd at St George St,Dunbar Rd,St George St,Cambridge,Active,-80.33769998,43.38771197
+GRT,10215,Frobisher Dr at Davenport Rd,Frobisher Dr,Davenport Rd,Waterloo,Active,-80.52920795,43.50535803
+GRT,10991,King St N at Bridgeport Rd W,King St N,Bridgeport Rd W,Waterloo,Active,-80.52307696,43.46733696
+GRT,13038,Vondrau Dr at Boxwood Dr,Vondrau Dr,Boxwood Dr,Cambridge,Active,-80.3751,43.429506
+GRT,11551,Weber St W at Wilhelm St,Weber St W,Wilhelm St,Kitchener,Active,-80.497418,43.459034
+GRT,13334,Fisher Mills Rd at Scott Rd,Fisher Mills Rd,Scott Rd,Cambridge,Active,-80.319992,43.435358
+GRT,11278,Myers Rd at Elgin St S,Myers Rd,Elgin St S,Cambridge,Active,-80.29148197,43.34268698
+GRT,11777,Courtland Ave E at Sydney St,Courtland Ave E,Sydney St,Kitchener,Active,-80.47527495,43.43582204
+GRT,12951,Fischer-Hallman Rd at Activa Ave,Fischer-Hallman Rd,Activa Ave,Kitchener,Active,-80.50799588,43.41327835
+GRT,11567,Columbia St W at Lester St,Columbia St W,Lester St,Waterloo,Active,-80.53743494,43.47797199
+GRT,13877,Parkvale Dr at Featherstone St,Parkvale Dr,Featherstone St,Kitchener,Active,-80.47619369,43.38882359
+GRT,13580,Halifax Dr at Confederation Dr,Halifax Dr,Confederation Dr,Kitchener,Active,-80.445463,43.461771
+GRT,12976,Ira Needles Blvd at Erb St W,Ira Needles Blvd,Erb St W,Waterloo,Active,-80.570481,43.445415
+GRT,11674,Thaler Ave at 147 Thaler Ave,Thaler Ave,147 Thaler Ave,Kitchener,Active,-80.43128304,43.43408497
+GRT,10101,Columbia St W at University of Waterloo - Village 1,Columbia St W,University of Waterloo - Village 1,Waterloo,Active,-80.55098304,43.47315996
+GRT,13249,Fischer-Hallman Rd N at Gatestone Blvd,Fischer-Hallman Rd N,Gatestone Blvd,Waterloo,Active,-80.568257,43.470116
+GRT,11820,Belmont Ave W at Gage Ave,Belmont Ave W,Gage Ave,Kitchener,Active,-80.51414801,43.44773303
+GRT,12850,Snyder Ave S at Church St W,Snyder Ave S,Church St W,Woolwich,Active,-80.56329694,43.60006564
+GRT,11732,University Ave W at Ring Rd Exit,University Ave W,Ring Rd Exit,Waterloo,Active,-80.540567,43.46618702
+GRT,11455,Krug St at East Ave,Krug St,East Ave,Kitchener,Active,-80.47255304,43.45269503
+GRT,10222,McMurray Rd at Northland Rd,McMurray Rd,Northland Rd,Waterloo,Active,-80.528472,43.50894
+GRT,10821,Trillium Dr at Steckle Pl,Trillium Dr,Steckle Pl,Kitchener,Active,-80.46063803,43.40269703
+GRT,13086,Doon Mills Dr at Woodsmere Dr,Doon Mills Dr,Woodsmere Dr,Kitchener,Active,-80.42851264,43.38284978
+GRT,13117,Sheldon Dr at Corydon Pl,Sheldon Dr,Corydon Pl,Cambridge,Active,-80.31420886,43.40280938
+GRT,11136,King St N at Northfield Dr E,King St N,Northfield Dr E,Waterloo,Active,-80.533603,43.502142
+GRT,13408,Hespeler Rd at Pinebush Station,Hespeler Rd,Pinebush Station,Cambridge,Active,-80.327784,43.4078
+GRT,12417,Queens Blvd at Pleasant Ave,Queens Blvd,Pleasant Ave,Kitchener,Active,-80.50089802,43.43767496
+GRT,10503,Hespeler Rd at Avenue Rd,Hespeler Rd,Avenue Rd,Cambridge,Active,-80.31854,43.37692202
+GRT,11049,Erb St E at Ellis Cres,Erb St E,Ellis Cres,Waterloo,Active,-80.50630796,43.47003496
+GRT,13216,Bridge St W at University Ave E,Bridge St W,University Ave E,Waterloo,Active,-80.493742,43.489037
+GRT,12837,Bishop St N at 1300 Bishop St N,Bishop St N,1300 Bishop St N,Cambridge,Active,-80.32442621,43.39509948
+GRT,12772,Frobisher Dr at Bridge St W,Frobisher Dr,Bridge St W,Waterloo,Active,-80.52326695,43.51191698
+GRT,11828,Westmount Rd S at John St W,Westmount Rd S,John St W,Waterloo,Active,-80.52760496,43.45444696
+GRT,13398,Borden Station at ION platform - Northbound,Borden Station,ION platform - Northbound,Kitchener,Active,-80.475361,43.442419
+GRT,12094,Old Country Dr at 80 Old Country Dr,Old Country Dr,80 Old Country Dr,Kitchener,Active,-80.47466703,43.41159496
+GRT,10112,Laurelwood Dr at Erbsville Rd,Laurelwood Dr,Erbsville Rd,Waterloo,Active,-80.59245803,43.47146196
+GRT,12991,Keats Way at Fischer-Hallman Rd N,Keats Way,Fischer-Hallman Rd N,Waterloo,Active,-80.557256,43.45819549
+GRT,13553,Oldfield Dr at Ottawa St N,Oldfield Dr,Ottawa St N,Kitchener,Active,-80.431981,43.455515
+GRT,10424,Bishop St N at Duke St,Bishop St N,Duke St,Cambridge,Active,-80.34633297,43.39075302
+GRT,11139,King St N at Henry St,King St N,Henry St,Woolwich,Active,-80.55456195,43.53299298
+GRT,10211,Davenport Rd at Old Abbey Rd,Davenport Rd,Old Abbey Rd,Waterloo,Active,-80.52560995,43.49994799
+GRT,10616,King St E at Lowther St,King St E,Lowther St,Cambridge,Active,-80.35528804,43.39418001
+GRT,12895,Bishop St N at Industrial Rd,Bishop St N,Industrial Rd,Cambridge,Active,-80.32932017,43.39422143
+GRT,11161,Franklin Blvd at 470 Franklin Blvd,Franklin Blvd,470 Franklin Blvd,Cambridge,Active,-80.29301801,43.36768497
+GRT,12284,Victoria St S at Patricia Ave,Victoria St S,Patricia Ave,Kitchener,Active,-80.50825295,43.44434503
+GRT,10531,Franklin Blvd at Hilltop Dr,Franklin Blvd,Hilltop Dr,Cambridge,Active,-80.29189003,43.36474701
+GRT,13039,Maple Grove Rd at Vondrau Dr,Maple Grove Rd,Vondrau Dr,Cambridge,Active,-80.374365,43.425363
+GRT,10709,Lackner Blvd at Victoria St N,Lackner Blvd,Victoria St N,Kitchener,Active,-80.44065999,43.47089697
+GRT,10907,Weber St E at Dellroy Ave,Weber St E,Dellroy Ave,Kitchener,Active,-80.45097697,43.43561002
+GRT,12162,Stirling Ave S at Lorne Ave,Stirling Ave S,Lorne Ave,Kitchener,Active,-80.49378004,43.43533298
+GRT,10017,River Rd E at Ottawa St N,River Rd E,Ottawa St N,Kitchener,Active,-80.444683,43.45123296
+GRT,10789,Manitou Dr at 334 Manitou Dr,Manitou Dr,334 Manitou Dr,Kitchener,Active,-80.4480976,43.40412386
+GRT,10780,Pioneer Dr at Doon Village Rd,Pioneer Dr,Doon Village Rd,Kitchener,Active,-80.44553997,43.39532696
+GRT,12678,Bleams Rd at Fallowfield Dr,Bleams Rd,Fallowfield Dr,Kitchener,Active,-80.45779441,43.41101323
+GRT,10615,King St E at Westminister Dr,King St E,Westminister Dr,Cambridge,Active,-80.35805497,43.39562501
+GRT,13115,Sheldon Dr at 100 Sheldon Dr,Sheldon Dr,100 Sheldon Dr,Cambridge,Active,-80.30998342,43.40478391
+GRT,13261,Erbsville Rd at Cornridge Pl,Erbsville Rd,Cornridge Pl,Waterloo,Active,-80.578861,43.460339
+GRT,13801,Charles St E at Borden Ave S,Charles St E,Borden Ave S,Kitchener,Active,-80.474701,43.442371
+GRT,12315,Inwood Dr at Glasgow St,Inwood Dr,Glasgow St,Kitchener,Active,-80.52849797,43.44756002
+GRT,12612,Kerwood Dr at Housler Lane,Kerwood Dr,Housler Lane,Cambridge,Active,-80.29391995,43.43258803
+GRT,11625,King St E at Sydney St,King St E,Sydney St,Kitchener,Active,-80.46951097,43.44095903
+GRT,13042,Jamieson Pky at Patton Dr,Jamieson Pky,Patton Dr,Cambridge,Active,-80.28857337,43.42178979
+GRT,12239,Westmount Rd W at Overlea Dr,Westmount Rd W,Overlea Dr,Kitchener,Active,-80.51253803,43.43528701
+GRT,13412,Hespeler Rd at Can-Amera Station,Hespeler Rd,Can-Amera Station,Cambridge,Active,-80.321009,43.386523
+GRT,11318,Christopher Dr at Elliott St,Christopher Dr,Elliott St,Cambridge,Active,-80.30274799,43.35413703
+GRT,13432,Victoria St N at Lancaster St W,Victoria St N,Lancaster St W,Kitchener,Active,-80.482176,43.458806
+GRT,10505,Hespeler Rd at Bishop St,Hespeler Rd,Bishop St,Cambridge,Active,-80.323894,43.39572
+GRT,11425,Lorraine Ave at Baird Ave,Lorraine Ave,Baird Ave,Kitchener,Active,-80.44825499,43.45782497
+GRT,10460,Eagle St N at William St,Eagle St N,William St,Cambridge,Active,-80.36202696,43.40007499
+GRT,10011,Frederick St at River Rd E,Frederick St,River Rd E,Kitchener,Active,-80.46165777,43.46183099
+GRT,10574,Franklin Blvd at Turnbull Crt,Franklin Blvd,Turnbull Crt,Cambridge,Active,-80.30599498,43.40363302
+GRT,10226,Northland Rd at Rupert St,Northland Rd,Rupert St,Waterloo,Active,-80.534454,43.506596
+GRT,12455,Highland Rd E at Belmont Ave W,Highland Rd E,Belmont Ave W,Kitchener,Active,-80.50775999,43.43951304
+GRT,11598,King St W at Wellington St,King St W,Wellington St,Kitchener,Active,-80.503308,43.454373
+GRT,11676,King St E at Morgan Ave,King St E,Morgan Ave,Kitchener,Active,-80.43321495,43.42891504
+GRT,13375,Northfield Station at ION platform - Northbound,Northfield Station,ION platform - Northbound,Waterloo,Active,-80.543176,43.497206
+GRT,11734,Westmount Rd N at Westcourt Pl,Westmount Rd N,Westcourt Pl,Waterloo,Active,-80.53902699,43.46217696
+GRT,13426,Duke St W at Young St,Duke St W,Young St,Kitchener,Active,-80.491737,43.452335
+GRT,12370,Queens Blvd at Fischer-Hallman Rd S,Queens Blvd,Fischer-Hallman Rd S,Kitchener,Active,-80.524327,43.42855295
+GRT,11715,Union St E at Weber St S,Union St E,Weber St S,Waterloo,Active,-80.50521501,43.46546003
+GRT,13866,Ludolph St at West Oak Trail,Ludolph St,West Oak Trail,Kitchener,Active,-80.49481129,43.38330097
+GRT,11829,Westmount Rd S at William St,Westmount Rd S,William St,Waterloo,Active,-80.52906801,43.45589295
+GRT,13690,Stonecroft Way at Devonshire Dr (Flex Stop),Stonecroft Way,Devonshire Dr (Flex Stop),Wilmot,Active,-80.702064,43.368946
+GRT,12889,Baldwin Dr at Horton Walk,Baldwin Dr,Horton Walk,Cambridge,Active,-80.3071841,43.44759715
+GRT,11205,Grand Ave at Cedar St,Grand Ave,Cedar St,Cambridge,Active,-80.31728999,43.353032
+GRT,10881,Bleams Rd at Otanabee Dr,Bleams Rd,Otanabee Dr,Kitchener,Active,-80.45240497,43.41221199
+GRT,10389,Cowan Blvd at Robson Ave,Cowan Blvd,Robson Ave,Cambridge,Active,-80.29538421,43.38713336
+GRT,13579,Frederick St at Victoria St N,Frederick St,Victoria St N,Kitchener,Active,-80.458256,43.465475
+GRT,12046,Activa Ave at Wilderness Dr,Activa Ave,Wilderness Dr,Kitchener,Active,-80.51003002,43.41045998
+GRT,10766,Doon Valley Dr at Orchard Mill Cres,Doon Valley Dr,Orchard Mill Cres,Kitchener,Active,-80.40980502,43.39120497
+GRT,10890,Manitou Dr at Fairway Rd,Manitou Dr,Fairway Rd,Kitchener,Active,-80.45307004,43.41827796
+GRT,13025,King St N at Marshall,King St N,Marshall,Waterloo,Active,-80.52405569,43.47247136
+GRT,11684,Franklin St N at Bradley Dr,Franklin St N,Bradley Dr,Kitchener,Active,-80.44834302,43.44466497
+GRT,13514,Shirley Ave at Riverbend Dr,Shirley Ave,Riverbend Dr,Kitchener,Active,-80.46716441,43.46700026
+GRT,12610,Queen St W at Adam St,Queen St W,Adam St,Cambridge,Active,-80.31204738,43.43064772
+GRT,13256,Laurelwood Dr at Erbsville Rd,Laurelwood Dr,Erbsville Rd,Waterloo,Active,-80.59272,43.471447
+GRT,10889,Fairway Rd S at Manitou Dr,Fairway Rd S,Manitou Dr,Kitchener,Active,-80.45148499,43.41967999
+GRT,11575,Columbia St W at Lester St,Columbia St W,Lester St,Waterloo,Active,-80.53726198,43.47785695
+GRT,13698,Block Line Rd at Country Hill Dr,Block Line Rd,Country Hill Dr,Kitchener,Active,-80.476023,43.417036
+GRT,11519,Weber St S at Hartwood Ave,Weber St S,Hartwood Ave,Waterloo,Active,-80.50297,43.463992
+GRT,10989,Bridgeport Rd E at Devitt Ave,Bridgeport Rd E,Devitt Ave,Waterloo,Active,-80.51523199,43.46917001
+GRT,13852,Weber St N at Golden Eagle Rd,Weber St N,Golden Eagle Rd,Waterloo,Active,-80.55138072,43.49901593
+GRT,13380,University of Waterloo Station at ION platform - Southbound,University of Waterloo Station,ION platform - Southbound,Waterloo,Active,-80.541209,43.473261
+GRT,12404,Elm Ridge Dr at Hickory Heights Cres,Elm Ridge Dr,Hickory Heights Cres,Kitchener,Active,-80.52156802,43.42263801
+GRT,10537,Concession St at Peck St,Concession St,Peck St,Cambridge,Active,-80.30409199,43.35537804
+GRT,12402,McGarry Dr at Pinehurst Cres,McGarry Dr,Pinehurst Cres,Kitchener,Active,-80.522407,43.42154798
+GRT,12870,Arthur St S at Gerrat Dr,Arthur St S,Gerrat Dr,Woolwich,Active,-80.55524722,43.55407005
+GRT,13486,Oldfield Dr at Edenbridge Dr,Oldfield Dr,Edenbridge Dr,Kitchener,Active,-80.428804,43.449248
+GRT,10157,Cedarbrae Ave at Sprucehill Ave,Cedarbrae Ave,Sprucehill Ave,Waterloo,Active,-80.54806001,43.48961399
+GRT,12764,Lexington Rd at Bridge St,Lexington Rd,Bridge St,Waterloo,Active,-80.50503298,43.49801697
+GRT,10377,Saginaw Pky at Green Vista Dr,Saginaw Pky,Green Vista Dr,Cambridge,Active,-80.30050495,43.39161604
+GRT,11889,Weber St N at Marshall St,Weber St N,Marshall St,Waterloo,Active,-80.51744296,43.47503801
+GRT,10534,Main St at Dundas St N,Main St,Dundas St N,Cambridge,Active,-80.29295081,43.35732126
+GRT,12640,Fairway Rd N at Briarmeadow Dr,Fairway Rd N,Briarmeadow Dr,Kitchener,Active,-80.42091799,43.43983698
+GRT,12027,Fischer-Hallman Rd at Ottawa St S,Fischer-Hallman Rd,Ottawa St S,Kitchener,Active,-80.51086996,43.41657003
+GRT,10535,Main St at Elgin St S,Main St,Elgin St S,Cambridge,Active,-80.296798,43.35659298
+GRT,10443,Concession Rd at Dolph St N,Concession Rd,Dolph St N,Cambridge,Active,-80.34601296,43.40004197
+GRT,12684,Eckert St at Dixon St,Eckert St,Dixon St,Kitchener,Active,-80.45880795,43.43437997
+GRT,12898,Franklin Blvd at Edward St,Franklin Blvd,Edward St,Cambridge,Active,-80.30996102,43.42683835
+GRT,13008,University Ave W at Hazel St,University Ave W,Hazel St,Waterloo,Active,-80.52789997,43.47524001
+GRT,13470,Wellington St N at Weber St W,Wellington St N,Weber St W,Kitchener,Detour,-80.49461,43.457131
+GRT,10394,Saginaw Pky at Chamberlin Dr,Saginaw Pky,Chamberlin Dr,Cambridge,Active,-80.28830002,43.38989803
+GRT,13274,King St N at Columbia St E,King St N,Columbia St E,Waterloo,Active,-80.526106,43.482448
+GRT,11564,Columbia St W at Holly St,Columbia St W,Holly St,Waterloo,Active,-80.52968698,43.48070297
+GRT,11971,Mill St at Heiman St,Mill St,Heiman St,Kitchener,Active,-80.48564298,43.435838
+GRT,12785,Lexington Rd at Dearborn Blvd,Lexington Rd,Dearborn Blvd,Waterloo,Active,-80.516945,43.490208
+GRT,10777,Pioneer Dr at Bechtel Dr,Pioneer Dr,Bechtel Dr,Kitchener,Active,-80.43689104,43.39353297
+GRT,11421,Krug St at Cambridge Ave,Krug St,Cambridge Ave,Kitchener,Active,-80.46387201,43.45559803
+GRT,12372,Elm Ridge Dr at Queens Blvd,Elm Ridge Dr,Queens Blvd,Kitchener,Active,-80.52757998,43.42664502
+GRT,10857,Pioneer Dr at Old Carriage Dr,Pioneer Dr,Old Carriage Dr,Kitchener,Active,-80.43422703,43.3939
+GRT,13709,Cambridge Centre Station at Stop 1063,Cambridge Centre Station,Stop 1063,Cambridge,Active,-80.322735,43.392495
+GRT,10750,Pioneer Dr at Homer Watson Blvd,Pioneer Dr,Homer Watson Blvd,Kitchener,Active,-80.43150996,43.39560503
+GRT,13158,Kraus Dr at Northfield Dr E,Kraus Dr,Northfield Dr E,Waterloo,Active,-80.530614,43.50147446
+GRT,10247,Queen St E at Renwick Ave,Queen St E,Renwick Ave,Cambridge,Active,-80.3037201,43.4366186
+GRT,13230,Lincoln Rd at Marshall St,Lincoln Rd,Marshall St,Waterloo,Active,-80.509273,43.476335
+GRT,10792,Wabanaki Dr at Wilson Ave,Wabanaki Dr,Wilson Ave,Kitchener,Active,-80.44127798,43.40926501
+GRT,12871,Arthur St S at Scotch Line,Arthur St S,Scotch Line,Woolwich,Active,-80.56128496,43.56713186
+GRT,10553,Concession St at Christopher St,Concession St,Christopher St,Cambridge,Active,-80.30390301,43.3553
+GRT,11448,Krug St at Sherwood Ave,Krug St,Sherwood Ave,Kitchener,Active,-80.460928,43.457502
+GRT,11839,University Ave W at Hemlock St,University Ave W,Hemlock St,Waterloo,Active,-80.53031004,43.47412697
+GRT,11052,Bridgeport Rd at Leander Pl,Bridgeport Rd,Leander Pl,Kitchener,Active,-80.48953199,43.474935
+GRT,13822,Hespeler Rd at 605 Hespeler Rd,Hespeler Rd,605 Hespeler Rd,Cambridge,Active,-80.326727,43.404535
+GRT,12219,Keats Way at Path to McCarron Cres,Keats Way,Path to McCarron Cres,Waterloo,Active,-80.55201295,43.45732697
+GRT,10473,Fairview Rd at Bishop St N,Fairview Rd,Bishop St N,Cambridge,Active,-80.34191997,43.39175302
+GRT,10954,Northfield Dr E at Wissler Rd,Northfield Dr E,Wissler Rd,Waterloo,Active,-80.52555197,43.50521499
+GRT,12020,David Bergey Dr at Ottawa St S,David Bergey Dr,Ottawa St S,Kitchener,Active,-80.52199498,43.41038296
+GRT,12050,Ottawa St S at International Pl,Ottawa St S,International Pl,Kitchener,Active,-80.51943195,43.41196496
+GRT,10979,Lancaster St W at Lang Cres,Lancaster St W,Lang Cres,Kitchener,Active,-80.48449303,43.478062
+GRT,10364,Saginaw Pky at Chamberlin Dr,Saginaw Pky,Chamberlin Dr,Cambridge,Active,-80.28894496,43.38999702
+GRT,12953,Fischer-Hallman Rd at Westmount Rd E,Fischer-Hallman Rd,Westmount Rd E,Kitchener,Active,-80.5015778,43.40750134
+GRT,11188,Salisbury Ave at Southgate Rd,Salisbury Ave,Southgate Rd,Cambridge,Active,-80.33659199,43.35654499
+GRT,10870,Old Huron Rd at Maxwell Dr,Old Huron Rd,Maxwell Dr,Kitchener,Active,-80.45812995,43.39726201
+GRT,13007,Courtland Ave E at Stirling Ave S,Courtland Ave E,Stirling Ave S,Kitchener,Active,-80.48477028,43.44131405
+GRT,13414,Water St N at Dundas St N,Water St N,Dundas St N,Cambridge,Active,-80.318223,43.37283
+GRT,10746,Pioneer Dr at Doon Village Rd,Pioneer Dr,Doon Village Rd,Kitchener,Active,-80.44515196,43.39527997
+GRT,11916,Franklin St N at Trafalgar Ave,Franklin St N,Trafalgar Ave,Kitchener,Active,-80.44636698,43.43975201
+GRT,13853,Weber St N at Randall Dr,Weber St N,Randall Dr,Waterloo,Active,-80.55294434,43.5011074
+GRT,10167,Hazel St at Waterloo Collegiate Institute,Hazel St,Waterloo Collegiate Institute,Waterloo,Active,-80.53103103,43.47895499
+GRT,11774,Courtland Ave E at Schneider's,Courtland Ave E,Schneider's,Kitchener,Active,-80.480285,43.438748
+GRT,10921,King St E at Cedar St,King St E,Cedar St,Kitchener,Active,-80.48357404,43.44735003
+GRT,13078,Highland Rd E at Spadina Rd E,Highland Rd E,Spadina Rd E,Kitchener,Active,-80.49306994,43.43868565
+GRT,13389,Central Station at ION platform - Southbound,Central Station,ION platform - Southbound,Kitchener,Active,-80.499172,43.45308
+GRT,10897,Strasburg Rd at Bleams Rd,Strasburg Rd,Bleams Rd,Kitchener,Active,-80.47501303,43.40764297
+GRT,10423,Concession Rd at 1665 Concession Rd,Concession Rd,1665 Concession Rd,Cambridge,Active,-80.34239197,43.38951301
+GRT,11650,Wilson Ave at Balfour Cres,Wilson Ave,Balfour Cres,Kitchener,Active,-80.44507196,43.42274
+GRT,10331,Holiday Inn Dr at Baptist Seminary,Holiday Inn Dr,Baptist Seminary,Cambridge,Active,-80.32426504,43.41751502
+GRT,10000,Frederick St at King St E,Frederick St,King St E,Kitchener,Active,-80.48719502,43.44966701
+GRT,10182,Albert St at Longwood Dr,Albert St,Longwood Dr,Waterloo,Active,-80.53916294,43.49054201
+GRT,10251,McMeeken Dr at Werstine Terr,McMeeken Dr,Werstine Terr,Cambridge,Active,-80.29402702,43.43811004
+GRT,13431,Victoria St N at Lancaster St W,Victoria St N,Lancaster St W,Kitchener,Active,-80.482151,43.45859
+GRT,13019,Hagey Blvd at Wes Graham Way,Hagey Blvd,Wes Graham Way,Waterloo,Active,-80.54958696,43.47924997
+GRT,13552,Ira Needles Blvd at Path to Westmeadow Dr,Ira Needles Blvd,Path to Westmeadow Dr,Kitchener,Active,-80.552512,43.425822
+GRT,11749,Belmont Ave W at Gage Ave,Belmont Ave W,Gage Ave,Kitchener,Active,-80.51428796,43.447603
+GRT,12758,Fairway Rd N at River Rd E,Fairway Rd N,River Rd E,Kitchener,Active,-80.42814305,43.434787
+GRT,12362,Queens Blvd at Hahn Pl,Queens Blvd,Hahn Pl,Kitchener,Active,-80.508267,43.43416699
+GRT,10904,Weber St E at Fergus Ave,Weber St E,Fergus Ave,Kitchener,Active,-80.44218499,43.43367504
+GRT,11577,Columbia St W at Hazel St,Columbia St W,Hazel St,Waterloo,Active,-80.53112504,43.48003495
+GRT,10811,McIntyre Dr at 221 McIntyre Dr,McIntyre Dr,221 McIntyre Dr,Kitchener,Active,-80.48032303,43.40287703
+GRT,11157,Elgin St N at Galt Ave,Elgin St N,Galt Ave,Cambridge,Active,-80.30345797,43.37393997
+GRT,10445,Langs Dr at Walter St,Langs Dr,Walter St,Cambridge,Active,-80.34108704,43.39862999
+GRT,10321,Guelph Ave at Fisher Mills Rd,Guelph Ave,Fisher Mills Rd,Cambridge,Active,-80.31216496,43.43695698
+GRT,10252,McMeeken Dr at Kerwood Dr,McMeeken Dr,Kerwood Dr,Cambridge,Active,-80.29368295,43.43694298
+GRT,10082,Frederick St at Lois St,Frederick St,Lois St,Kitchener,Active,-80.46435,43.46117697
+GRT,10268,Franklin Blvd at Thomas St,Franklin Blvd,Thomas St,Cambridge,Active,-80.31004995,43.424345
+GRT,10916,King St E at Borden Ave,King St E,Borden Ave,Kitchener,Active,-80.47349003,43.44278198
+GRT,13343,Franklin Blvd at Winston Blvd,Franklin Blvd,Winston Blvd,Cambridge,Active,-80.310279,43.420973
+GRT,12761,Pioneer Dr at Bechtel Dr,Pioneer Dr,Bechtel Dr,Kitchener,Active,-80.43668798,43.39370203
+GRT,11254,Hillcrest Dr at Churchill Dr,Hillcrest Dr,Churchill Dr,Cambridge,Active,-80.33229704,43.35375699
+GRT,13404,Fairway Station at ION platform - Southbound,Fairway Station,ION platform - Southbound,Kitchener,Active,-80.441812,43.422296
+GRT,12948,Fischer-Hallman Rd at Highland Rd,Fischer-Hallman Rd,Highland Rd,Kitchener,Active,-80.52521131,43.43154013
+GRT,12813,Parkvale Dr at Woodbine Ave,Parkvale Dr,Woodbine Ave,Kitchener,Active,-80.48571703,43.38890002
+GRT,13440,Victoria St N at Frederick St,Victoria St N,Frederick St,Kitchener,Active,-80.457951,43.466296
+GRT,13847,Randall Dr at Kumpf Dr,Randall Dr,Kumpf Dr,Waterloo,Active,-80.54473724,43.50372086
+GRT,12756,Sawmill Rd at Arthur St S,Sawmill Rd,Arthur St S,Woolwich,Active,-80.547934,43.54337274
+GRT,12992,Keats Way at Amos Ave,Keats Way,Amos Ave,Waterloo,Active,-80.54916703,43.45842202
+GRT,13273,Burnett Ave at Benn Dr,Burnett Ave,Benn Dr,Cambridge,Active,-80.290569,43.384786
+GRT,10474,Fairview Rd at Grand Valley Dr,Fairview Rd,Grand Valley Dr,Cambridge,Active,-80.34090199,43.38902198
+GRT,11681,Franklin St N at Trafalgar Ave,Franklin St N,Trafalgar Ave,Kitchener,Active,-80.44638482,43.44014208
+GRT,11917,Franklin St N at Shuh Ave,Franklin St N,Shuh Ave,Kitchener,Active,-80.44595699,43.437872
+GRT,11972,Mill St at Stirling Ave S,Mill St,Stirling Ave S,Kitchener,Active,-80.4871,43.4378
+GRT,13125,Pinebush Rd at Thompson Dr,Pinebush Rd,Thompson Dr,Cambridge,Active,-80.28747325,43.41508763
+GRT,10605,Preston Pky at Linden Dr,Preston Pky,Linden Dr,Cambridge,Active,-80.377978,43.39852997
+GRT,12521,Erbsville Rd at Columbia Forest Blvd,Erbsville Rd,Columbia Forest Blvd,Waterloo,Active,-80.58418799,43.46490204
+GRT,12053,David Bergey Dr at Activa Ave,David Bergey Dr,Activa Ave,Kitchener,Active,-80.518447,43.40539198
+GRT,12021,Ottawa St S at Path to Watercress Crt,Ottawa St S,Path to Watercress Crt,Kitchener,Active,-80.51982503,43.41166196
+GRT,12770,Northfield Dr E at Toman Dr,Northfield Dr E,Toman Dr,Waterloo,Active,-80.51950905,43.51481504
+GRT,13804,Ottawa St S at Mill St,Ottawa St S,Mill St,Kitchener,Active,-80.478754,43.434554
+GRT,13836,Hespeler Rd at 580 Hespeler Rd,Hespeler Rd,580 Hespeler Rd,Cambridge,Active,-80.326735,43.403212
+GRT,12853,Snyder Ave S at Woolwich Memorial Centre,Snyder Ave S,Woolwich Memorial Centre,Woolwich,Active,-80.56388863,43.59568816
+GRT,12700,Lexington Rd at Dunvegan Dr,Lexington Rd,Dunvegan Dr,Waterloo,Active,-80.51019998,43.49454204
+GRT,11319,Christopher Dr at South St,Christopher Dr,South St,Cambridge,Active,-80.30195704,43.35207203
+GRT,13678,Victoria St N at Margaret Ave,Victoria St N,Margaret Ave,Kitchener,Active,-80.489504,43.456329
+GRT,10478,Dunbar Rd at Eastdowns Dr,Dunbar Rd,Eastdowns Dr,Cambridge,Active,-80.333547,43.38833801
+GRT,10353,Sheldon Dr at Franklin Blvd,Sheldon Dr,Franklin Blvd,Cambridge,Active,-80.30765195,43.40619701
+GRT,12946,Columbia St W at North Campus Rd,Columbia St W,North Campus Rd,Waterloo,Active,-80.54661289,43.4744891
+GRT,12531,Keats Way at Sandford Fleming Dr,Keats Way,Sandford Fleming Dr,Waterloo,Active,-80.56173502,43.45600301
+GRT,12412,Queens Blvd at Westmount Rd E,Queens Blvd,Westmount Rd E,Kitchener,Active,-80.51068296,43.43316303
+GRT,12645,Frederick St at Weber St E,Frederick St,Weber St E,Kitchener,Active,-80.48613314,43.45119043
+GRT,13073,Laurelwood Dr at Fischer-Hallman Rd,Laurelwood Dr,Fischer-Hallman Rd,Waterloo,Active,-80.57253968,43.47479786
+GRT,12860,King St N at Front St,King St N,Front St,Woolwich,Active,-80.553475,43.540598
+GRT,11324,Glenview Ave at McDonald Ave,Glenview Ave,McDonald Ave,Cambridge,Active,-80.30461701,43.34799301
+GRT,13052,Maple Grove Rd at Cherry Blossom Rd,Maple Grove Rd,Cherry Blossom Rd,Cambridge,Active,-80.38718713,43.41653631
+GRT,13406,Sportsworld Station at Stop 6107,Sportsworld Station,Stop 6107,Kitchener,Active,-80.393307,43.410002
+GRT,13488,Zeller Dr at Susan Cres,Zeller Dr,Susan Cres,Kitchener,Active,-80.420611,43.452656
+GRT,13648,Waterloo Oxford District Secondary School at Snyder's Rd W,Waterloo Oxford District Secondary School,Snyder's Rd W,Wilmot,Active,-80.687378,43.401234
+GRT,11248,Blair Rd at 91 Blair Rd,Blair Rd,91 Blair Rd,Cambridge,Active,-80.32299201,43.36390698
+GRT,11960,Elmsdale Dr at Ottawa St S,Elmsdale Dr,Ottawa St S,Kitchener,Active,-80.49415995,43.42218498
+GRT,11013,Keats Way at Leighland Dr,Keats Way,Leighland Dr,Waterloo,Active,-80.56832195,43.45763799
+GRT,13647,Snyder's Rd W at Foundry St,Snyder's Rd W,Foundry St,Wilmot,Active,-80.6692,43.403611
+GRT,12226,Fischer-Hallman Rd S at Thorndale Dr,Fischer-Hallman Rd S,Thorndale Dr,Waterloo,Active,-80.55030196,43.44856296
+GRT,10591,King St E at 3227 King St E,King St E,3227 King St E,Kitchener,Active,-80.42510797,43.426163
+GRT,13913,Fairway Rd N at Chicopee Hills Dr,Fairway Rd N,Chicopee Hills Dr,Kitchener,Active,-80.41261102,43.44453296
+GRT,10277,Winston Blvd at Path to Erindale Cres,Winston Blvd,Path to Erindale Cres,Cambridge,Active,-80.30191697,43.42176197
+GRT,10120,Fischer-Hallman Rd N at Columbia St W,Fischer-Hallman Rd N,Columbia St W,Waterloo,Active,-80.567125,43.46855802
+GRT,13644,Snyder's Rd E at Coachman's Lane,Snyder's Rd E,Coachman's Lane,Wilmot,Active,-80.66296,43.404701
+GRT,12320,Westwood Dr at Gallarno Crt,Westwood Dr,Gallarno Crt,Kitchener,Active,-80.535163,43.44251303
+GRT,13683,Huron Rd at Strasburg Rd,Huron Rd,Strasburg Rd,Kitchener,Active,-80.465131,43.392897
+GRT,13539,Westheights Dr at Driftwood Dr,Westheights Dr,Driftwood Dr,Kitchener,Active,-80.535375,43.418479
+GRT,13831,Ottawa St N at River Rd E,Ottawa St N,River Rd E,Kitchener,Active,-80.444139,43.451063
+GRT,10623,Coronation Blvd at Blue Heron Ridge,Coronation Blvd,Blue Heron Ridge,Cambridge,Active,-80.336216,43.3836423
+GRT,10648,Coronation Blvd at Blue Heron Ridge,Coronation Blvd,Blue Heron Ridge,Cambridge,Active,-80.33597801,43.38386002
+GRT,10774,Green Valley Dr at Pioneer Dr,Green Valley Dr,Pioneer Dr,Kitchener,Active,-80.42974497,43.39610696
+GRT,10814,Trillium Dr at Washburn Dr,Trillium Dr,Washburn Dr,Kitchener,Active,-80.48546696,43.40105701
+GRT,13013,Hazel St at Columbia St W,Hazel St,Columbia St W,Waterloo,Active,-80.53190201,43.48008702
+GRT,10563,Dobbie Dr at Clyde Rd,Dobbie Dr,Clyde Rd,Cambridge,Active,-80.28533796,43.37321302
+GRT,13031,Conestoga College Blvd at Homer Watson Blvd,Conestoga College Blvd,Homer Watson Blvd,Kitchener,Active,-80.411325,43.387933
+GRT,12955,Bridge St W at Frobisher Dr,Bridge St W,Frobisher Dr,Waterloo,Active,-80.52253964,43.51199029
+GRT,10293,Eagle St N at Shettleston Dr,Eagle St N,Shettleston Dr,Cambridge,Active,-80.351697,43.404093
+GRT,11869,Davenport Rd at Kingscourt Dr,Davenport Rd,Kingscourt Dr,Waterloo,Active,-80.520597,43.49705197
+GRT,12716,Keats Way at Beechwood Dr,Keats Way,Beechwood Dr,Waterloo,Active,-80.57114799,43.45649
+GRT,10204,Northfield Dr W at Weber St N,Northfield Dr W,Weber St N,Waterloo,Active,-80.54970194,43.49565116
+GRT,10484,SmartCentres Cambridge at South,SmartCentres Cambridge,South,Cambridge,Active,-80.322898,43.41024799
+GRT,10191,Glen Forrest Blvd at Brookhaven Cres,Glen Forrest Blvd,Brookhaven Cres,Waterloo,Active,-80.55542298,43.48704303
+GRT,13686,Forrest Ave E at Cushman Crt (Flex Stop),Forrest Ave E,Cushman Crt (Flex Stop),Wilmot,Active,-80.715167,43.387974
+GRT,13513,Wellington St N at 809 Wellington St N,Wellington St N,809 Wellington St N,Kitchener,Active,-80.475118,43.464289
+GRT,10201,Northlake Dr at Skylark Rd,Northlake Dr,Skylark Rd,Waterloo,Active,-80.55677256,43.49455402
+GRT,11220,Alison Ave at Hilltop Dr,Alison Ave,Hilltop Dr,Cambridge,Active,-80.29376002,43.36443303
+GRT,12174,Victoria St S at Belmont Ave W,Victoria St S,Belmont Ave W,Kitchener,Active,-80.51228798,43.44301499
+GRT,11371,Queen St N at Ahrens St,Queen St N,Ahrens St,Kitchener,Active,-80.486393,43.45321698
+GRT,13367,Sportsworld Station at Stop 1590,Sportsworld Station,Stop 1590,Kitchener,Active,-80.392846,43.409699
+GRT,13870,Huron Rd at Woodbine Ave,Huron Rd,Woodbine Ave,Kitchener,Active,-80.48413026,43.38294328
+GRT,11720,Weber St N at Lincoln Rd,Weber St N,Lincoln Rd,Waterloo,Active,-80.51349995,43.47110197
+GRT,10249,Melran Dr at McCormick Dr,Melran Dr,McCormick Dr,Cambridge,Active,-80.29891757,43.43869828
+GRT,11657,Fourth Ave at Connaught St,Fourth Ave,Connaught St,Kitchener,Active,-80.45468003,43.43104499
+GRT,10396,Saginaw Pky at Cowan Blvd,Saginaw Pky,Cowan Blvd,Cambridge,Active,-80.29631696,43.38972996
+GRT,11726,University Ave E at Regina St,University Ave E,Regina St,Waterloo,Active,-80.52327195,43.47684801
+GRT,11246,Blair Rd at Sherwood Ave,Blair Rd,Sherwood Ave,Cambridge,Active,-80.32828004,43.367765
+GRT,12757,King St E at Eby St,King St E,Eby St,Kitchener,Active,-80.48547797,43.44820503
+GRT,11217,Alison Ave at Elgin St N,Alison Ave,Elgin St N,Cambridge,Active,-80.30032799,43.368168
+GRT,13742,Snyder's Rd E at 500 Snyder's Rd E,Snyder's Rd E,500 Snyder's Rd E,Wilmot,Active,-80.645915,43.407137
+GRT,10728,Wilson Ave at Fairway Rd S,Wilson Ave,Fairway Rd S,Kitchener,Active,-80.44274003,43.42055301
+GRT,10825,Trillium Dr at Beasley Dr,Trillium Dr,Beasley Dr,Kitchener,Active,-80.45979298,43.40221996
+GRT,12342,Glasgow St at York St,Glasgow St,York St,Kitchener,Active,-80.51388501,43.45293501
+GRT,11231,Christopher Dr at Foster Cres,Christopher Dr,Foster Cres,Cambridge,Active,-80.300417,43.34844697
+GRT,11224,Dundas St S at 200 Dundas St S,Dundas St S,200 Dundas St S,Cambridge,Active,-80.28911699,43.35575497
+GRT,13262,Laurelwood Dr at Blue Beech Blvd,Laurelwood Dr,Blue Beech Blvd,Waterloo,Active,-80.594731,43.47029
+GRT,10447,Langs Dr at Trico Dr,Langs Dr,Trico Dr,Cambridge,Active,-80.335197,43.39962796
+GRT,12900,Cedar St at Grand Ave N,Cedar St,Grand Ave N,Cambridge,Active,-80.31807701,43.35342318
+GRT,10426,Hamilton St at Montrose St S,Hamilton St,Montrose St S,Cambridge,Active,-80.35101004,43.38957997
+GRT,10052,Fairway Rd N at Thaler Ave,Fairway Rd N,Thaler Ave,Kitchener,Active,-80.42990999,43.43222298
+GRT,12135,Stirlling Ave S at Mausser Ave,Stirlling Ave S,Mausser Ave,Kitchener,Active,-80.49605204,43.43412803
+GRT,10378,Can-Amera Pky at Franklin Blvd,Can-Amera Pky,Franklin Blvd,Cambridge,Active,-80.30385198,43.39391196
+GRT,13121,Sheldon Dr at Balmoral Rd,Sheldon Dr,Balmoral Rd,Cambridge,Active,-80.30113485,43.40729132
+GRT,10208,Northfield Dr W at King St N,Northfield Dr W,King St N,Waterloo,Active,-80.533612,43.501393
+GRT,13797,Charles St E at Benton St,Charles St E,Benton St,Kitchener,Active,-80.487779,43.448034
+GRT,13820,Maple Grove Rd at Beaverdale Rd,Maple Grove Rd,Beaverdale Rd,Cambridge,Active,-80.336236,43.434509
+GRT,12406,Elm Ridge Dr at Hillbrook Cres,Elm Ridge Dr,Hillbrook Cres,Kitchener,Active,-80.52604499,43.42528297
+GRT,10888,Fairway Rd S at 500 Fairway Rd S,Fairway Rd S,500 Fairway Rd S,Kitchener,Active,-80.44734996,43.420382
+GRT,12251,Westmount Rd E at Williamsburg Rd,Westmount Rd E,Williamsburg Rd,Kitchener,Active,-80.50013497,43.413222
+GRT,11160,Franklin Blvd at Clyde Rd,Franklin Blvd,Clyde Rd,Cambridge,Active,-80.295164,43.370745
+GRT,13395,Kitchener Market Station at ION platform - Northbound,Kitchener Market Station,ION platform - Northbound,Kitchener,Active,-80.483605,43.446324
+GRT,13529,Bingmans Centre Dr at 425 Bingemans Centre Dr,Bingmans Centre Dr,425 Bingemans Centre Dr,Kitchener,Active,-80.449368,43.471708
+GRT,11023,Gateview Dr at Westvale Dr,Gateview Dr,Westvale Dr,Waterloo,Active,-80.55761095,43.45005798
+GRT,13549,Queens Blvd at Fischer-Hallman Rd,Queens Blvd,Fischer-Hallman Rd,Kitchener,Active,-80.523992,43.428482
+GRT,10882,Bleams Rd at Manitou Dr,Bleams Rd,Manitou Dr,Kitchener,Active,-80.45009995,43.41254699
+GRT,12368,Queens Blvd at Eagen Dr,Queens Blvd,Eagen Dr,Kitchener,Active,-80.52020998,43.42966198
+GRT,13348,Maple Grove Rd at Cherry Blossom Rd,Maple Grove Rd,Cherry Blossom Rd,Cambridge,Active,-80.387604,43.416556
+GRT,13487,Victoria St N at Edna St,Victoria St N,Edna St,Kitchener,Active,-80.474928,43.460814
+GRT,11821,Belmont Ave W at Glasgow St,Belmont Ave W,Glasgow St,Kitchener,Active,-80.51574197,43.45016003
+GRT,11051,Erb St E at Terrystone Walk,Erb St E,Terrystone Walk,Waterloo,Active,-80.49916496,43.47167197
+GRT,11008,Fischer-Hallman Rd N at Erb St W,Fischer-Hallman Rd N,Erb St W,Waterloo,Active,-80.553685,43.45291003
+GRT,11562,King St N at Columbia St,King St N,Columbia St,Waterloo,Active,-80.52635196,43.48233198
+GRT,12832,Conestoga College Blvd at Pinnacle Dr,Conestoga College Blvd,Pinnacle Dr,Kitchener,Active,-80.4126854,43.38590647
+GRT,11216,Elgin St N at Marion Way,Elgin St N,Marion Way,Cambridge,Active,-80.30043803,43.36656296
+GRT,12888,Baldwin Dr at Osgoode St,Baldwin Dr,Osgoode St,Cambridge,Active,-80.30770894,43.44919522
+GRT,12611,Guelph Ave at Milton Ave W,Guelph Ave,Milton Ave W,Cambridge,Active,-80.31309958,43.4396798
+GRT,11982,Charles St E at Cedar St,Charles St E,Cedar St,Kitchener,Active,-80.48378699,43.44628797
+GRT,10183,Weber St N at Albert St,Weber St N,Albert St,Waterloo,Active,-80.53763301,43.49204204
+GRT,11730,University Ave W at Phillip St,University Ave W,Phillip St,Waterloo,Active,-80.536069,43.472251
+GRT,11850,Lincoln Rd at Bluevale St N,Lincoln Rd,Bluevale St N,Waterloo,Active,-80.50581296,43.48201495
+GRT,13581,Fischer-Hallman Rd at Queens Blvd,Fischer-Hallman Rd,Queens Blvd,Kitchener,Active,-80.523338,43.428586
+GRT,10959,Bridge St W at Eastbridge Blvd,Bridge St W,Eastbridge Blvd,Waterloo,Active,-80.509198,43.503574
+GRT,10683,Morrison Rd at Quinte Cres,Morrison Rd,Quinte Cres,Kitchener,Active,-80.41626298,43.43116997
+GRT,11709,Margaret Ave at Queen St N,Margaret Ave,Queen St N,Kitchener,Active,-80.48573499,43.45468801
+GRT,10154,Cedarbrae Ave at Glen Forrest Blvd,Cedarbrae Ave,Glen Forrest Blvd,Waterloo,Active,-80.55156004,43.48567001
+GRT,12767,University Ave E at RIM Park Rd,University Ave E,RIM Park Rd,Waterloo,Active,-80.502667,43.517874
+GRT,10497,Ainslie St N at Colborne St,Ainslie St N,Colborne St,Cambridge,Active,-80.31352203,43.361892
+GRT,10910,Montgomery Rd at Weber St E,Montgomery Rd,Weber St E,Kitchener,Detour,-80.45873995,43.43774498
+GRT,10593,King St E at River Rd E,King St E,River Rd E,Kitchener,Active,-80.41976202,43.42511799
+GRT,12282,Victoria St S at Lawrence Ave,Victoria St S,Lawrence Ave,Kitchener,Active,-80.51468504,43.44197504
+GRT,10308,Holiday Inn Dr at 200 Holiday Inn Dr,Holiday Inn Dr,200 Holiday Inn Dr,Cambridge,Active,-80.32139795,43.41640198
+GRT,11704,Weber St E at Fairview Ave,Weber St E,Fairview Ave,Kitchener,Active,-80.47589797,43.44682699
+GRT,13889,Fischer-Hallman Rd at Cotton Grass St,Fischer-Hallman Rd,Cotton Grass St,Kitchener,Active,-80.50206818,43.40833687
+GRT,12258,Westmount Rd W at Overlea Dr,Westmount Rd W,Overlea Dr,Kitchener,Active,-80.51246004,43.43540704
+GRT,11293,Grand Ave at South Sq,Grand Ave,South Sq,Cambridge,Active,-80.31761498,43.35850701
+GRT,11754,Belmont Ave W at Highland Rd W,Belmont Ave W,Highland Rd W,Kitchener,Active,-80.50836295,43.44014797
+GRT,13883,Ludolph St at Olivia St,Ludolph St,Olivia St,Kitchener,Active,-80.49510832,43.38473662
+GRT,11039,Erb St W at Roslin Ave S,Erb St W,Roslin Ave S,Waterloo,Active,-80.53172802,43.46148697
+GRT,12982,Westmount Rd W at Westwood Dr,Westmount Rd W,Westwood Dr,Kitchener,Active,-80.52294409,43.44687857
+GRT,13372,Lexington Rd at Lee Ave,Lexington Rd,Lee Ave,Waterloo,Active,43.497196,-80.506493
+GRT,13494,Old Zeller Dr at Fairway Rd N,Old Zeller Dr,Fairway Rd N,Kitchener,Active,-80.404791,43.448364
+GRT,10674,King St E at River Rd E,King St E,River Rd E,Kitchener,Active,-80.41999296,43.42527796
+GRT,10323,Adam St at Tannery St E,Adam St,Tannery St E,Cambridge,Active,-80.30975495,43.43048503
+GRT,10263,Queen St W at Shepherd Ave,Queen St W,Shepherd Ave,Cambridge,Active,-80.32514503,43.422573
+GRT,13131,Chesapeake Dr at Seawind Trail,Chesapeake Dr,Seawind Trail,Waterloo,Active,-80.51389947,43.51066958
+GRT,10809,McIntyre Dr at Strasburg Rd,McIntyre Dr,Strasburg Rd,Kitchener,Active,-80.47438497,43.40447495
+GRT,13613,Churchill Dr at Landsdowne Rd S,Churchill Dr,Landsdowne Rd S,Cambridge,Active,-80.32194,43.35471
+GRT,10140,Northfield Dr W at 190 Northfield Dr W,Northfield Dr W,190 Northfield Dr W,Waterloo,Active,-80.54752,43.496675
+GRT,13533,Shirley Dr at Bingemans Centre Dr,Shirley Dr,Bingemans Centre Dr,Kitchener,Active,-80.44189,43.473909
+GRT,12828,Conestoga Station at Stop 3798,Conestoga Station,Stop 3798,Waterloo,Active,-80.52927432,43.49818164
+GRT,12695,Bridge St W at University Ave E,Bridge St W,University Ave E,Waterloo,Active,-80.494283,43.489813
+GRT,13409,Hespeler Rd at Cambridge Centre Station,Hespeler Rd,Cambridge Centre Station,Cambridge,Active,-80.322961,43.392708
+GRT,13824,Victoria St N at King St W,Victoria St N,King St W,Kitchener,Active,-80.498145,43.453186
+GRT,10895,Bleams Rd at Homer Watson Blvd,Bleams Rd,Homer Watson Blvd,Kitchener,Active,-80.45991699,43.41048699
+GRT,11728,University Ave W at Hemlock St,University Ave W,Hemlock St,Waterloo,Active,-80.53054665,43.47426072
+GRT,13034,Winston Blvd at Handorf Dr,Winston Blvd,Handorf Dr,Cambridge,Active,-80.29777978,43.42121432
+GRT,10767,Doon Valley Dr at 90 Doon Valley Dr,Doon Valley Dr,90 Doon Valley Dr,Kitchener,Active,-80.41348198,43.39021704
+GRT,11691,Weber St E at Borden Ave,Weber St E,Borden Ave,Kitchener,Active,-80.47069496,43.44560497
+GRT,11896,Margaret Ave at Wellington St,Margaret Ave,Wellington St,Kitchener,Active,-80.49054799,43.45865499
+GRT,11359,Cherry Blossom Rd at Barnes Rd,Cherry Blossom Rd,Barnes Rd ,Cambridge,Active,-80.384565,43.415728
+GRT,13661,Peel St at Bleams Rd,Peel St,Bleams Rd,Wilmot,Active,-80.7047089,43.37358958
+GRT,12448,Highview Dr at Trail,Highview Dr,Trail,Kitchener,Active,-80.54748803,43.41568999
+GRT,11626,King St E at Rockway Centre,King St E,Rockway Centre,Kitchener,Active,-80.46637204,43.43976303
+GRT,12150,Greenbrook Dr at Birchcliff Ave,Greenbrook Dr,Birchcliff Ave,Kitchener,Active,-80.51266197,43.42401903
+GRT,13502,Zeller Dr at Bridgemill Crt,Zeller Dr,Bridgemill Crt,Kitchener,Active,-80.41549213,43.45370676
+GRT,13118,Sheldon Dr at Conestoga Blvd,Sheldon Dr,Conestoga Blvd,Cambridge,Active,-80.31869093,43.40292133
+GRT,13119,Conestoga Blvd at 505 Conestoga Blvd,Conestoga Blvd,505 Conestoga Blvd,Cambridge,Active,-80.31847364,43.40055445
+GRT,11142,King St N at Wyman Rd,King St N,Wyman Rd,Waterloo,Active,-80.53733199,43.50503496
+GRT,10772,Green Valley Dr at Mill Park Dr,Green Valley Dr,Mill Park Dr,Kitchener,Active,-80.42606802,43.39597298
+GRT,11678,Weber St E at Hwy 8,Weber St E,Hwy 8,Kitchener,Active,-80.43720996,43.43061797
+GRT,12456,Erbsville Rd at White Elm Blvd,Erbsville Rd,White Elm Blvd,Waterloo,Active,-80.58607496,43.46669399
+GRT,11176,First Ave at Caen St,First Ave,Caen St,Cambridge,Active,-80.31977295,43.346895
+GRT,10770,Pinnacle Dr at Old Mill Rd,Pinnacle Dr,Old Mill Rd,Kitchener,Active,-80.41413499,43.39332503
+GRT,10734,Manitou Dr at Sasaga Dr,Manitou Dr,Sasaga Dr,Kitchener,Active,-80.44885015,43.40748087
+GRT,12978,The Boardwalk Station at Stop 3908,The Boardwalk Station,Stop 3908,Kitchener,Active,-80.560441,43.435158
+GRT,11001,Erb St W at 202 Erb St W,Erb St W,202 Erb St W,Waterloo,Active,-80.53514295,43.46017996
+GRT,12983,Westmount Rd W at Glasgow St,Westmount Rd W,Glasgow St,Kitchener,Active,-80.52360179,43.44937691
+GRT,13676,Maple Grove Rd at Boxwood Dr,Maple Grove Rd,Boxwood Dr,Cambridge,Active,-80.364376,43.427063
+GRT,12668,New Bedford Dr at Starboard Cres,New Bedford Dr,Starboard Cres,Waterloo,Active,-80.50443302,43.51066497
+GRT,10117,Laurelwood Dr at Laurel Gate Dr,Laurelwood Dr,Laurel Gate Dr,Waterloo,Active,-80.57457297,43.47431804
+GRT,11644,Connaught St at Franklin St S,Connaught St,Franklin St S,Kitchener,Active,-80.45084001,43.43004704
+GRT,12453,Highland Rd W at Westmount Rd W,Highland Rd W,Westmount Rd W,Kitchener,Active,-80.514513,43.435665
+GRT,11740,Westmount Rd S at John St,Westmount Rd S,John St,Waterloo,Active,-80.52765996,43.45434699
+GRT,13020,Hagey Blvd at Wes Graham Way,Hagey Blvd,Wes Graham Way,Waterloo,Active,-80.54902203,43.47897002
+GRT,13832,Ottawa St S at Emsdale Dr,Ottawa St S,Emsdale Dr,Kitchener,Active,-80.493895,43.421836
+GRT,12646,Weber St E at 777 Weber St E,Weber St E,777 Weber St E,Kitchener,Active,-80.46067999,43.43892501
+GRT,10493,Ainslie St N at Simcoe St,Ainslie St N,Simcoe St,Cambridge,Active,-80.314381,43.364802
+GRT,10532,Franklin Blvd at McLaren Ave,Franklin Blvd,McLaren Ave,Cambridge,Active,-80.290249,43.361247
+GRT,12011,Max Becker Dr at Fischer-Hallman Rd,Max Becker Dr,Fischer-Hallman Rd,Kitchener,Active,-80.500289,43.405914
+GRT,10400,Elgin St N at Franklin Blvd,Elgin St N,Franklin Blvd,Cambridge,Active,-80.30295302,43.39138999
+GRT,10392,Burnett Ave at Chimney Hill Dr,Burnett Ave,Chimney Hill Dr,Cambridge,Active,-80.287448,43.38697
+GRT,12371,Queens Blvd at Highland Hills Mall,Queens Blvd,Highland Hills Mall,Kitchener,Active,-80.52652299,43.427698
+GRT,13041,Jamieson Pky at Lardner St,Jamieson Pky,Lardner St,Cambridge,Active,-80.28729943,43.42352769
+GRT,10436,Hamilton St at Westminster Dr,Hamilton St,Westminster Dr,Cambridge,Active,-80.36024022,43.39413842
+GRT,13037,Boxwood Dr at Vondrau Dr,Boxwood Dr,Vondrau Dr,Cambridge,Active,-80.370302,43.430673
+GRT,10533,Main St at South Cambridge Mall,Main St,South Cambridge Mall,Cambridge,Active,-80.28967197,43.35789997
+GRT,12018,David Bergey Dr at Activa Ave,David Bergey Dr,Activa Ave,Kitchener,Active,-80.51838999,43.40571196
+GRT,11713,Margaret Ave at Wilhelm St,Margaret Ave,Wilhelm St,Kitchener,Active,-80.49257502,43.46074998
+GRT,11560,King St N at Blue Springs Dr,King St N,Blue Springs Dr,Waterloo,Active,-80.52745202,43.48753303
+GRT,10307,Holiday Inn Dr at Tri-City Centre,Holiday Inn Dr,Tri-City Centre,Cambridge,Active,-80.32429505,43.41737197
+GRT,13646,Snyder's Rd W at Mill St,Snyder's Rd W,Mill St,Wilmot,Active,-80.671384,43.403453
+GRT,12752,Fairway Rd N at Fairway Cres,Fairway Rd N,Fairway Cres,Kitchener,Active,-80.415816,43.442508
+GRT,10347,Pinebush Rd at 355 Pinebush Rd,Pinebush Rd,355 Pinebush Rd,Cambridge,Active,-80.29843704,43.41311001
+GRT,13872,Woodbine Ave at Parkvale Dr,Woodbine Ave,Parkvale Dr,Kitchener,Active,-80.48570999,43.38861565
+GRT,12142,Greenbrook Dr at Stirling Ave S,Greenbrook Dr,Stirling Ave S,Kitchener,Active,-80.49729,43.42940804
+GRT,13387,Grand River Hospital Station at ION platform - Northbound,Grand River Hospital Station,ION platform - Northbound,Kitchener,Active,-80.512034,43.457299
+GRT,12128,Queen St S at Schneider Ave,Queen St S,Schneider Ave,Kitchener,Active,-80.49452004,43.44473302
+GRT,12847,Arthur St S at Wyatt St,Arthur St S,Wyatt St,Woolwich,Active,-80.55915844,43.59796465
+GRT,12703,Bridge St W at Crimson Cres,Bridge St W,Crimson Cres,Waterloo,Active,-80.497805,43.492771
+GRT,12595,Fountain St S at Blair Rd,Fountain St S,Blair Rd,Cambridge,Active,-80.39138999,43.38539504
+GRT,10771,Old Mill Rd at Roos St,Old Mill Rd,Roos St,Kitchener,Active,-80.41750703,43.39422298
+GRT,12594,Fountain St S at Blair Rd,Fountain St S,Blair Rd,Cambridge,Active,-80.39086864,43.38572158
+GRT,10914,King St E at Sydney St,King St E,Sydney St,Kitchener,Active,-80.46971698,43.44116003
+GRT,10996,Caroline St S at Willis Way,Caroline St S,Willis Way,Waterloo,Active,-80.523193,43.462147
+GRT,10985,Bridgeport Rd E at Margaret Ave,Bridgeport Rd E,Margaret Ave,Waterloo,Active,-80.504592,43.47235702
+GRT,12933,University Ave W at Westvale Dr,University Ave W,Westvale Dr,Waterloo,Active,-80.54878,43.440893
+GRT,10335,Bishop St N at Collier-Macmillan Dr,Bishop St N,Collier-Macmillan Dr,Cambridge,Active,-80.32083695,43.39593696
+GRT,10015,River Rd E at Hickson Dr,River Rd E,Hickson Dr,Kitchener,Active,-80.446665,43.45428803
+GRT,10997,Erb St W at Caroline St,Erb St W,Caroline St,Waterloo,Active,-80.52599698,43.46413998
+GRT,12793,Parkside Dr at Northfield Dr W,Parkside Dr,Northfield Dr W,Waterloo,Active,-80.545815,43.496888
+GRT,11814,Highland Rd W at Patricia Ave,Highland Rd W,Patricia Ave,Kitchener,Active,-80.50527197,43.44070801
+GRT,12322,Westwood Dr at Glasgow St,Westwood Dr,Glasgow St,Kitchener,Active,-80.54014902,43.44364798
+GRT,13413,Hespeler Rd at Coronatoin Blvd,Hespeler Rd,Coronatoin Blvd,Cambridge,Active,-80.318846,43.373813
+GRT,13229,University Ave E at Bridge St W,University Ave E,Bridge St W,Waterloo,Active,-80.494564,43.489225
+GRT,10171,University Ave W at King St N,University Ave W,King St N,Waterloo,Active,-80.52577803,43.47603002
+GRT,10406,Hespeler Rd at Munch Ave,Hespeler Rd,Munch Ave,Cambridge,Active,-80.32022003,43.38332802
+GRT,12156,Greenbrook Dr at Westmount Rd E,Greenbrook Dr,Westmount Rd E,Kitchener,Active,-80.50705796,43.42821298
+GRT,11434,Holborn Dr at Holborn Crt,Holborn Dr,Holborn Crt,Kitchener,Active,-80.44176797,43.44935803
+GRT,12523,Erbsville Rd at Leighland Dr,Erbsville Rd,Leighland Dr,Waterloo,Active,-80.576719,43.458034
+GRT,13053,University Ave W at Phillip St,University Ave W,Phillip St,Waterloo,Active,-80.53542935,43.47219959
+GRT,13219,Erb St W at Fischer-Hallman Rd N,Erb St W,Fischer-Hallman Rd N,Waterloo,Active,-80.554144,43.452345
+GRT,11183,Woodside Ave at Cedar St,Woodside Ave,Cedar St,Cambridge,Active,-80.333678,43.35063203
+GRT,11819,Belmont Ave W at Karn St,Belmont Ave W,Karn St,Kitchener,Active,-80.51288199,43.445182
+GRT,10173,Hazel St at Hickory St W,Hazel St,Hickory St W,Waterloo,Active,-80.53003003,43.47788201
+GRT,10678,Morrison Rd at Freeport Hospital,Morrison Rd,Freeport Hospital,Kitchener,Active,-80.41340202,43.42602703
+GRT,10003,Frederick St at Lancaster St E,Frederick St,Lancaster St E,Kitchener,Active,-80.48290496,43.45300302
+GRT,13655,Waterloo St at Huron,Waterloo St,Huron,Wilmot,Active,-80.713866,43.377642
+GRT,12901,Cedar St at St Andrews St,Cedar St,St Andrews St,Cambridge,Active,-80.32331909,43.35257196
+GRT,11918,Franklin St N at Prospect Ave,Franklin St N,Prospect Ave,Kitchener,Active,-80.44707301,43.43589198
+GRT,10755,Pinnacle Dr at Old Mill Rd,Pinnacle Dr,Old Mill Rd,Kitchener,Active,-80.414295,43.39337203
+GRT,12952,Fischer-Hallman Rd at Westmount Rd E,Fischer-Hallman Rd,Westmount Rd E,Kitchener,Active,-80.50005894,43.40672642
+GRT,11233,Christopher Dr at Elliott St,Christopher Dr,Elliott St,Cambridge,Active,-80.30260999,43.35395298
+GRT,12228,Fischer-Hallman Rd at University Ave W,Fischer-Hallman Rd,University Ave W,Kitchener,Active,-80.54469197,43.44353004
+GRT,13522,Shirley Ave at 274 Shirley Ave,Shirley Ave,274 Shirley Ave,Kitchener,Active,-80.45659137,43.46984958
+GRT,12760,William St W at King St S,William St W,King St S,Waterloo,Active,-80.52189001,43.461083
+GRT,11830,Westmount Rd S at Alexandra Ave,Westmount Rd S,Alexandra Ave,Waterloo,Active,-80.53090201,43.45683999
+GRT,13878,Parkvale Dr at Huron Rd,Parkvale Dr,Huron Rd,Kitchener,Active,-80.47255361,43.38947173
+GRT,10729,Wilson Ave at Webster Rd,Wilson Ave,Webster Rd,Kitchener,Active,-80.44238797,43.41623699
+GRT,12316,Inwwod Dr at Westwood Dr,Inwwod Dr,Westwood Dr,Kitchener,Active,-80.52702199,43.4455
+GRT,11926,Ottawa St S at Westmount Rd E,Ottawa St S,Westmount Rd E,Kitchener,Active,-80.500573,43.42067301
+GRT,10054,Fairway Rd N at River Rd E,Fairway Rd N,River Rd E,Kitchener,Active,-80.427957,43.43472
+GRT,11959,Ottawa St S at Howland Dr,Ottawa St S,Howland Dr,Kitchener,Active,-80.49673427,43.4211405
+GRT,12152,Greenbrook Dr at Fischer-Hallman Rd,Greenbrook Dr,Fischer-Hallman Rd,Kitchener,Active,-80.515425,43.42089698
+GRT,12332,Westwood Dr at Gallarno Crt,Westwood Dr,Gallarno Crt,Kitchener,Active,-80.53567497,43.44226997
+GRT,13818,Ottawa St S at Fischer-Hallman Rd,Ottawa St S,Fischer-Hallman Rd,Kitchener,Active,-80.510393,43.417604
+GRT,11565,Columbia St W at Hazel St,Columbia St W,Hazel St,Waterloo,Active,-80.531527,43.480075
+GRT,13060,Winston Blvd at Gunn Ave,Winston Blvd,Gunn Ave,Cambridge,Active,-80.30495,43.421226
+GRT,13518,Shirley Ave at 200 Shirley Ave,Shirley Ave,200 Shirley Ave,Kitchener,Active,-80.45958001,43.46881679
+GRT,12333,Westwood Dr at Fernwood Pl,Westwood Dr,Fernwood Pl,Kitchener,Active,-80.53114704,43.44500501
+GRT,12634,Victoria St S at Belmont Ave W,Victoria St S,Belmont Ave W,Kitchener,Active,-80.51193983,43.44301243
+GRT,12001,Rittenhouse Rd at Tuerr Dr,Rittenhouse Rd,Tuerr Dr,Kitchener,Active,-80.48270796,43.41084803
+GRT,10002,Frederick St at Irvin St,Frederick St,Irvin St,Kitchener,Active,-80.48417998,43.45232702
+GRT,11970,Mill St at Borden Pky,Mill St,Borden Pky,Kitchener,Active,-80.48304703,43.43521997
+GRT,13793,Charles St W at Gaukel St,Charles St W,Gaukel St,Kitchener,Active,-80.492814,43.45007
+GRT,12897,Dunbar Rd at Industrial Rd,Dunbar Rd,Industrial Rd,Cambridge,Active,-80.32869842,43.38928328
+GRT,10257,Cooper St at Ellis Rd,Cooper St,Ellis Rd,Cambridge,Active,-80.297755,43.42785804
+GRT,10980,Bridgeport Rd at Lancaster St W,Bridgeport Rd,Lancaster St W,Kitchener,Active,-80.48511804,43.47651297
+GRT,11921,Strasburg Rd at 250 Strasburg Rd,Strasburg Rd,250 Strasburg Rd,Kitchener,Active,-80.49028701,43.42535497
+GRT,10577,Franklin Blvd at Pinebush Rd,Franklin Blvd,Pinebush Rd,Cambridge,Active,-80.30807996,43.41041298
+GRT,11624,King St E at Ottawa St S,King St E,Ottawa St S,Kitchener,Active,-80.47187303,43.44194503
+GRT,10190,Cedarbrae Ave at Glen Forrest Blvd,Cedarbrae Ave,Glen Forrest Blvd,Waterloo,Active,-80.55170199,43.48568299
+GRT,10259,Cooper St at Lewis St,Cooper St,Lewis St,Cambridge,Active,-80.30580801,43.43179802
+GRT,11204,Crombie St at Grand Ave,Crombie St,Grand Ave,Cambridge,Active,-80.31683397,43.35091599
+GRT,12814,Woodbine Ave at Sophia Cres,Woodbine Ave,Sophia Cres,Kitchener,Active,-80.484583,43.38665002
+GRT,10202,Northfield Dr W at Skylark Rd,Northfield Dr W,Skylark Rd,Waterloo,Active,-80.55592696,43.49352704
+GRT,10575,Franklin Blvd at Sheldon Dr,Franklin Blvd,Sheldon Dr,Cambridge,Active,-80.30662496,43.40567503
+GRT,10488,Hespeler Rd at Wauchope Ave,Hespeler Rd,Wauchope Ave,Cambridge,Active,-80.31995695,43.38116295
+GRT,13149,King St E at Grand River Hospital - Freeport Campus,King St E,Grand River Hospital - Freeport Campus,Kitchener,Active,-80.41188527,43.42391824
+GRT,11805,Courtland Ave E at Palmer Ave,Courtland Ave E,Palmer Ave,Kitchener,Active,-80.482145,43.440011
+GRT,10258,Cooper St at Ontario St,Cooper St,Ontario St,Cambridge,Active,-80.30124704,43.43049998
+GRT,11928,Ottawa St S at Howe Dr,Ottawa St S,Howe Dr,Kitchener,Active,-80.50658296,43.419653
+GRT,11140,King St N at Cedar St,King St N,Cedar St,Woolwich,Active,-80.55377305,43.53785696
+GRT,10919,King St E at Cameron St,King St E,Cameron St,Kitchener,Active,-80.48063298,43.44608698
+GRT,10557,Franklin Blvd at Moorefield St,Franklin Blvd,Moorefield St,Cambridge,Active,-80.290317,43.361711
+GRT,10433,Rose St at Argyle St S,Rose St,Argyle St S,Cambridge,Active,-80.36447004,43.39140297
+GRT,13147,Myers Rd at Greenbrier Rd,Myers Rd,Greenbrier Rd,Cambridge,Active,-80.29388554,43.34214999
+GRT,10492,Water St N at Dando Ave,Water St N,Dando Ave,Cambridge,Active,-80.31746303,43.36981001
+GRT,12815,Woodbine Ave at Huron Rd,Woodbine Ave,Huron Rd,Kitchener,Active,-80.48341701,43.383533
+GRT,10177,Hazel St at Austin Dr,Hazel St,Austin Dr,Waterloo,Active,-80.53291195,43.48154298
+GRT,12617,Sheldon Dr at 100 Sheldon Dr,Sheldon Dr,100 Sheldon Dr,Cambridge,Active,-80.310327,43.404702
+GRT,11639,Greenfield Ave at Kingsway Dr,Greenfield Ave,Kingsway Dr,Kitchener,Active,-80.44152701,43.42472302
+GRT,10213,Davenport Rd at Northfield Dr E,Davenport Rd,Northfield Dr E,Waterloo,Active,-80.52871796,43.503923
+GRT,13110,Fleming Dr at Thompson Dr,Fleming Dr,Thompson Dr,Cambridge,Active,-80.2933568,43.41022247
+GRT,11487,Bloomingdale Rd N at Nelson Ave,Bloomingdale Rd N,Nelson Ave,Kitchener,Active,-80.46885497,43.48416496
+GRT,10486,Hespeler Rd at 600 Hespeler Rd,Hespeler Rd,600 Hespeler Rd,Cambridge,Active,-80.327111,43.404401
+GRT,12727,Dundas St N at Cambridge St,Dundas St N,Cambridge St,Cambridge,Active,-80.30886464,43.36739085
+GRT,10543,Ainslie Terminal at Stop 1515 (GO Transit - Megabus),Ainslie Terminal,Stop 1515 (GO Transit - Megabus),Cambridge,Active,-80.31319103,43.35766696
+GRT,10818,Trillium Dr at Strasburg Rd,Trillium Dr,Strasburg Rd,Kitchener,Active,-80.46849501,43.40097696
+GRT,11633,Connaught St at Franklin St S,Connaught St,Franklin St S,Kitchener,Active,-80.45062097,43.429878
+GRT,12784,Lexington Rd at Bridge St,Lexington Rd,Bridge St,Waterloo,Active,-80.504553,43.498486
+GRT,10180,Hazel St at Albert St,Hazel St,Albert St,Waterloo,Active,-80.53943298,43.48573803
+GRT,11431,Old Chicopee Rd at Ottawa St N,Old Chicopee Rd,Ottawa St N,Kitchener,Active,-80.44042,43.45177
+GRT,10459,Eagle St N at 357 Eagle St N,Eagle St N,357 Eagle St N,Cambridge,Active,-80.36064995,43.40125501
+GRT,13735,University of Waterloo Station at Platform 6,University of Waterloo Station,Platform 6,Waterloo,Active,-80.539424,43.474442
+GRT,13277,Bishop St N at Cowansview Rd,Bishop St N,Cowansview Rd,Cambridge,Active,-80.309353,43.397505
+GRT,12724,Dansbury Dr at Boettger Pl,Dansbury Dr,Boettger Pl,Waterloo,Active,-80.50238198,43.49583002
+GRT,11708,Weber St E at Krug St,Weber St E,Krug St,Kitchener,Active,-80.481395,43.44928796
+GRT,11882,Lincoln Rd at University Ave E,Lincoln Rd,University Ave E,Waterloo,Active,-80.50675503,43.48258996
+GRT,13540,McGarry Dr at Meadowbrook Dr,McGarry Dr,Meadowbrook Dr,Kitchener,Active,-80.52541597,43.42057781
+GRT,13829,Sunrise Centre Station at Stop 1675,Sunrise Centre Station,Stop 1675,Kitchener,Active,-80.517084,43.415249
+GRT,10356,Conestoga Blvd at Sheldon Dr,Conestoga Blvd,Sheldon Dr,Cambridge,Active,-80.31951131,43.40248301
+GRT,10911,King St E at Dixon Rd,King St E,Dixon Rd,Kitchener,Active,-80.46023704,43.43750502
+GRT,10931,King St W at Agnes St,King St W,Agnes St,Kitchener,Active,-80.504801,43.455072
+GRT,12781,University Ave E at RIM Park Rd,University Ave E,RIM Park Rd,Waterloo,Active,-80.502299,43.51732
+GRT,13394,Frederick Station at ION platform - Northbound,Frederick Station,ION platform - Northbound,Kitchener,Active,-80.487358,43.44963
+GRT,11597,King St W at Agnes St,King St W,Agnes St,Kitchener,Active,-80.50538,43.455019
+GRT,12012,Max Becker Dr at Commonwealth St,Max Becker Dr,Commonwealth St,Kitchener,Active,-80.50314996,43.40426199
+GRT,13217,Bridge St W at Path to Auburn Dr,Bridge St W,Path to Auburn Dr,Waterloo,Active,-80.49213,43.488124
+GRT,12830,Conestoga Station at Stop 3800,Conestoga Station,Stop 3800,Waterloo,Active,-80.52913093,43.498417
+GRT,11304,Grand Ridge Dr at Stirling MacGregor Dr,Grand Ridge Dr,Stirling MacGregor Dr,Cambridge,Active,-80.33240999,43.33889298
+GRT,11386,Victoria St N at Forfar Ave,Victoria St N,Forfar Ave,Kitchener,Active,-80.45382298,43.46738004
+GRT,10790,Manitou Dr at Wabanaki Dr,Manitou Dr,Wabanaki Dr,Kitchener,Active,-80.44853503,43.40695695
+GRT,11968,Ottawa St S at Hoffman St,Ottawa St S,Hoffman St,Kitchener,Active,-80.47955198,43.43148696
+GRT,13205,Bridge St W at Chesapeake  Dr,Bridge St W,Chesapeake  Dr,Waterloo,Active,-80.517908,43.509083
+GRT,11014,Keats Way at Beechwood Dr,Keats Way,Beechwood Dr,Waterloo,Active,-80.57103704,43.45669997
+GRT,10102,Columbia St W at University of Waterloo - Ron Eydt Village,Columbia St W,University of Waterloo - Ron Eydt Village,Waterloo,Active,-80.55538997,43.47157699
+GRT,13826,Sunrise Centre Station at Stop 1672,Sunrise Centre Station,Stop 1672,Kitchener,Active,-80.517043,43.415376
+GRT,13259,Erbsville Rd at White Elm Blvd,Erbsville Rd,White Elm Blvd,Waterloo,Active,-80.586099,43.466458
+GRT,10039,Fairway Rd N at Idle Creek Dr,Fairway Rd N,Idle Creek Dr,Kitchener,Active,-80.41807804,43.44143501
+GRT,13574,Victoria St S at Path to Winding Meadow Crt,Victoria St S,Path to Winding Meadow Crt,Kitchener,Active,-80.550662,43.429381
+GRT,11895,Margaret Ave at Wilhelm St,Margaret Ave,Wilhelm St,Kitchener,Active,-80.49279299,43.46071998
+GRT,12051,David Bergey Dr at Ottawa St S,David Bergey Dr,Ottawa St S,Kitchener,Active,-80.52223302,43.41045796
+GRT,10161,Albert St at Longwood Dr,Albert St,Longwood Dr,Waterloo,Active,-80.53949698,43.49053498
+GRT,12306,Park St at 481 Park St,Park St,481 Park St,Kitchener,Active,-80.513562,43.45578699
+GRT,10163,Hazel St at Albert St,Hazel St,Albert St,Waterloo,Active,-80.53908696,43.48572898
+GRT,10982,Bridgeport Rd at Lang Cres,Bridgeport Rd,Lang Cres,Kitchener,Active,-80.49027295,43.47495199
+GRT,13785,King St N at Conestoga Station,King St N,Conestoga Station,Waterloo,Active,-80.529573,43.498127
+GRT,13910,Thomas Slee Dr at Frontier Dr,Thomas Slee Dr,Frontier Dr,Kitchener,Active,-80.42718769,43.3751594
+GRT,11433,Holborn Dr at River Rd E,Holborn Dr,River Rd E,Kitchener,Active,-80.443052,43.449185
+GRT,11436,Ottawa St N at Old Chicopee,Ottawa St N,Old Chicopee,Kitchener,Active,-80.440172,43.452163
+GRT,11685,Franklin St N at Dreger Ave,Franklin St N,Dreger Ave,Kitchener,Active,-80.44946996,43.44648702
+GRT,11842,University Ave E at Regina St N,University Ave E,Regina St N,Waterloo,Active,-80.52327803,43.47666997
+GRT,10513,Franklin Blvd at Pinebush Rd,Franklin Blvd,Pinebush Rd,Cambridge,Active,-80.30848502,43.41111799
+GRT,13129,Doon Mills Dr at Woodsmere Dr,Doon Mills Dr,Woodsmere Dr,Kitchener,Active,-80.42879558,43.38304436
+GRT,12763,Lexington Rd at Dearborn Blvd,Lexington Rd,Dearborn Blvd,Waterloo,Active,-80.51695004,43.48998301
+GRT,11297,Cedar St at Westgate Plaza,Cedar St,Westgate Plaza,Cambridge,Active,-80.32935495,43.35156302
+GRT,12257,Westmount Rd E at Queens Blvd,Westmount Rd E,Queens Blvd,Kitchener,Active,-80.50987201,43.43330801
+GRT,10868,Biehn Dr at Carlyle Dr,Biehn Dr,Carlyle Dr,Kitchener,Active,-80.45536296,43.39548003
+GRT,13711,Cambridge Centre Station at Stop 1065,Cambridge Centre Station,Stop 1065,Cambridge,Active,-80.322464,43.392901
+GRT,11942,Strasburg Rd at Block Line Rd,Strasburg Rd,Block Line Rd,Kitchener,Active,-80.47955201,43.41553801
+GRT,12420,Highland Rd W at Belmont Ave W,Highland Rd W,Belmont Ave W,Kitchener,Active,-80.50815295,43.43944298
+GRT,13530,Bingmans Centre Dr at 540 Bingemans Centre Dr,Bingmans Centre Dr,540 Bingemans Centre Dr,Kitchener,Active,-80.445577,43.472941
+GRT,11590,King St S at Allen St,King St S,Allen St,Waterloo,Active,-80.519378,43.460267
+GRT,13377,Research & Technology Station at ION platform - Southbound,Research & Technology Station,ION platform - Southbound,Waterloo,Active,-80.545184,43.481604
+GRT,13749,Oldfield Dr at Ottawa St N,Oldfield Dr,Ottawa St N,Kitchener,Active,-80.431944,43.455327
+GRT,11247,Blair Rd at Grant Ave,Blair Rd,Grant Ave,Cambridge,Active,-80.32703699,43.36673202
+GRT,12835,Blair Rd at Esther Ave,Blair Rd,Esther Ave,Cambridge,Active,-80.3362428,43.37386541
+GRT,13107,Pinebush Rd at Tyler St,Pinebush Rd,Tyler St,Cambridge,Active,-80.28759566,43.415287
+GRT,10639,Dundas St N at Cambridge St,Dundas St N,Cambridge St,Cambridge,Active,-80.30872498,43.36754503
+GRT,10355,Sheldon Dr at 150 Sheldon Dr,Sheldon Dr,150 Sheldon Dr,Cambridge,Active,-80.31567202,43.403142
+GRT,10602,Tu Lane St at King St E,Tu Lane St,King St E,Kitchener,Active,-80.38916995,43.40626699
+GRT,11901,Weber St E at Cedar St,Weber St E,Cedar St,Kitchener,Active,-80.48128702,43.44907996
+GRT,13575,Victoria St S at Westforest Trail,Victoria St S,Westforest Trail,Kitchener,Active,-80.543974,43.431715
+GRT,11813,Highland Rd W at West Ave,Highland Rd W,West Ave,Kitchener,Active,-80.50204295,43.44131797
+GRT,13102,Pinebush Rd at Struck Crt,Pinebush Rd,Struck Crt,Cambridge,Active,-80.31548358,43.41040054
+GRT,12039,Fischer-Hallman Rd at Queens Blvd,Fischer-Hallman Rd,Queens Blvd,Kitchener,Active,-80.52340501,43.42821701
+GRT,11361,Cherry Blossom Rd at Fountain St N,Cherry Blossom Rd,Fountain St N,Cambridge,Active,-80.37512795,43.41263529
+GRT,11750,Belmont Ave W at Adelaid St,Belmont Ave W,Adelaid St,Kitchener,Active,-80.51296499,43.44503696
+GRT,12508,Chesapeake Dr at Seawind Trail,Chesapeake Dr,Seawind Trail,Waterloo,Active,-80.50993296,43.51146702
+GRT,13808,Courtland Ave E at Block Line Rd,Courtland Ave E,Block Line Rd,Kitchener,Active,-80.463465,43.423324
+GRT,12413,Queens Blvd at Blueridge Ave,Queens Blvd,Blueridge Ave,Kitchener,Active,-80.508183,43.43406004
+GRT,11946,Block Line Rd at Laurentian Dr,Block Line Rd,Laurentian Dr,Kitchener,Active,-80.49148299,43.41276803
+GRT,11509,King St W at Water St,King St W,Water St,Kitchener,Active,-80.49474948,43.45174175
+GRT,11652,Wilson Ave at Woodhaven Rd,Wilson Ave,Woodhaven Rd,Kitchener,Active,-80.44932502,43.42500697
+GRT,10805,Strasburg Rd at Old Country Dr,Strasburg Rd,Old Country Dr,Kitchener,Active,-80.47620796,43.41087804
+GRT,10844,Biehn Dr at 53 Biehn Dr,Biehn Dr,53 Biehn Dr,Kitchener,Active,-80.45550004,43.396023
+GRT,10737,Manitou Dr at Cayuga Dr,Manitou Dr,Cayuga Dr,Kitchener,Active,-80.44769,43.40095
+GRT,10516,Franklin Blvd at Turnbull Crt,Franklin Blvd,Turnbull Crt,Cambridge,Active,-80.30610004,43.40347503
+GRT,10522,Franklin Blvd at Avenue Rd,Franklin Blvd,Avenue Rd,Cambridge,Active,-80.29898999,43.38006704
+GRT,10687,Grand River Blvd at River Rd E,Grand River Blvd,River Rd E,Kitchener,Active,-80.41914303,43.42690995
+GRT,10898,Strasburg Rd at Old Country Dr,Strasburg Rd,Old Country Dr,Kitchener,Active,-80.47606495,43.41105699
+GRT,13248,Hagey Blvd at Columbia St W,Hagey Blvd,Columbia St W,Waterloo,Active,-80.546436,43.475116
+GRT,13223,University Ave E at Auburn Dr,University Ave E,Auburn Dr,Waterloo,Active,-80.491808,43.497418
+GRT,12087,Country Hill Dr at Block Line Rd,Country Hill Dr,Block Line Rd,Kitchener,Active,-80.47545299,43.41670501
+GRT,13685,Forrest Ave E at Cushman Crt (Flex Stop),Forrest Ave E,Cushman Crt (Flex Stop),Wilmot,Active,-80.714807,43.388163
+GRT,12179,Hazelglen Dr at Chopin Dr,Hazelglen Dr,Chopin Dr,Kitchener,Active,-80.526495,43.440218
+GRT,11977,Charles St E at Cameron Heights,Charles St E,Cameron Heights,Kitchener,Active,-80.481208,43.445249
+GRT,10133,Conestoga Station at Stop 1128,Conestoga Station,Stop 1128,Waterloo,Active,-80.52883004,43.49807601
+GRT,13390,Central Station at ION platform - Northbound,Central Station,ION platform - Northbound,Kitchener,Active,-80.499049,43.453262
+GRT,11996,Strasburg Rd at Ottawa St S,Strasburg Rd,Ottawa St S,Kitchener,Active,-80.48732295,43.42243704
+GRT,13009,University Ave W at Hazel St,University Ave W,Hazel St,Waterloo,Active,-80.52755001,43.47513
+GRT,12432,Driftwood Dr at Hydro Corridor,Driftwood Dr,Hydro Corridor,Kitchener,Active,-80.54110297,43.416888
+GRT,13384,Waterloo Public Square Station at ION platform - Northbound,Waterloo Public Square Station,ION platform - Northbound,Waterloo,Active,-80.523,43.464142
+GRT,10787,Doon Village Rd at Farrier Dr,Doon Village Rd,Farrier Dr,Kitchener,Active,-80.44669798,43.39829199
+GRT,10525,Clyde Rd at Bluerock Cres,Clyde Rd,Bluerock Cres,Cambridge,Active,-80.29021001,43.37254197
+GRT,12694,University Ave E at Pastern Trail,University Ave E,Pastern Trail,Waterloo,Active,-80.49128803,43.49185199
+GRT,12339,Glasgow St at Dunbar Rd,Glasgow St,Dunbar Rd,Kitchener,Active,-80.52072,43.45052004
+GRT,11985,Stirling Ave S at Charles St E,Stirling Ave S,Charles St E,Kitchener,Active,-80.48108203,43.44281498
+GRT,10855,Black Walnut Dr at Pioneer Dr,Black Walnut Dr,Pioneer Dr,Kitchener,Active,-80.45067203,43.39135996
+GRT,11506,Wellington St N at King St W,Wellington St N,King St W,Kitchener,Active,-80.50291898,43.45450796
+GRT,11679,Franklin St N at Pinecrest Dr,Franklin St N,Pinecrest Dr,Kitchener,Active,-80.44687197,43.43607196
+GRT,12840,Sawmill Rd at Parkside Dr,Sawmill Rd,Parkside Dr,Woolwich,Active,-80.55085004,43.54480004
+GRT,10990,Bridgeport Rd E at Peppler St,Bridgeport Rd E,Peppler St,Waterloo,Active,-80.52024703,43.468115
+GRT,10454,Langs Dr at Trico Dr,Langs Dr,Trico Dr,Cambridge,Active,-80.33608201,43.39963499
+GRT,12874,Conestoga Blvd at GRT Conestoga Garage,Conestoga Blvd,GRT Conestoga Garage,Cambridge,Active,-80.31668821,43.3945253
+GRT,11592,King St S at Union St W,King St S,Union St W,Waterloo,Active,-80.51523804,43.45827097
+GRT,13391,Victoria Park Station at ION platform - Southbound,Victoria Park Station,ION platform - Southbound,Kitchener,Active,-80.493688,43.450181
+GRT,13266,Columbia St W at Fischer-Hallman Rd N,Columbia St W,Fischer-Hallman Rd N,Waterloo,Active,-80.565832,43.46791
+GRT,12415,Queens Blvd at Belmont Ave W,Queens Blvd,Belmont Ave W,Kitchener,Active,-80.50378796,43.43633004
+GRT,10927,King St W at Victoria St S,King St W,Victoria St S,Kitchener,Active,-80.49792099,43.45286198
+GRT,10840,Strasburg Rd at 1825 Strasburg Rd,Strasburg Rd,1825 Strasburg Rd,Kitchener,Active,-80.46794,43.39462799
+GRT,10941,King St N at Willis Way,King St N,Willis Way,Waterloo,Active,-80.522084,43.464641
+GRT,12635,Victoria St S at Strange St,Victoria St S,Strange St,Kitchener,Active,-80.50501501,43.44609204
+GRT,11733,Westmount Rd N at University Ave W,Westmount Rd N,University Ave W,Waterloo,Active,-80.54061804,43.46386296
+GRT,13537,Driftwood Dr at Westheights Dr,Driftwood Dr,Westheights Dr,Kitchener,Active,-80.439099,43.419152
+GRT,11771,Courtland Ave E at Madison Ave,Courtland Ave E,Madison Ave,Kitchener,Active,-80.486292,43.44230699
+GRT,10932,King St W at Kitchener Collegiate Institute,King St W,Kitchener Collegiate Institute,Kitchener,Active,-80.507723,43.455989
+GRT,10278,Winston Blvd at Gunn Ave,Winston Blvd,Gunn Ave,Cambridge,Active,-80.30444496,43.42137802
+GRT,10342,Pinebush Rd at Conestoga Blvd,Pinebush Rd,Conestoga Blvd,Cambridge,Active,-80.32156,43.409041
+GRT,10949,King St N at Columbia St E,King St N,Columbia St E,Waterloo,Active,-80.52600696,43.481803
+GRT,10107,Columbia St W at Chancery Ln,Columbia St W,Chancery Ln,Waterloo,Active,-80.57350702,43.46515701
+GRT,13535,Highview Dr at Havenwood Crt,Highview Dr,Havenwood Crt,Kitchener,Active,-80.55063,43.415441
+GRT,11873,Lexington Rd at Davenport Rd,Lexington Rd,Davenport Rd,Waterloo,Active,-80.51238702,43.49300503
+GRT,10938,King St S at Allen St,King St S,Allen St,Waterloo,Active,-80.518881,43.460277
+GRT,13135,Shirley Dr at Riverview Pl,Shirley Dr,Riverview Pl,Kitchener,Active,-80.42805781,43.47913623
+GRT,10363,Saginaw Pky at Stonecairn Dr,Saginaw Pky,Stonecairn Dr,Cambridge,Active,-80.29285497,43.39014199
+GRT,11711,Margaret Ave at Victoria St N,Margaret Ave,Victoria St N,Kitchener,Active,-80.48922,43.456786
+GRT,10653,King St E at Bishop St N,King St E,Bishop St N,Cambridge,Active,-80.346597,43.38997301
+GRT,11810,Queen St S at Courtland Ave E,Queen St S,Courtland Ave E,Kitchener,Active,-80.49335201,43.44588297
+GRT,11384,Victoria St N at Frederick St,Victoria St N,Frederick St,Kitchener,Active,-80.45742302,43.46624297
+GRT,11780,Courtland Ave E at Carwood Ave,Courtland Ave E,Carwood Ave,Kitchener,Active,-80.47240695,43.43308197
+GRT,10657,King St E at Waterloo St,King St E,Waterloo St,Cambridge,Active,-80.36124502,43.39745798
+GRT,12280,Victoria St S at Westmount Rd W,Victoria St S,Westmount Rd W,Kitchener,Active,-80.52029695,43.43964995
+GRT,13251,Fischer-Hallman Rd N at Laurelwood Dr,Fischer-Hallman Rd N,Laurelwood Dr,Waterloo,Active,-80.571918,43.473798
+GRT,10679,Morrison Rd at Grand River Blvd,Morrison Rd,Grand River Blvd,Kitchener,Active,-80.41445803,43.42785501
+GRT,13027,Elm Ridge Dr at Queens Blvd,Elm Ridge Dr,Queens Blvd,Kitchener,Active,-80.527673,43.42698498
+GRT,13643,Snyder's Rd E at Forler St,Snyder's Rd E,Forler St,Wilmot,Active,-80.656093,43.405559
+GRT,11486,Daniel Ave at Bloomingdale Rd,Daniel Ave,Bloomingdale Rd,Kitchener,Active,-80.46538203,43.48529299
+GRT,10520,Franklin Blvd at Glamis Rd,Franklin Blvd,Glamis Rd,Cambridge,Active,-80.30118495,43.38559196
+GRT,12312,Glasgow St at 344 Glasgow St,Glasgow St,344 Glasgow St,Kitchener,Active,-80.520902,43.45057
+GRT,11477,Bridge St E at Tyson Dr,Bridge St E,Tyson Dr,Kitchener,Active,-80.48029797,43.48120702
+GRT,13036,Boxwood Dr at NAPA Distribution Centre,Boxwood Dr,NAPA Distribution Centre,Cambridge,Active,-80.36500003,43.42812996
+GRT,12868,King St N at Lobsinger Line,King St N,Lobsinger Line,Woolwich,Active,-80.55759691,43.51543736
+GRT,12943,University Ave W at Baker St,University Ave W,Baker St,Waterloo,Active,-80.55871511,43.4375933
+GRT,13232,Lincoln Rd at Ellis Cres,Lincoln Rd,Ellis Cres,Waterloo,Active,-80.509799,43.474434
+GRT,12345,Union Blvd at Park St,Union Blvd,Park St,Kitchener,Active,-80.51604801,43.457445
+GRT,10114,Laurelwood Dr at Brookmill Cres,Laurelwood Dr,Brookmill Cres,Waterloo,Active,-80.58509196,43.47204197
+GRT,13848,Kumpf Dr at 580 Kumpf Dr,Kumpf Dr,580 Kumpf Dr,Waterloo,Active,-80.54289232,43.50127827
+GRT,13198,Columbia St W at Lucerne Ave,Columbia St W,Lucerne Ave,Waterloo,Active,-80.582651,43.457183
+GRT,13515,Shirley Ave at Riverbend Dr,Shirley Ave,Riverbend Dr,Kitchener,Active,-80.46708806,43.466904
+GRT,11202,First St at Caen St,First St,Caen St,Cambridge,Active,-80.31970196,43.34682003
+GRT,10754,Old Mill Rd at Mill Park Dr,Old Mill Rd,Mill Park Dr,Kitchener,Active,-80.41785204,43.39429198
+GRT,13684,Franklin Blvd at Lindsay Rd,Franklin Blvd,Lindsay Rd,Cambridge,Active,-80.30391,43.396304
+GRT,10764,Conestoga College Station at Stop 1732,Conestoga College Station,Stop 1732,Kitchener,Active,-80.403508,43.39029698
+GRT,12856,Arthur St S at Whippoorwill Dr,Arthur St S,Whippoorwill Dr,Woolwich,Active,-80.5622535,43.58448208
+GRT,10894,Bleams Rd at Otonabee Dr,Bleams Rd,Otonabee Dr,Kitchener,Active,-80.45263699,43.41228999
+GRT,12765,University Ave E at New Bedford Dr,University Ave E,New Bedford Dr,Waterloo,Active,-80.49750002,43.51084996
+GRT,13411,Hespeler Rd at Can-Amera Station,Hespeler Rd,Can-Amera Station,Cambridge,Active,-80.321055,43.38525
+GRT,11808,Courtland Ave E at Peter St,Courtland Ave E,Peter St,Kitchener,Active,-80.489182,43.44411999
+GRT,12301,Union St E at Moore Ave,Union St E,Moore Ave,Waterloo,Active,-80.51190795,43.46303003
+GRT,13642,Snyder's Rd E at Forler St,Snyder's Rd E,Forler St,Wilmot,Active,-80.656739,43.405625
+GRT,10176,Hazel St at Columbia St W,Hazel St,Columbia St W,Waterloo,Active,-80.53134677,43.47956611
+GRT,10315,Scott Rd at Fisher Mills Rd,Scott Rd,Fisher Mills Rd,Cambridge,Active,-80.320424,43.435742
+GRT,11410,Weber St E at Scott St,Weber St E,Scott St,Kitchener,Active,-80.48433602,43.45044296
+GRT,11635,Connaught St at Woodhaven Rd,Connaught St,Woodhaven Rd,Kitchener,Active,-80.44636997,43.42852701
+GRT,12641,Centennial Rd at Centennial Crt,Centennial Rd,Centennial Crt,Kitchener,Active,-80.42920374,43.47526418
+GRT,12754,King St N at Martin Grove Rd,King St N,Martin Grove Rd,Woolwich,Active,-80.54297415,43.51027241
+GRT,12290,Victoria St S at King St W,Victoria St S,King St W,Kitchener,Active,-80.49811996,43.45262501
+GRT,10839,Strasburg Rd at Battler Rd,Strasburg Rd,Battler Rd,Kitchener,Active,-80.46753498,43.39863803
+GRT,11266,Franklin Blvd at Path to Elliott St,Franklin Blvd,Path to Elliott St,Cambridge,Active,-80.28883801,43.35352202
+GRT,13839,Strasburg Rd at Huron Rd,Strasburg Rd,Huron Rd,Kitchener,Active,-80.46683399,43.39310118
+GRT,13792,Mount Hope St at King St W,Mount Hope St,King St W,Kitchener,Active,-80.513577,43.45737
+GRT,11329,Myers Rd at Woodland Dr,Myers Rd,Woodland Dr,Cambridge,Active,-80.30609698,43.340192
+GRT,10788,Manitou Dr at Homer Watson Blvd,Manitou Dr,Homer Watson Blvd,Kitchener,Active,-80.44702417,43.39963861
+GRT,13542,Ira Needles Blvd at Penelope Dr,Ira Needles Blvd,Penelope Dr,Kitchener,Active,-80.552657,43.418389
+GRT,11802,Courtland Ave E at Sydney St,Courtland Ave E,Sydney St,Kitchener,Active,-80.47503796,43.43576198
+GRT,10318,Poplar Dr at Scott Rd,Poplar Dr,Scott Rd,Cambridge,Active,-80.31741301,43.44141695
+GRT,11545,Union St E at Margaret Ave,Union St E,Margaret Ave,Waterloo,Active,-80.50030002,43.46722196
+GRT,11237,George St at Hobson St,George St,Hobson St,Cambridge,Active,-80.31866497,43.36358698
+GRT,13788,Northfield Dr W at Kumpf Dr,Northfield Dr W,Kumpf Dr,Waterloo,Active,-80.544335,43.497816
+GRT,10863,Old Carriage Dr at Pioneer Dr,Old Carriage Dr,Pioneer Dr,Kitchener,Active,-80.433307,43.39369298
+GRT,12461,Coulthard Blvd at Bantree Way,Coulthard Blvd,Bantree Way,Cambridge,Active,-80.28449798,43.40414197
+GRT,10843,Old Huron Rd at Maxwell Dr,Old Huron Rd,Maxwell Dr,Kitchener,Active,-80.45793196,43.39721002
+GRT,10136,Northfield Dr W at King St N,Northfield Dr W,King St N,Waterloo,Active,-80.534051,43.501573
+GRT,10562,Dobbie Dr at Orion Pl,Dobbie Dr,Orion Pl,Cambridge,Active,-80.28396798,43.36969802
+GRT,11346,Elgin St S at Elliott St,Elgin St S,Elliott St,Cambridge,Active,-80.29558496,43.35441201
+GRT,13724,Bishop St N at 1001 Bishop St N,Bishop St N,1001 Bishop St N,Cambridge,Active,-80.33352032,43.39360285
+GRT,10948,King St N at Hickory St E,King St N,Hickory St E,Waterloo,Active,-80.52515698,43.47772802
+GRT,10630,Dundas St N at Hopeton St,Dundas St N,Hopeton St,Cambridge,Active,-80.313927,43.37045702
+GRT,10539,Ainslie Terminal at Stop 1511,Ainslie Terminal,Stop 1511,Cambridge,Active,-80.31352204,43.35717101
+GRT,12934,University Ave W at Portsmouth Gate,University Ave W,Portsmouth Gate,Waterloo,Active,-80.55402629,43.43923263
+GRT,13012,Lexington Rd at Dearborn Pl,Lexington Rd,Dearborn Pl,Waterloo,Active,-80.51822699,43.48702298
+GRT,12892,Baldwin Dr at Guelph Ave,Baldwin Dr,Guelph Ave,Cambridge,Active,-80.313031,43.441747
+GRT,13382,Laurier-Waterloo Park Station at ION platform - Northbound,Laurier-Waterloo Park Station,ION platform - Northbound,Waterloo,Active,-80.534397,43.468879
+GRT,10079,River Rd E at Manchester Rd,River Rd E,Manchester Rd,Kitchener,Active,-80.45485995,43.458802
+GRT,13399,Mill Station at ION platform - Southbound,Mill Station,ION platform - Southbound,Kitchener,Active,-80.477961,43.433638
+GRT,10007,Frederick St at Edna St,Frederick St,Edna St,Kitchener,Active,-80.47357196,43.45792803
+GRT,10715,Confederation Dr at Lorraine Ave,Confederation Dr,Lorraine Ave,Kitchener,Active,-80.44241203,43.46024198
+GRT,13498,Old Zeller Dr at Fairway Rd N,Old Zeller Dr,Fairway Rd N,Kitchener,Active,-80.404613,43.44845
+GRT,10763,Conestoga College Internal Rd at Conestoga College Recreation Centre,Conestoga College Internal Rd,Conestoga College Recreation Centre,Kitchener,Active,-80.40806302,43.38963303
+GRT,11038,Erb St W at Dietz Ave,Erb St W,Dietz Ave,Waterloo,Active,-80.53359298,43.46068796
+GRT,12410,Queens Blvd at Warren Rd,Queens Blvd,Warren Rd,Kitchener,Active,-80.51526498,43.431543
+GRT,12967,Block Line Rd at Westmount Rd E,Block Line Rd,Westmount Rd E,Kitchener,Active,-80.49896407,43.41151206
+GRT,11239,Sunset Blvd at Saxony Cir,Sunset Blvd,Saxony Cir,Cambridge,Active,-80.32485303,43.36832198
+GRT,12460,Coulthard Blvd at Arthur Fach Dr,Coulthard Blvd,Arthur Fach Dr,Cambridge,Active,-80.2807072,43.40527266
+GRT,10643,Coronation Blvd at Goldie Ave,Coronation Blvd,Goldie Ave,Cambridge,Active,-80.32197795,43.37553301
+GRT,11647,Wilson Ave at Franklin St,Wilson Ave,Franklin St,Kitchener,Active,-80.45304503,43.42687295
+GRT,13846,Randall Dr at Conrad Pl,Randall Dr,Conrad Pl,Waterloo,Active,-80.54932319,43.50206931
+GRT,10527,Dobbie Dr at Clyde Rd,Dobbie Dr,Clyde Rd,Cambridge,Active,-80.28529202,43.372852
+GRT,10122,Columbia St W at Beechlawn Dr,Columbia St W,Beechlawn Dr,Waterloo,Active,-80.56178501,43.46909304
+GRT,12971,The Boardwalk at Lifestyle Way,The Boardwalk,Lifestyle Way,Waterloo,Active,-80.562984,43.437633
+GRT,12252,Westmount Rd E at Laurentian Dr,Westmount Rd E,Laurentian Dr,Kitchener,Active,-80.50100001,43.41705197
+GRT,11447,Krug St at River Rd E,Krug St,River Rd E,Kitchener,Active,-80.45829798,43.45832995
+GRT,11725,University Ave E at Weber St N,University Ave E,Weber St N,Waterloo,Active,-80.52071802,43.47782797
+GRT,10451,Hespeler Rd at 480 Hespeler Rd,Hespeler Rd,480 Hespeler Rd,Cambridge,Active,-80.324915,43.397558
+GRT,10998,Erb St W at Barrel Yards Blvd,Erb St W,Barrel Yards Blvd,Waterloo,Active,-80.52861719,43.46302432
+GRT,10899,Thaler Ave at 163 Thaler Ave,Thaler Ave,163 Thaler Ave,Kitchener,Active,-80.43111302,43.43414795

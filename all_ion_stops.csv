@@ -1,0 +1,36 @@
+source,stop_id,name,municipality,direction,status,stage1,stage2,phase,lon,lat
+ION,Preston (LRT),Preston (LRT),Cambridge,Bi-Directional,Planned,,LRT,2,-80.36436617816906,43.39851343862325
+ION,Can-Amera (Northbound),Can-Amera (Northbound),Cambridge,Northbound,Constructed,aBRT,,1,-80.32099105800314,43.38636952761265
+ION,Waterloo Public Square,Waterloo Public Square,Waterloo,Northbound,Constructed,LRT,LRT,1,-80.52299239690531,43.464149875777245
+ION,Laurier - Waterloo Park,Laurier - Waterloo Park,Waterloo,Bi-Directional,Constructed,LRT,LRT,1,-80.53440816102746,43.4688656767398
+ION,Willis Way,Willis Way,Waterloo,Southbound,Constructed,LRT,LRT,1,-80.52337277157697,43.462152497715735
+ION,Cambridge Centre Mall,Cambridge Centre Mall,Cambridge,Northbound,Constructed,aBRT,,1,-80.32301812109701,43.39280222425052
+ION,Sportsworld (LRT),Sportsworld (LRT),Kitchener,Bi-Directional,Planned,,LRT,2,-80.39837031305203,43.40931949110687
+ION,Grand River Hospital,Grand River Hospital,Kitchener,Bi-Directional,Constructed,LRT,LRT,1,-80.51205994712706,43.45729196018955
+ION,Allen,Allen,Waterloo,Bi-Directional,Constructed,LRT,LRT,1,-80.5183645133394,43.459844408720954
+ION,Kitchener Market,Kitchener Market,Kitchener,Bi-Directional,Constructed,LRT,LRT,1,-80.48359555965784,43.446303199072155
+ION,Pinebush (LRT),Pinebush (LRT),Cambridge,Bi-Directional,Planned,,LRT,2,-80.32728138210432,43.40548124497577
+ION,Delta (LRT),Delta (LRT),Cambridge,Bi-Directional,Planned,,LRT,2,-80.31823502377566,43.37624987466527
+ION,Delta (Southbound),Delta (Southbound),Cambridge,Southbound,Constructed,aBRT,,1,-80.31883238361742,43.37393801323884
+ION,Pinebush (Southbound),Pinebush (Southbound),Cambridge,Southbound,Constructed,aBRT,,1,-80.32805038968694,43.407232758551054
+ION,University of Waterloo,University of Waterloo,Waterloo,Bi-Directional,Constructed,LRT,LRT,1,-80.54116853332651,43.47324659780303
+ION,Delta (Northbound),Delta (Northbound),Cambridge,Northbound,Constructed,aBRT,,1,-80.31819373664412,43.37287972081405
+ION,Research and Technology,Research and Technology,Waterloo,Bi-Directional,Constructed,LRT,LRT,1,-80.54516179578839,43.48163206908413
+ION,Can-Amera (Southbound),Can-Amera (Southbound),Cambridge,Southbound,Constructed,aBRT,,1,-80.32107416598133,43.385473360122255
+ION,Can-Amera (LRT),Can-Amera (LRT),Cambridge,Bi-Directional,Planned,,LRT,2,-80.32106097914105,43.38608176537514
+ION,Borden,Borden,Kitchener,Bi-Directional,Constructed,LRT,LRT,1,-80.47537681419051,43.44241191838167
+ION,Victoria Park,Victoria Park,Kitchener,Southbound,Constructed,LRT,LRT,1,-80.49371174281096,43.45019329924629
+ION,Central Station - Innovation District,Central Station - Innovation District,Kitchener,Bi-Directional,Constructed,LRT,LRT,1,-80.49913518347545,43.45318411932592
+ION,Frederick,Frederick,Kitchener,Northbound,Constructed,LRT,LRT,1,-80.48734970935966,43.44965620791531
+ION,Block Line,Block Line,Kitchener,Bi-Directional,Constructed,LRT,LRT,1,-80.46308565754008,43.42283335888992
+ION,Sportsworld,Sportsworld,Kitchener,Bi-Directional,Planned,aBRT,,1,-80.39314179873298,43.41030302994487
+ION,Queen,Queen,Kitchener,Southbound,Constructed,LRT,LRT,1,-80.4894269184598,43.448634501956164
+ION,Northfield,Northfield,Waterloo,Bi-Directional,Constructed,LRT,LRT,1,-80.54321576462178,43.49721976492402
+ION,Kitchener City Hall,Kitchener City Hall,Kitchener,Northbound,Constructed,LRT,LRT,1,-80.49080659578594,43.45193624992082
+ION,Cambridge Terminus (LRT),Cambridge Terminus (LRT),Cambridge,Bi-Directional,Planned,,LRT,2,-80.31189912592103,43.358015864682024
+ION,Cambridge Centre Mall (LRT),Cambridge Centre Mall (LRT),Cambridge,Bi-Directional,Planned,,LRT,2,-80.32304496710695,43.392283082058704
+ION,Mill,Mill,Kitchener,Bi-Directional,Constructed,LRT,LRT,1,-80.47788018784387,43.43359008003842
+ION,Ainslie St Terminal,Ainslie St Terminal,Cambridge,Bi-Directional,Constructed,aBRT,,1,-80.31368399301483,43.35736249139326
+ION,Conestoga,Conestoga,Waterloo,Bi-Directional,Constructed,LRT,LRT,1,-80.52945517248838,43.498145432255555
+ION,Pinebush (Northbound),Pinebush (Northbound),Cambridge,Northbound,Constructed,aBRT,,1,-80.32775025585462,43.40761851482282
+ION,Fairway,Fairway,Kitchener,Bi-Directional,Constructed,LRT,LRT,1,-80.44180712541444,43.42233528027475

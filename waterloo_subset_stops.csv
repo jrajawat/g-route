@@ -1,0 +1,237 @@
+cross_street,direction,lat,lon,municipality,name,phase,source,stage1,stage2,status,stop_id,street
+McDougall Rd,,43.46121303,-80.54524804,Waterloo,Keats Way at McDougall Rd,,GRT,,,Active,12213,Keats Way
+Victoria St S,,43.44323498,-80.512007,Kitchener,Belmont Ave W at Victoria St S,,GRT,,,Active,11751,Belmont Ave W
+Blythwood Dr,,43.48567501,-80.53729296,Waterloo,Hazel St at Blythwood Dr,,GRT,,,Active,10179,Hazel St
+Fischer-Hallman Rd S,,43.431422,-80.525896,Kitchener,Highland Rd W at Fischer-Hallman Rd S,,GRT,,,Active,12234,Highland Rd W
+Hagey Blvd,,43.474512,-80.547288,Waterloo,Columbia St W at Hagey Blvd,,GRT,,,Active,13584,Columbia St W
+Green Meadow Cres,,43.49483001,-80.55954797,Waterloo,Northlake Dr at Green Meadow Cres,,GRT,,,Active,10145,Northlake Dr
+Brynhurst Blvd,,43.456715,-80.56486301,Waterloo,Keats Way at Brynhurst Blvd,,GRT,,,Active,12718,Keats Way
+King St N,,43.47819198,-80.52517302,Waterloo,Hickory St E at King St N,,GRT,,,Detour,11582,Hickory St E
+Bathurst Dr,,43.50587703,-80.53561797,Waterloo,Northland Rd at Bathurst Dr,,GRT,,,Active,10227,Northland Rd
+Tamarack Dr,,43.48496122,-80.53664656,Waterloo,Hazel St at Tamarack Dr,,GRT,,,Active,10164,Hazel St
+Nothland Rd,,43.504827,-80.536775,Waterloo,King St N at Nothland Rd,,GRT,,,Active,11137,King St N
+Weber St N,,43.483534,-80.522155,Waterloo,Columbia St E at Weber St N,,GRT,,,Active,12788,Columbia St E
+Thorndale Dr,,43.442331,-80.56581,Waterloo,Ira Needles Blvd at Thorndale Dr,,GRT,,,Active,12974,Ira Needles Blvd
+Chopin Dr,,43.44313399,-80.52266391,Kitchener,Westmount Rd W at Chopin Dr,,GRT,,,Active,12987,Westmount Rd W
+University of Waterloo - University Club,,43.47273698,-80.54797802,Waterloo,Ring Rd at University of Waterloo - University Club,,GRT,,,Active,11571,Ring Rd
+Central St,,43.46980701,-80.52373201,Waterloo,King St N at Central St,,GRT,,,Active,11589,King St N
+Platform 3,,43.474034,-80.541204,Waterloo,University of Waterloo Station at Platform 3,,GRT,,,Active,13726,University of Waterloo Station
+Oprington Dr,,43.43514,-80.532421,Kitchener,Victoria St S at Oprington Dr,,GRT,,,Active,12272,Victoria St S
+Westwood Dr,,43.446241,-80.523118,Kitchener,Westmount Rd W at Westwood Dr,,GRT,,,Active,12988,Westmount Rd W
+Platform 3,,43.474173,-80.540778,Waterloo,University of Waterloo Station at Platform 3,,GRT,,,Active,13728,University of Waterloo Station
+Heather Hill Pl,,43.448492,-80.558366,Waterloo,Westvale Dr at Heather Hill Pl,,GRT,,,Active,11024,Westvale Dr
+Cedar St,,43.53771695,-80.55388298,Woolwich,King St N at Cedar St,,GRT,,,Active,12861,King St N
+Sunview St,,43.47326499,-80.53314801,Waterloo,University Ave W at Sunview St,,GRT,,,Active,11729,University Ave W
+Stop 4003,,43.43544,-80.561022,Kitchener,The Boardwalk Station at Stop 4003,,GRT,,,Active,13180,The Boardwalk Station
+ION platform - Southbound,,43.462149,-80.523369,Waterloo,Willis Way Station at ION platform - Southbound,,GRT,,,Active,13383,Willis Way Station
+Gateview Dr,,43.450834,-80.557832,Waterloo,Erb St W at Gateview Dr,,GRT,,,Active,11022,Erb St W
+Avondale Ave N,,43.46226,-80.53031996,Waterloo,Erb St W at Avondale Ave N,,GRT,,,Active,10999,Erb St W
+Marsland Dr,,43.47930199,-80.51619803,Waterloo,University Ave E at Marsland Dr,,GRT,,,Active,11844,University Ave E
+Medical Centre,,43.440242,-80.565481,Waterloo,The Boardwalk at Medical Centre,,GRT,,,Active,13721,The Boardwalk
+Heather Hill Pl,,43.448411,-80.55822,Waterloo,Westvale Dr at Heather Hill Pl,,GRT,,,Active,13244,Westvale Dr
+ION platform - Southbound,,43.457268,-80.51207,Kitchener,Grand River Hospital Station at ION platform - Southbound,,GRT,,,Active,13388,Grand River Hospital Station
+Weber St N,,43.49155504,-80.537553,Waterloo,Albert St at Weber St N,,GRT,,,Active,10160,Albert St
+Wissler Rd,,43.50511196,-80.52586696,Waterloo,Northfield Dr E at Wissler Rd,,GRT,,,Active,11135,Northfield Dr E
+Parkside Dr,,43.49694799,-80.54620997,Waterloo,Northfield Dr W at Parkside Dr,,GRT,,,Active,10206,Northfield Dr W
+High Crest Lane W,,43.535182,-80.554343,Woolwich,King St N at High Crest Lane W,,GRT,,,Active,13267,King St N
+Marsland Dr,,43.484378,-80.519865,Waterloo,Columbia St E at Marsland Dr,,GRT,,,Active,12787,Columbia St E
+Westwood Cres,,43.44513804,-80.52958199,Kitchener,Westwood Dr at Westwood Cres,,GRT,,,Active,12317,Westwood Dr
+Glasglow St,,43.45198053,-80.51720006,Kitchener,Belmont Ave W at Glasglow St,,GRT,,,Active,12954,Belmont Ave W
+Heasley Park Trail,,43.4879488,-80.55008486,Waterloo,Cedarbrae Ave at Heasley Park Trail,,GRT,,,Active,10155,Cedarbrae Ave
+Chopin Dr,,43.43862699,-80.52419501,Kitchener,Hazelglen Dr at Chopin Dr,,GRT,,,Active,12186,Hazelglen Dr
+Sanford Fleming Dr,,43.45695702,-80.56489695,Waterloo,Keats Way at Sanford Fleming Dr,,GRT,,,Active,11012,Keats Way
+Union Blvd,,43.45251964,-80.52578763,Kitchener,Westmount Rd W at Union Blvd,,GRT,,,Active,12984,Westmount Rd W
+Eden Valley Cres,,43.44586301,-80.56014004,Waterloo,Westvale Dr at Eden Valley Cres,,GRT,,,Active,11026,Westvale Dr
+Stop 4001,,43.435392,-80.560344,Kitchener,The Boardwalk Station at Stop 4001,,GRT,,,Active,13178,The Boardwalk Station
+ION platform - Southbound,,43.498309,-80.529428,Waterloo,Conestoga Station at ION platform - Southbound,,GRT,,,Active,13373,Conestoga Station
+University of Waterloo - B.C. Matthews Hall,,43.47393197,-80.54622695,Waterloo,Ring Rd at University of Waterloo - B.C. Matthews Hall,,GRT,,,Active,11572,Ring Rd
+Midwood Cres,,43.45787299,-80.55446003,Waterloo,Keats Way at Midwood Cres,,GRT,,,Active,12209,Keats Way
+Benjamin Rd,,43.509883,-80.55580002,Woolwich,Farmers Market Rd at Benjamin Rd,,GRT,,,Active,12864,Farmers Market Rd
+Ezra Ave,,43.4723138,-80.52427451,Waterloo,King St N at Ezra Ave,,GRT,,,Active,13026,King St N
+University of Waterloo - Quantum Nano Centre,,43.470719,-80.54447,Waterloo,Ring Rd at University of Waterloo - Quantum Nano Centre,,GRT,,,Active,13583,Ring Rd
+Weber St N,,43.46983704,-80.51364997,Waterloo,Bridgeport Rd E at Weber St N,,GRT,,,Active,10988,Bridgeport Rd E
+Davenport Rd,,43.50528602,-80.529518,Waterloo,Frobisher Dr at Davenport Rd,,GRT,,,Active,11106,Frobisher Dr
+Conestogo Rd W,,43.500188,-80.536994,Waterloo,Northfield Dr W at Conestogo Rd W,,GRT,,,Active,10207,Northfield Dr W
+Westmount Rd N,,43.46449857,-80.54145644,Waterloo,University Ave W at Westmount Rd N,,GRT,,,Active,12659,University Ave W
+King St N,,43.47582701,-80.52545,Waterloo,University Ave W at King St N,,GRT,,,Active,11841,University Ave W
+300 Erb St W,,43.45651399,-80.54235897,Waterloo,Erb St W at 300 Erb St W,,GRT,,,Active,11004,Erb St W
+Alice Ave,,43.44182802,-80.51525695,Kitchener,Victoria St S at Alice Ave,,GRT,,,Active,12175,Victoria St S
+Highland Rd,,43.43616592,-80.51459317,Kitchener,Westmount Rd W at Highland Rd,,GRT,,,Active,12979,Westmount Rd W
+Douglas St,,43.45566227,-80.52908588,Waterloo,Westmount Rd S at Douglas St,,GRT,,,Active,12993,Westmount Rd S
+Thorndale Dr,,43.442434,-80.565642,Waterloo,Ira Needles Blvd at Thorndale Dr,,GRT,,,Active,12973,Ira Needles Blvd
+Fischer-Hallman Rd S,,43.45260195,-80.55283004,Waterloo,Erb St W at Fischer-Hallman Rd S,,GRT,,,Active,11032,Erb St W
+Toman Dr,,43.51540536,-80.51873322,Waterloo,Northfield Dr E at Toman Dr,,GRT,,,Active,12778,Northfield Dr E
+Sunview St,,43.47339,-80.532244,Waterloo,University Ave W at Sunview St,,GRT,,,Active,13057,University Ave W
+Weber St N,,43.47127,-80.513586,Waterloo,Lincoln Rd at Weber St N,,GRT,,,Active,13234,Lincoln Rd
+Davenport Rd,,43.50535803,-80.52920795,Waterloo,Frobisher Dr at Davenport Rd,,GRT,,,Active,10215,Frobisher Dr
+Bridgeport Rd W,,43.46733696,-80.52307696,Waterloo,King St N at Bridgeport Rd W,,GRT,,,Active,10991,King St N
+Lester St,,43.47797199,-80.53743494,Waterloo,Columbia St W at Lester St,,GRT,,,Active,11567,Columbia St W
+University of Waterloo - Village 1,,43.47315996,-80.55098304,Waterloo,Columbia St W at University of Waterloo - Village 1,,GRT,,,Active,10101,Columbia St W
+Gatestone Blvd,,43.470116,-80.568257,Waterloo,Fischer-Hallman Rd N at Gatestone Blvd,,GRT,,,Active,13249,Fischer-Hallman Rd N
+Gage Ave,,43.44773303,-80.51414801,Kitchener,Belmont Ave W at Gage Ave,,GRT,,,Active,11820,Belmont Ave W
+Ring Rd Exit,,43.46618702,-80.540567,Waterloo,University Ave W at Ring Rd Exit,,GRT,,,Active,11732,University Ave W
+Northland Rd,,43.50894,-80.528472,Waterloo,McMurray Rd at Northland Rd,,GRT,,,Active,10222,McMurray Rd
+Northfield Dr E,,43.502142,-80.533603,Waterloo,King St N at Northfield Dr E,,GRT,,,Active,11136,King St N
+Bridge St W,,43.51191698,-80.52326695,Waterloo,Frobisher Dr at Bridge St W,,GRT,,,Active,12772,Frobisher Dr
+John St W,,43.45444696,-80.52760496,Waterloo,Westmount Rd S at John St W,,GRT,,,Active,11828,Westmount Rd S
+Fischer-Hallman Rd N,,43.45819549,-80.557256,Waterloo,Keats Way at Fischer-Hallman Rd N,,GRT,,,Active,12991,Keats Way
+Henry St,,43.53299298,-80.55456195,Woolwich,King St N at Henry St,,GRT,,,Active,11139,King St N
+Old Abbey Rd,,43.49994799,-80.52560995,Waterloo,Davenport Rd at Old Abbey Rd,,GRT,,,Active,10211,Davenport Rd
+Glasgow St,,43.44756002,-80.52849797,Kitchener,Inwood Dr at Glasgow St,,GRT,,,Active,12315,Inwood Dr
+Overlea Dr,,43.43528701,-80.51253803,Kitchener,Westmount Rd W at Overlea Dr,,GRT,,,Active,12239,Westmount Rd W
+Rupert St,,43.506596,-80.534454,Waterloo,Northland Rd at Rupert St,,GRT,,,Active,10226,Northland Rd
+ION platform - Northbound,,43.497206,-80.543176,Waterloo,Northfield Station at ION platform - Northbound,,GRT,,,Active,13375,Northfield Station
+Westcourt Pl,,43.46217696,-80.53902699,Waterloo,Westmount Rd N at Westcourt Pl,,GRT,,,Active,11734,Westmount Rd N
+William St,,43.45589295,-80.52906801,Waterloo,Westmount Rd S at William St,,GRT,,,Active,11829,Westmount Rd S
+Marshall,,43.47247136,-80.52405569,Waterloo,King St N at Marshall,,GRT,,,Active,13025,King St N
+Lester St,,43.47785695,-80.53726198,Waterloo,Columbia St W at Lester St,,GRT,,,Active,11575,Columbia St W
+Devitt Ave,,43.46917001,-80.51523199,Waterloo,Bridgeport Rd E at Devitt Ave,,GRT,,,Active,10989,Bridgeport Rd E
+Golden Eagle Rd,,43.49901593,-80.55138072,Waterloo,Weber St N at Golden Eagle Rd,,GRT,,,Active,13852,Weber St N
+ION platform - Southbound,,43.473261,-80.541209,Waterloo,University of Waterloo Station at ION platform - Southbound,,GRT,,,Active,13380,University of Waterloo Station
+Sprucehill Ave,,43.48961399,-80.54806001,Waterloo,Cedarbrae Ave at Sprucehill Ave,,GRT,,,Active,10157,Cedarbrae Ave
+Marshall St,,43.47503801,-80.51744296,Waterloo,Weber St N at Marshall St,,GRT,,,Active,11889,Weber St N
+Hazel St,,43.47524001,-80.52789997,Waterloo,University Ave W at Hazel St,,GRT,,,Active,13008,University Ave W
+Columbia St E,,43.482448,-80.526106,Waterloo,King St N at Columbia St E,,GRT,,,Active,13274,King St N
+Holly St,,43.48070297,-80.52968698,Waterloo,Columbia St W at Holly St,,GRT,,,Active,11564,Columbia St W
+Dearborn Blvd,,43.490208,-80.516945,Waterloo,Lexington Rd at Dearborn Blvd,,GRT,,,Active,12785,Lexington Rd
+Northfield Dr E,,43.50147446,-80.530614,Waterloo,Kraus Dr at Northfield Dr E,,GRT,,,Active,13158,Kraus Dr
+Hemlock St,,43.47412697,-80.53031004,Waterloo,University Ave W at Hemlock St,,GRT,,,Active,11839,University Ave W
+Path to McCarron Cres,,43.45732697,-80.55201295,Waterloo,Keats Way at Path to McCarron Cres,,GRT,,,Active,12219,Keats Way
+Wissler Rd,,43.50521499,-80.52555197,Waterloo,Northfield Dr E at Wissler Rd,,GRT,,,Active,10954,Northfield Dr E
+Randall Dr,,43.5011074,-80.55294434,Waterloo,Weber St N at Randall Dr,,GRT,,,Active,13853,Weber St N
+Waterloo Collegiate Institute,,43.47895499,-80.53103103,Waterloo,Hazel St at Waterloo Collegiate Institute,,GRT,,,Active,10167,Hazel St
+Longwood Dr,,43.49054201,-80.53916294,Waterloo,Albert St at Longwood Dr,,GRT,,,Active,10182,Albert St
+Wes Graham Way,,43.47924997,-80.54958696,Waterloo,Hagey Blvd at Wes Graham Way,,GRT,,,Active,13019,Hagey Blvd
+Gage Ave,,43.447603,-80.51428796,Kitchener,Belmont Ave W at Gage Ave,,GRT,,,Active,11749,Belmont Ave W
+Hazel St,,43.48003495,-80.53112504,Waterloo,Columbia St W at Hazel St,,GRT,,,Active,11577,Columbia St W
+Highland Rd,,43.43154013,-80.52521131,Kitchener,Fischer-Hallman Rd at Highland Rd,,GRT,,,Active,12948,Fischer-Hallman Rd
+Kumpf Dr,,43.50372086,-80.54473724,Waterloo,Randall Dr at Kumpf Dr,,GRT,,,Active,13847,Randall Dr
+Amos Ave,,43.45842202,-80.54916703,Waterloo,Keats Way at Amos Ave,,GRT,,,Active,12992,Keats Way
+Toman Dr,,43.51481504,-80.51950905,Waterloo,Northfield Dr E at Toman Dr,,GRT,,,Active,12770,Northfield Dr E
+Dunvegan Dr,,43.49454204,-80.51019998,Waterloo,Lexington Rd at Dunvegan Dr,,GRT,,,Active,12700,Lexington Rd
+North Campus Rd,,43.4744891,-80.54661289,Waterloo,Columbia St W at North Campus Rd,,GRT,,,Active,12946,Columbia St W
+Sandford Fleming Dr,,43.45600301,-80.56173502,Waterloo,Keats Way at Sandford Fleming Dr,,GRT,,,Active,12531,Keats Way
+Westmount Rd E,,43.43316303,-80.51068296,Kitchener,Queens Blvd at Westmount Rd E,,GRT,,,Active,12412,Queens Blvd
+Leighland Dr,,43.45763799,-80.56832195,Waterloo,Keats Way at Leighland Dr,,GRT,,,Active,11013,Keats Way
+Thorndale Dr,,43.44856296,-80.55030196,Waterloo,Fischer-Hallman Rd S at Thorndale Dr,,GRT,,,Active,12226,Fischer-Hallman Rd S
+Columbia St W,,43.46855802,-80.567125,Waterloo,Fischer-Hallman Rd N at Columbia St W,,GRT,,,Active,10120,Fischer-Hallman Rd N
+Gallarno Crt,,43.44251303,-80.535163,Kitchener,Westwood Dr at Gallarno Crt,,GRT,,,Active,12320,Westwood Dr
+Columbia St W,,43.48008702,-80.53190201,Waterloo,Hazel St at Columbia St W,,GRT,,,Active,13013,Hazel St
+Frobisher Dr,,43.51199029,-80.52253964,Waterloo,Bridge St W at Frobisher Dr,,GRT,,,Active,12955,Bridge St W
+Kingscourt Dr,,43.49705197,-80.520597,Waterloo,Davenport Rd at Kingscourt Dr,,GRT,,,Active,11869,Davenport Rd
+Weber St N,,43.49565116,-80.54970194,Waterloo,Northfield Dr W at Weber St N,,GRT,,,Active,10204,Northfield Dr W
+Brookhaven Cres,,43.48704303,-80.55542298,Waterloo,Glen Forrest Blvd at Brookhaven Cres,,GRT,,,Active,10191,Glen Forrest Blvd
+Skylark Rd,,43.49455402,-80.55677256,Waterloo,Northlake Dr at Skylark Rd,,GRT,,,Active,10201,Northlake Dr
+Belmont Ave W,,43.44301499,-80.51228798,Kitchener,Victoria St S at Belmont Ave W,,GRT,,,Active,12174,Victoria St S
+Lincoln Rd,,43.47110197,-80.51349995,Waterloo,Weber St N at Lincoln Rd,,GRT,,,Active,11720,Weber St N
+Regina St,,43.47684801,-80.52327195,Waterloo,University Ave E at Regina St,,GRT,,,Active,11726,University Ave E
+York St,,43.45293501,-80.51388501,Kitchener,Glasgow St at York St,,GRT,,,Active,12342,Glasgow St
+King St N,,43.501393,-80.533612,Waterloo,Northfield Dr W at King St N,,GRT,,,Active,10208,Northfield Dr W
+Westvale Dr,,43.45005798,-80.55761095,Waterloo,Gateview Dr at Westvale Dr,,GRT,,,Active,11023,Gateview Dr
+Glasgow St,,43.45016003,-80.51574197,Kitchener,Belmont Ave W at Glasgow St,,GRT,,,Active,11821,Belmont Ave W
+Erb St W,,43.45291003,-80.553685,Waterloo,Fischer-Hallman Rd N at Erb St W,,GRT,,,Active,11008,Fischer-Hallman Rd N
+Columbia St,,43.48233198,-80.52635196,Waterloo,King St N at Columbia St,,GRT,,,Active,11562,King St N
+Albert St,,43.49204204,-80.53763301,Waterloo,Weber St N at Albert St,,GRT,,,Active,10183,Weber St N
+Phillip St,,43.472251,-80.536069,Waterloo,University Ave W at Phillip St,,GRT,,,Active,11730,University Ave W
+Glen Forrest Blvd,,43.48567001,-80.55156004,Waterloo,Cedarbrae Ave at Glen Forrest Blvd,,GRT,,,Active,10154,Cedarbrae Ave
+Lawrence Ave,,43.44197504,-80.51468504,Kitchener,Victoria St S at Lawrence Ave,,GRT,,,Active,12282,Victoria St S
+Overlea Dr,,43.43540704,-80.51246004,Kitchener,Westmount Rd W at Overlea Dr,,GRT,,,Active,12258,Westmount Rd W
+Roslin Ave S,,43.46148697,-80.53172802,Waterloo,Erb St W at Roslin Ave S,,GRT,,,Active,11039,Erb St W
+Westwood Dr,,43.44687857,-80.52294409,Kitchener,Westmount Rd W at Westwood Dr,,GRT,,,Active,12982,Westmount Rd W
+Seawind Trail,,43.51066958,-80.51389947,Waterloo,Chesapeake Dr at Seawind Trail,,GRT,,,Active,13131,Chesapeake Dr
+190 Northfield Dr W,,43.496675,-80.54752,Waterloo,Northfield Dr W at 190 Northfield Dr W,,GRT,,,Active,10140,Northfield Dr W
+Stop 3798,,43.49818164,-80.52927432,Waterloo,Conestoga Station at Stop 3798,,GRT,,,Active,12828,Conestoga Station
+Hemlock St,,43.47426072,-80.53054665,Waterloo,University Ave W at Hemlock St,,GRT,,,Active,11728,University Ave W
+Wyman Rd,,43.50503496,-80.53733199,Waterloo,King St N at Wyman Rd,,GRT,,,Active,11142,King St N
+Stop 3908,,43.435158,-80.560441,Kitchener,The Boardwalk Station at Stop 3908,,GRT,,,Active,12978,The Boardwalk Station
+202 Erb St W,,43.46017996,-80.53514295,Waterloo,Erb St W at 202 Erb St W,,GRT,,,Active,11001,Erb St W
+Glasgow St,,43.44937691,-80.52360179,Kitchener,Westmount Rd W at Glasgow St,,GRT,,,Active,12983,Westmount Rd W
+Westmount Rd W,,43.435665,-80.514513,Kitchener,Highland Rd W at Westmount Rd W,,GRT,,,Active,12453,Highland Rd W
+John St,,43.45434699,-80.52765996,Waterloo,Westmount Rd S at John St,,GRT,,,Active,11740,Westmount Rd S
+Wes Graham Way,,43.47897002,-80.54902203,Waterloo,Hagey Blvd at Wes Graham Way,,GRT,,,Active,13020,Hagey Blvd
+Blue Springs Dr,,43.48753303,-80.52745202,Waterloo,King St N at Blue Springs Dr,,GRT,,,Active,11560,King St N
+ION platform - Northbound,,43.457299,-80.512034,Kitchener,Grand River Hospital Station at ION platform - Northbound,,GRT,,,Active,13387,Grand River Hospital Station
+Willis Way,,43.462147,-80.523193,Waterloo,Caroline St S at Willis Way,,GRT,,,Active,10996,Caroline St S
+Westvale Dr,,43.440893,-80.54878,Waterloo,University Ave W at Westvale Dr,,GRT,,,Active,12933,University Ave W
+Caroline St,,43.46413998,-80.52599698,Waterloo,Erb St W at Caroline St,,GRT,,,Active,10997,Erb St W
+Northfield Dr W,,43.496888,-80.545815,Waterloo,Parkside Dr at Northfield Dr W,,GRT,,,Active,12793,Parkside Dr
+Glasgow St,,43.44364798,-80.54014902,Kitchener,Westwood Dr at Glasgow St,,GRT,,,Active,12322,Westwood Dr
+King St N,,43.47603002,-80.52577803,Waterloo,University Ave W at King St N,,GRT,,,Active,10171,University Ave W
+Phillip St,,43.47219959,-80.53542935,Waterloo,University Ave W at Phillip St,,GRT,,,Active,13053,University Ave W
+Fischer-Hallman Rd N,,43.452345,-80.554144,Waterloo,Erb St W at Fischer-Hallman Rd N,,GRT,,,Active,13219,Erb St W
+Karn St,,43.445182,-80.51288199,Kitchener,Belmont Ave W at Karn St,,GRT,,,Active,11819,Belmont Ave W
+Hickory St W,,43.47788201,-80.53003003,Waterloo,Hazel St at Hickory St W,,GRT,,,Active,10173,Hazel St
+University Ave W,,43.44353004,-80.54469197,Kitchener,Fischer-Hallman Rd at University Ave W,,GRT,,,Active,12228,Fischer-Hallman Rd
+King St S,,43.461083,-80.52189001,Waterloo,William St W at King St S,,GRT,,,Active,12760,William St W
+Alexandra Ave,,43.45683999,-80.53090201,Waterloo,Westmount Rd S at Alexandra Ave,,GRT,,,Active,11830,Westmount Rd S
+Westwood Dr,,43.4455,-80.52702199,Kitchener,Inwwod Dr at Westwood Dr,,GRT,,,Active,12316,Inwwod Dr
+Gallarno Crt,,43.44226997,-80.53567497,Kitchener,Westwood Dr at Gallarno Crt,,GRT,,,Active,12332,Westwood Dr
+Hazel St,,43.480075,-80.531527,Waterloo,Columbia St W at Hazel St,,GRT,,,Active,11565,Columbia St W
+Fernwood Pl,,43.44500501,-80.53114704,Kitchener,Westwood Dr at Fernwood Pl,,GRT,,,Active,12333,Westwood Dr
+Belmont Ave W,,43.44301243,-80.51193983,Kitchener,Victoria St S at Belmont Ave W,,GRT,,,Active,12634,Victoria St S
+Glen Forrest Blvd,,43.48568299,-80.55170199,Waterloo,Cedarbrae Ave at Glen Forrest Blvd,,GRT,,,Active,10190,Cedarbrae Ave
+Skylark Rd,,43.49352704,-80.55592696,Waterloo,Northfield Dr W at Skylark Rd,,GRT,,,Active,10202,Northfield Dr W
+Cedar St,,43.53785696,-80.55377305,Woolwich,King St N at Cedar St,,GRT,,,Active,11140,King St N
+Austin Dr,,43.48154298,-80.53291195,Waterloo,Hazel St at Austin Dr,,GRT,,,Active,10177,Hazel St
+Northfield Dr E,,43.503923,-80.52871796,Waterloo,Davenport Rd at Northfield Dr E,,GRT,,,Active,10213,Davenport Rd
+Albert St,,43.48573803,-80.53943298,Waterloo,Hazel St at Albert St,,GRT,,,Active,10180,Hazel St
+Platform 6,,43.474442,-80.539424,Waterloo,University of Waterloo Station at Platform 6,,GRT,,,Active,13735,University of Waterloo Station
+Stop 3800,,43.498417,-80.52913093,Waterloo,Conestoga Station at Stop 3800,,GRT,,,Active,12830,Conestoga Station
+Chesapeake  Dr,,43.509083,-80.517908,Waterloo,Bridge St W at Chesapeake  Dr,,GRT,,,Active,13205,Bridge St W
+University of Waterloo - Ron Eydt Village,,43.47157699,-80.55538997,Waterloo,Columbia St W at University of Waterloo - Ron Eydt Village,,GRT,,,Active,10102,Columbia St W
+Longwood Dr,,43.49053498,-80.53949698,Waterloo,Albert St at Longwood Dr,,GRT,,,Active,10161,Albert St
+481 Park St,,43.45578699,-80.513562,Kitchener,Park St at 481 Park St,,GRT,,,Active,12306,Park St
+Albert St,,43.48572898,-80.53908696,Waterloo,Hazel St at Albert St,,GRT,,,Active,10163,Hazel St
+Conestoga Station,,43.498127,-80.529573,Waterloo,King St N at Conestoga Station,,GRT,,,Active,13785,King St N
+Regina St N,,43.47666997,-80.52327803,Waterloo,University Ave E at Regina St N,,GRT,,,Active,11842,University Ave E
+Dearborn Blvd,,43.48998301,-80.51695004,Waterloo,Lexington Rd at Dearborn Blvd,,GRT,,,Active,12763,Lexington Rd
+Allen St,,43.460267,-80.519378,Waterloo,King St S at Allen St,,GRT,,,Active,11590,King St S
+ION platform - Southbound,,43.481604,-80.545184,Waterloo,Research & Technology Station at ION platform - Southbound,,GRT,,,Active,13377,Research & Technology Station
+Westforest Trail,,43.431715,-80.543974,Kitchener,Victoria St S at Westforest Trail,,GRT,,,Active,13575,Victoria St S
+Adelaid St,,43.44503696,-80.51296499,Kitchener,Belmont Ave W at Adelaid St,,GRT,,,Active,11750,Belmont Ave W
+Columbia St W,,43.475116,-80.546436,Waterloo,Hagey Blvd at Columbia St W,,GRT,,,Active,13248,Hagey Blvd
+Chopin Dr,,43.440218,-80.526495,Kitchener,Hazelglen Dr at Chopin Dr,,GRT,,,Active,12179,Hazelglen Dr
+Stop 1128,,43.49807601,-80.52883004,Waterloo,Conestoga Station at Stop 1128,,GRT,,,Active,10133,Conestoga Station
+Hazel St,,43.47513,-80.52755001,Waterloo,University Ave W at Hazel St,,GRT,,,Active,13009,University Ave W
+ION platform - Northbound,,43.464142,-80.523,Waterloo,Waterloo Public Square Station at ION platform - Northbound,,GRT,,,Active,13384,Waterloo Public Square Station
+Dunbar Rd,,43.45052004,-80.52072,Kitchener,Glasgow St at Dunbar Rd,,GRT,,,Active,12339,Glasgow St
+Peppler St,,43.468115,-80.52024703,Waterloo,Bridgeport Rd E at Peppler St,,GRT,,,Active,10990,Bridgeport Rd E
+Union St W,,43.45827097,-80.51523804,Waterloo,King St S at Union St W,,GRT,,,Active,11592,King St S
+Fischer-Hallman Rd N,,43.46791,-80.565832,Waterloo,Columbia St W at Fischer-Hallman Rd N,,GRT,,,Active,13266,Columbia St W
+Willis Way,,43.464641,-80.522084,Waterloo,King St N at Willis Way,,GRT,,,Active,10941,King St N
+University Ave W,,43.46386296,-80.54061804,Waterloo,Westmount Rd N at University Ave W,,GRT,,,Active,11733,Westmount Rd N
+Columbia St E,,43.481803,-80.52600696,Waterloo,King St N at Columbia St E,,GRT,,,Active,10949,King St N
+Davenport Rd,,43.49300503,-80.51238702,Waterloo,Lexington Rd at Davenport Rd,,GRT,,,Active,11873,Lexington Rd
+Allen St,,43.460277,-80.518881,Waterloo,King St S at Allen St,,GRT,,,Active,10938,King St S
+Westmount Rd W,,43.43964995,-80.52029695,Kitchener,Victoria St S at Westmount Rd W,,GRT,,,Active,12280,Victoria St S
+344 Glasgow St,,43.45057,-80.520902,Kitchener,Glasgow St at 344 Glasgow St,,GRT,,,Active,12312,Glasgow St
+Lobsinger Line,,43.51543736,-80.55759691,Woolwich,King St N at Lobsinger Line,,GRT,,,Active,12868,King St N
+Baker St,,43.4375933,-80.55871511,Waterloo,University Ave W at Baker St,,GRT,,,Active,12943,University Ave W
+Park St,,43.457445,-80.51604801,Kitchener,Union Blvd at Park St,,GRT,,,Active,12345,Union Blvd
+580 Kumpf Dr,,43.50127827,-80.54289232,Waterloo,Kumpf Dr at 580 Kumpf Dr,,GRT,,,Active,13848,Kumpf Dr
+Moore Ave,,43.46303003,-80.51190795,Waterloo,Union St E at Moore Ave,,GRT,,,Active,12301,Union St E
+Columbia St W,,43.47956611,-80.53134677,Waterloo,Hazel St at Columbia St W,,GRT,,,Active,10176,Hazel St
+Martin Grove Rd,,43.51027241,-80.54297415,Woolwich,King St N at Martin Grove Rd,,GRT,,,Active,12754,King St N
+King St W,,43.45737,-80.513577,Kitchener,Mount Hope St at King St W,,GRT,,,Active,13792,Mount Hope St
+Kumpf Dr,,43.497816,-80.544335,Waterloo,Northfield Dr W at Kumpf Dr,,GRT,,,Active,13788,Northfield Dr W
+King St N,,43.501573,-80.534051,Waterloo,Northfield Dr W at King St N,,GRT,,,Active,10136,Northfield Dr W
+Hickory St E,,43.47772802,-80.52515698,Waterloo,King St N at Hickory St E,,GRT,,,Active,10948,King St N
+Portsmouth Gate,,43.43923263,-80.55402629,Waterloo,University Ave W at Portsmouth Gate,,GRT,,,Active,12934,University Ave W
+Dearborn Pl,,43.48702298,-80.51822699,Waterloo,Lexington Rd at Dearborn Pl,,GRT,,,Active,13012,Lexington Rd
+ION platform - Northbound,,43.468879,-80.534397,Waterloo,Laurier-Waterloo Park Station at ION platform - Northbound,,GRT,,,Active,13382,Laurier-Waterloo Park Station
+Dietz Ave,,43.46068796,-80.53359298,Waterloo,Erb St W at Dietz Ave,,GRT,,,Active,11038,Erb St W
+Warren Rd,,43.431543,-80.51526498,Kitchener,Queens Blvd at Warren Rd,,GRT,,,Active,12410,Queens Blvd
+Conrad Pl,,43.50206931,-80.54932319,Waterloo,Randall Dr at Conrad Pl,,GRT,,,Active,13846,Randall Dr
+Beechlawn Dr,,43.46909304,-80.56178501,Waterloo,Columbia St W at Beechlawn Dr,,GRT,,,Active,10122,Columbia St W
+Lifestyle Way,,43.437633,-80.562984,Waterloo,The Boardwalk at Lifestyle Way,,GRT,,,Active,12971,The Boardwalk
+Weber St N,,43.47782797,-80.52071802,Waterloo,University Ave E at Weber St N,,GRT,,,Active,11725,University Ave E
+Barrel Yards Blvd,,43.46302432,-80.52861719,Waterloo,Erb St W at Barrel Yards Blvd,,GRT,,,Active,10998,Erb St W
+,Northbound,43.464149875777245,-80.52299239690531,Waterloo,Waterloo Public Square,1.0,ION,LRT,LRT,Constructed,Waterloo Public Square,
+,Bi-Directional,43.4688656767398,-80.53440816102746,Waterloo,Laurier - Waterloo Park,1.0,ION,LRT,LRT,Constructed,Laurier - Waterloo Park,
+,Southbound,43.462152497715735,-80.52337277157697,Waterloo,Willis Way,1.0,ION,LRT,LRT,Constructed,Willis Way,
+,Bi-Directional,43.45729196018955,-80.51205994712706,Kitchener,Grand River Hospital,1.0,ION,LRT,LRT,Constructed,Grand River Hospital,
+,Bi-Directional,43.45984440872096,-80.5183645133394,Waterloo,Allen,1.0,ION,LRT,LRT,Constructed,Allen,
+,Bi-Directional,43.47324659780303,-80.54116853332651,Waterloo,University of Waterloo,1.0,ION,LRT,LRT,Constructed,University of Waterloo,
+,Bi-Directional,43.48163206908413,-80.54516179578839,Waterloo,Research and Technology,1.0,ION,LRT,LRT,Constructed,Research and Technology,
+,Bi-Directional,43.49721976492402,-80.54321576462178,Waterloo,Northfield,1.0,ION,LRT,LRT,Constructed,Northfield,
+,Bi-Directional,43.49814543225556,-80.52945517248838,Waterloo,Conestoga,1.0,ION,LRT,LRT,Constructed,Conestoga,
