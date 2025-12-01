@@ -13,10 +13,7 @@ Urban bus networks often accumulate overlapping or poorly spaced stops. This pro
 
 The optimisation approach in this project is inspired by techniques presented by **Liang et al.** in:
 
-**Liang, Y., Gao, S., Wu, T., Wang, S., & Wu, Y. (2018).  
-“Optimizing Bus Stop Spacing Using the Simulated Annealing Algorithm with a Spatial Interaction Coverage Model.”  
-Proceedings of IWCTS 2018.**  
-PDF: https://geography.wisc.edu/wp-content/uploads/sites/28/2022/05/2018_IWCTS_Workshop_BusOptimization.pdf
+[Optimizing Bus Stop Spacing Using the Simulated Annealing Algorithm with a Spatial Interaction Coverage Model](https://geography.wisc.edu/wp-content/uploads/sites/28/2022/05/2018_IWCTS_Workshop_BusOptimization.pdf)
 
 Their paper applies simulated annealing to adjust bus stop spacing while maintaining accessibility under a spatial coverage model. Our implementation draws on the same idea of using SA to iteratively refine stop locations, but adapts the objective to the GRT context by:
 - using real-world demand points and candidate stop locations,  
