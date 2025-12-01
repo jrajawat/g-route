@@ -1,7 +1,7 @@
 # G-ROUTE Grand River Route Engine 
 Continuous Facility Location Optimisation using Simulated Annealing
 
-This project optimises the placement of bus stops within a study area in Waterloo. The objective is to slightly reposition existing stops and remove redundant ones while ensuring that accessibility never becomes worse for any point in the region.
+This project optimises the placement of bus stops within an area in Waterloo. The objective is to slightly reposition existing stops and remove redundant ones while ensuring that accessibility never becomes worse for any point in the region.
 
 The optimisation is inspired by continuous facility location models, p-median reductions, and simulated annealing heuristics, making it appropriate for a SYDE 411 optimisation deliverable.
 
@@ -11,14 +11,20 @@ The optimisation is inspired by continuous facility location models, p-median re
 
 Urban bus networks often accumulate overlapping or poorly spaced stops. This project attempts to improve spatial efficiency without compromising access.
 
-The optimisation aims to:
+The optimisation approach in this project is inspired by techniques presented by **Liang et al.** in:
 
-- Keep all stops but allow small continuous movements.
-- Reduce stop redundancy.
-- Preserve or improve average and maximum walking distance.
-- Treat all points equally (no weights).
+**Liang, Y., Gao, S., Wu, T., Wang, S., & Wu, Y. (2018).  
+“Optimizing Bus Stop Spacing Using the Simulated Annealing Algorithm with a Spatial Interaction Coverage Model.”  
+Proceedings of IWCTS 2018.**  
+PDF: https://geography.wisc.edu/wp-content/uploads/sites/28/2022/05/2018_IWCTS_Workshop_BusOptimization.pdf
 
-This is a constrained continuous facility-location optimisation problem.
+Their paper applies simulated annealing to adjust bus stop spacing while maintaining accessibility under a spatial coverage model. Our implementation draws on the same idea of using SA to iteratively refine stop locations, but adapts the objective to the GRT context by:
+- using real-world demand points and candidate stop locations,  
+- treating all stops equally (unweighted),  
+- preserving original stop positions by bounding movement, and  
+- enforcing constraints so that average and maximum walking distances do not worsen after pruning.
+
+This connection to Liang et al.’s work demonstrates a research-grounded optimisation framework while tailoring the methodology to the needs of Waterloo Region.
 
 ---
 
