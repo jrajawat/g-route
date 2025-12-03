@@ -6,14 +6,14 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -80.54525067055955,
-          43.46121200306938
+          -80.5452459088619,
+          43.46121355503344
         ]
       },
       "properties": {
         "stop_id": "12213",
         "name": "Keats Way at McDougall Rd",
-        "move_m": 0.24107164060201572
+        "move_m": 0.18164138214844253
       }
     },
     {
@@ -21,14 +21,14 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -80.51200651905468,
-          43.44323403126619
+          -80.51200948033348,
+          43.4432361958059
         ]
       },
       "properties": {
         "stop_id": "11751",
         "name": "Belmont Ave W at Victoria St S",
-        "move_m": 0.11241316286891989
+        "move_m": 0.24161007760880454
       }
     },
     {
@@ -36,14 +36,14 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -80.53729294943152,
-          43.48567574543866
+          -80.53729280930587,
+          43.485675053722176
         ]
       },
       "properties": {
         "stop_id": "10179",
         "name": "Hazel St at Blythwood Dr",
-        "move_m": 0.08178149268953674
+        "move_m": 0.013093598365782494
       }
     },
     {
@@ -51,13 +51,58 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -80.525896,
-          43.431422
+          -80.52589626134329,
+          43.431423691028115
         ]
       },
       "properties": {
         "stop_id": "12234",
         "name": "Highland Rd W at Fischer-Hallman Rd S",
+        "move_m": 0.1892142728435716
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.54821168998185,
+          43.4756076710611
+        ]
+      },
+      "properties": {
+        "stop_id": "13584",
+        "name": "Columbia St W at Hagey Blvd",
+        "move_m": 142.8235589700257
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.56039056338948,
+          43.494262528522
+        ]
+      },
+      "properties": {
+        "stop_id": "10145",
+        "name": "Northlake Dr at Green Meadow Cres",
+        "move_m": 92.74369060075637
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.56486301,
+          43.456715
+        ]
+      },
+      "properties": {
+        "stop_id": "12718",
+        "name": "Keats Way at Brynhurst Blvd",
         "move_m": 0.0
       }
     },
@@ -66,59 +111,14 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -80.54823448190324,
-          43.475604376657564
-        ]
-      },
-      "properties": {
-        "stop_id": "13584",
-        "name": "Columbia St W at Hagey Blvd",
-        "move_m": 143.48162608534594
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -80.56004510372992,
-          43.4944932676198
-        ]
-      },
-      "properties": {
-        "stop_id": "10145",
-        "name": "Northlake Dr at Green Meadow Cres",
-        "move_m": 54.865046546604006
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -80.56485415381118,
-          43.45671916794391
-        ]
-      },
-      "properties": {
-        "stop_id": "12718",
-        "name": "Keats Way at Brynhurst Blvd",
-        "move_m": 0.8519256604023137
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -80.52447183031553,
-          43.479430669930096
+          -80.52458392972736,
+          43.47947131317864
         ]
       },
       "properties": {
         "stop_id": "11582",
         "name": "Hickory St E at King St N",
-        "move_m": 148.90299135307782
+        "move_m": 149.98609176614323
       }
     },
     {
@@ -141,14 +141,14 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -80.53664677522741,
-          43.484961269836326
+          -80.53664656,
+          43.48496122
         ]
       },
       "properties": {
         "stop_id": "10164",
         "name": "Hazel St at Tamarack Dr",
-        "move_m": 0.01822694751527977
+        "move_m": 0.0
       }
     },
     {
@@ -156,14 +156,14 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -80.536775,
-          43.504827
+          -80.53677498217775,
+          43.50482677816784
         ]
       },
       "properties": {
         "stop_id": "11137",
         "name": "King St N at Nothland Rd",
-        "move_m": 0.0
+        "move_m": 0.02470845599821026
       }
     },
     {
@@ -186,14 +186,14 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -80.56581326904342,
-          43.44233076538616
+          -80.56581,
+          43.442331
         ]
       },
       "properties": {
         "stop_id": "12974",
         "name": "Ira Needles Blvd at Thorndale Dr",
-        "move_m": 0.26521225392775005
+        "move_m": 0.0
       }
     },
     {
@@ -201,14 +201,14 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -80.52266391,
-          43.44313399
+          -80.52266391842105,
+          43.44313420365058
         ]
       },
       "properties": {
         "stop_id": "12987",
         "name": "Westmount Rd W at Chopin Dr",
-        "move_m": 0.0
+        "move_m": 0.023766586609928
       }
     },
     {
@@ -216,14 +216,14 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -80.54797704636992,
-          43.47273701114093
+          -80.54798213322172,
+          43.472736784560475
         ]
       },
       "properties": {
         "stop_id": "11571",
         "name": "Ring Rd at University of Waterloo - University Club",
-        "move_m": 0.07864272761820115
+        "move_m": 0.3326244821986389
       }
     },
     {
@@ -231,14 +231,14 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -80.52373201,
-          43.46980701
+          -80.52373374740509,
+          43.469804049932634
         ]
       },
       "properties": {
         "stop_id": "11589",
         "name": "King St N at Central St",
-        "move_m": 0.0
+        "move_m": 0.3577620614453125
       }
     },
     {
@@ -276,28 +276,13 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -80.52311384151416,
-          43.446241040621025
+          -80.523118,
+          43.446241
         ]
       },
       "properties": {
         "stop_id": "12988",
         "name": "Westmount Rd W at Westwood Dr",
-        "move_m": 0.33574382809221465
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -80.540778,
-          43.474173
-        ]
-      },
-      "properties": {
-        "stop_id": "13728",
-        "name": "University of Waterloo Station at Platform 3",
         "move_m": 0.0
       }
     },
@@ -306,14 +291,29 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -80.55836850937948,
-          43.448495506258695
+          -80.54078798406738,
+          43.47417401269881
+        ]
+      },
+      "properties": {
+        "stop_id": "13728",
+        "name": "University of Waterloo Station at Platform 3",
+        "move_m": 0.8134704627235593
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.558366,
+          43.448492
         ]
       },
       "properties": {
         "stop_id": "11024",
         "name": "Westvale Dr at Heather Hill Pl",
-        "move_m": 0.43936455645346867
+        "move_m": 0.0
       }
     },
     {
@@ -336,14 +336,14 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -80.53314801,
-          43.47326499
+          -80.53279207484275,
+          43.473314906552126
         ]
       },
       "properties": {
         "stop_id": "11729",
         "name": "University Ave W at Sunview St",
-        "move_m": 0.0
+        "move_m": 29.253095448184173
       }
     },
     {
@@ -351,28 +351,13 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -80.56101993838942,
-          43.43543984842082
+          -80.561022,
+          43.43544
         ]
       },
       "properties": {
         "stop_id": "13180",
         "name": "The Boardwalk Station at Stop 4003",
-        "move_m": 0.16731410559903476
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -80.557832,
-          43.450834
-        ]
-      },
-      "properties": {
-        "stop_id": "11022",
-        "name": "Erb St W at Gateview Dr",
         "move_m": 0.0
       }
     },
@@ -381,14 +366,29 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -80.53031599314687,
-          43.462252267372115
+          -80.55783177205784,
+          43.45083410021835
+        ]
+      },
+      "properties": {
+        "stop_id": "11022",
+        "name": "Erb St W at Gateview Dr",
+        "move_m": 0.021511744213395367
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.5313776584714,
+          43.46336862965982
         ]
       },
       "properties": {
         "stop_id": "10999",
         "name": "Erb St W at Avondale Ave N",
-        "move_m": 0.9175004952090524
+        "move_m": 149.94513601466954
       }
     },
     {
@@ -411,13 +411,28 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -80.565481,
-          43.440242
+          -80.5654810473437,
+          43.44024200767902
         ]
       },
       "properties": {
         "stop_id": "13721",
         "name": "The Boardwalk at Medical Centre",
+        "move_m": 0.003916631635898178
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.55822,
+          43.448411
+        ]
+      },
+      "properties": {
+        "stop_id": "13244",
+        "name": "Westvale Dr at Heather Hill Pl",
         "move_m": 0.0
       }
     },
@@ -426,14 +441,14 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -80.55821648199898,
-          43.44840983169426
+          -80.51174452428084,
+          43.45631190889962
         ]
       },
       "properties": {
-        "stop_id": "13244",
-        "name": "Westvale Dr at Heather Hill Pl",
-        "move_m": 0.3122993284566455
+        "stop_id": "13388",
+        "name": "Grand River Hospital Station at ION platform - Southbound",
+        "move_m": 109.51030997906604
       }
     },
     {
@@ -441,14 +456,14 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -80.53755344140833,
-          43.49155376350365
+          -80.53754934018271,
+          43.49155705368824
         ]
       },
       "properties": {
         "stop_id": "10160",
         "name": "Albert St at Weber St N",
-        "move_m": 0.14633822110227007
+        "move_m": 0.37054020007608923
       }
     },
     {
@@ -456,14 +471,14 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -80.52586809382277,
-          43.50511222263063
+          -80.52586907796562,
+          43.5051173454957
         ]
       },
       "properties": {
         "stop_id": "11135",
         "name": "Northfield Dr E at Wissler Rd",
-        "move_m": 0.09599398673460421
+        "move_m": 0.622725710661332
       }
     },
     {
@@ -486,14 +501,14 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -80.55434421256646,
-          43.53518312795902
+          -80.55435956029591,
+          43.5351863878756
         ]
       },
       "properties": {
         "stop_id": "13267",
         "name": "King St N at High Crest Lane W",
-        "move_m": 0.1590135606977545
+        "move_m": 1.4213102634414603
       }
     },
     {
@@ -591,14 +606,14 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -80.52578763,
-          43.45251964
+          -80.5257924325245,
+          43.45252031832793
         ]
       },
       "properties": {
         "stop_id": "12984",
         "name": "Westmount Rd W at Union Blvd",
-        "move_m": 0.0
+        "move_m": 0.39493582962727464
       }
     },
     {
@@ -606,13 +621,28 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -80.56014004,
-          43.44586301
+          -80.56014398854977,
+          43.44586572934991
         ]
       },
       "properties": {
         "stop_id": "11026",
         "name": "Westvale Dr at Eden Valley Cres",
+        "move_m": 0.4393688931745214
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.560344,
+          43.435392
+        ]
+      },
+      "properties": {
+        "stop_id": "13178",
+        "name": "The Boardwalk Station at Stop 4001",
         "move_m": 0.0
       }
     },
@@ -621,29 +651,14 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -80.56035326762206,
-          43.43538725416583
-        ]
-      },
-      "properties": {
-        "stop_id": "13178",
-        "name": "The Boardwalk Station at Stop 4001",
-        "move_m": 0.9156657681587372
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -80.52942480404853,
-          43.49831224665983
+          -80.529428,
+          43.498309
         ]
       },
       "properties": {
         "stop_id": "13373",
         "name": "Conestoga Station at ION platform - Southbound",
-        "move_m": 0.44360276629412565
+        "move_m": 0.0
       }
     },
     {
@@ -651,14 +666,14 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -80.5462276514548,
-          43.473934238419815
+          -80.54622695,
+          43.47393197
         ]
       },
       "properties": {
         "stop_id": "11572",
         "name": "Ring Rd at University of Waterloo - B.C. Matthews Hall",
-        "move_m": 0.25850960080165963
+        "move_m": 0.0
       }
     },
     {
@@ -681,14 +696,14 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -80.55574047121794,
-          43.5099532183081
+          -80.55547994831954,
+          43.510281734088174
         ]
       },
       "properties": {
         "stop_id": "12864",
         "name": "Farmers Market Rd at Benjamin Rd",
-        "move_m": 9.166549662318353
+        "move_m": 51.30348973200697
       }
     },
     {
@@ -696,14 +711,14 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -80.524007695275,
-          43.47171889543889
+          -80.52403421059083,
+          43.471716197839434
         ]
       },
       "properties": {
         "stop_id": "13026",
         "name": "King St N at Ezra Ave",
-        "move_m": 69.5661008849748
+        "move_m": 69.22180683167714
       }
     },
     {
@@ -711,14 +726,14 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -80.54447,
-          43.470719
+          -80.54447263154766,
+          43.4707242632711
         ]
       },
       "properties": {
         "stop_id": "13583",
         "name": "Ring Rd at University of Waterloo - Quantum Nano Centre",
-        "move_m": 0.0
+        "move_m": 0.6225852730759451
       }
     },
     {
@@ -726,14 +741,14 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -80.51365020820022,
-          43.469836158363506
+          -80.51364353086807,
+          43.46983689977348
         ]
       },
       "properties": {
         "stop_id": "10988",
         "name": "Bridgeport Rd E at Weber St N",
-        "move_m": 0.0999002822684351
+        "move_m": 0.519860462791772
       }
     },
     {
@@ -786,14 +801,14 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -80.52479016738883,
-          43.47456834619529
+          -80.52477613764205,
+          43.474570638444135
         ]
       },
       "properties": {
         "stop_id": "11841",
         "name": "University Ave W at King St N",
-        "move_m": 149.74226154933524
+        "move_m": 149.9109546488547
       }
     },
     {
@@ -801,14 +816,14 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -80.54235289001554,
-          43.4565068022412
+          -80.54235897,
+          43.45651399
         ]
       },
       "properties": {
         "stop_id": "11004",
         "name": "Erb St W at 300 Erb St W",
-        "move_m": 0.9378837728940576
+        "move_m": 0.0
       }
     },
     {
@@ -816,14 +831,14 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -80.51525695,
-          43.44182802
+          -80.51525583216502,
+          43.44182150689348
         ]
       },
       "properties": {
         "stop_id": "12175",
         "name": "Victoria St S at Alice Ave",
-        "move_m": 0.0
+        "move_m": 0.7298259276566439
       }
     },
     {
@@ -846,103 +861,13 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -80.52908322546008,
-          43.45565987927784
+          -80.52908588,
+          43.45566227
         ]
       },
       "properties": {
         "stop_id": "12993",
         "name": "Westmount Rd S at Douglas St",
-        "move_m": 0.34143694091185905
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -80.56564328823575,
-          43.44243316129394
-        ]
-      },
-      "properties": {
-        "stop_id": "12973",
-        "name": "Ira Needles Blvd at Thorndale Dr",
-        "move_m": 0.13969445006957373
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -80.55282837137817,
-          43.4525964220205
-        ]
-      },
-      "properties": {
-        "stop_id": "11032",
-        "name": "Erb St W at Fischer-Hallman Rd S",
-        "move_m": 0.6292676667057577
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -80.51846701774026,
-          43.51673911519736
-        ]
-      },
-      "properties": {
-        "stop_id": "12778",
-        "name": "Northfield Dr E at Toman Dr",
-        "move_m": 149.8522031534328
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -80.53143175251793,
-          43.47218416310151
-        ]
-      },
-      "properties": {
-        "stop_id": "13057",
-        "name": "University Ave W at Sunview St",
-        "move_m": 149.24549511547394
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -80.51485109860752,
-          43.47080201930937
-        ]
-      },
-      "properties": {
-        "stop_id": "13234",
-        "name": "Lincoln Rd at Weber St N",
-        "move_m": 114.58648187213765
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -80.52920795,
-          43.50535803
-        ]
-      },
-      "properties": {
-        "stop_id": "10215",
-        "name": "Frobisher Dr at Davenport Rd",
         "move_m": 0.0
       }
     },
@@ -951,14 +876,14 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -80.52350326868842,
-          43.467814380301284
+          -80.5656472118401,
+          43.4424303386521
         ]
       },
       "properties": {
-        "stop_id": "10991",
-        "name": "King St N at Bridgeport Rd W",
-        "move_m": 63.259862113004154
+        "stop_id": "12973",
+        "name": "Ira Needles Blvd at Thorndale Dr",
+        "move_m": 0.5854934896514383
       }
     },
     {
@@ -966,14 +891,104 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -80.53874809559865,
-          43.47701796657132
+          -80.55283004,
+          43.45260195
+        ]
+      },
+      "properties": {
+        "stop_id": "11032",
+        "name": "Erb St W at Fischer-Hallman Rd S",
+        "move_m": 0.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.51813696220731,
+          43.51668121537136
+        ]
+      },
+      "properties": {
+        "stop_id": "12778",
+        "name": "Northfield Dr E at Toman Dr",
+        "move_m": 149.79456970309263
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.53126858614034,
+          43.47224337976946
+        ]
+      },
+      "properties": {
+        "stop_id": "13057",
+        "name": "University Ave W at Sunview St",
+        "move_m": 149.8370461041929
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.51354674236939,
+          43.471188482513256
+        ]
+      },
+      "properties": {
+        "stop_id": "13234",
+        "name": "Lincoln Rd at Weber St N",
+        "move_m": 9.601978610560238
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.52921139711398,
+          43.505354066280006
+        ]
+      },
+      "properties": {
+        "stop_id": "10215",
+        "name": "Frobisher Dr at Davenport Rd",
+        "move_m": 0.5211022763578222
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.52347808362155,
+          43.467844255691524
+        ]
+      },
+      "properties": {
+        "stop_id": "10991",
+        "name": "King St N at Bridgeport Rd W",
+        "move_m": 65.03718125989094
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.53873064452212,
+          43.47700579844997
         ]
       },
       "properties": {
         "stop_id": "11567",
         "name": "Columbia St W at Lester St",
-        "move_m": 149.93387025280666
+        "move_m": 149.90882598112057
       }
     },
     {
@@ -996,14 +1011,14 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -80.568257,
-          43.470116
+          -80.56825953174821,
+          43.47011851764588
         ]
       },
       "properties": {
         "stop_id": "13249",
         "name": "Fischer-Hallman Rd N at Gatestone Blvd",
-        "move_m": 0.0
+        "move_m": 0.34657308834951833
       }
     },
     {
@@ -1026,14 +1041,14 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -80.54044720491346,
-          43.46641036727719
+          -80.54028789040451,
+          43.46667332427567
         ]
       },
       "properties": {
         "stop_id": "11732",
         "name": "University Ave W at Ring Rd Exit",
-        "move_m": 26.650480359235647
+        "move_m": 58.57841746506182
       }
     },
     {
@@ -1041,14 +1056,14 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -80.52847405908834,
-          43.50893841129487
+          -80.52847851486793,
+          43.508943226953456
         ]
       },
       "properties": {
         "stop_id": "10222",
         "name": "McMurray Rd at Northland Rd",
-        "move_m": 0.2424506889857959
+        "move_m": 0.6362354364904214
       }
     },
     {
@@ -1056,14 +1071,14 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -80.53360297107686,
-          43.50214203604908
+          -80.53360421779223,
+          43.502141328874245
         ]
       },
       "properties": {
         "stop_id": "11136",
         "name": "King St N at Northfield Dr E",
-        "move_m": 0.004637867896845492
+        "move_m": 0.1233547698241528
       }
     },
     {
@@ -1116,58 +1131,13 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -80.55456141352691,
-          43.53299040912772
+          -80.55456195,
+          43.53299298
         ]
       },
       "properties": {
         "stop_id": "11139",
         "name": "King St N at Henry St",
-        "move_m": 0.28912074501505236
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -80.52560938952813,
-          43.49994822204027
-        ]
-      },
-      "properties": {
-        "stop_id": "10211",
-        "name": "Davenport Rd at Old Abbey Rd",
-        "move_m": 0.052051513273308286
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -80.52849834962763,
-          43.44755881070969
-        ]
-      },
-      "properties": {
-        "stop_id": "12315",
-        "name": "Inwood Dr at Glasgow St",
-        "move_m": 0.1379150900809455
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -80.51253803,
-          43.43528701
-        ]
-      },
-      "properties": {
-        "stop_id": "12239",
-        "name": "Westmount Rd W at Overlea Dr",
         "move_m": 0.0
       }
     },
@@ -1176,14 +1146,14 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -80.5344604891948,
-          43.50659244777234
+          -80.52561083426166,
+          43.4999464458404
         ]
       },
       "properties": {
-        "stop_id": "10226",
-        "name": "Northland Rd at Rupert St",
-        "move_m": 0.655675200270169
+        "stop_id": "10211",
+        "name": "Davenport Rd at Old Abbey Rd",
+        "move_m": 0.18592676709427475
       }
     },
     {
@@ -1191,14 +1161,59 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -80.543174324599,
-          43.49720677127012
+          -80.52849797,
+          43.44756002
+        ]
+      },
+      "properties": {
+        "stop_id": "12315",
+        "name": "Inwood Dr at Glasgow St",
+        "move_m": 0.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.51253823694876,
+          43.43528780879923
+        ]
+      },
+      "properties": {
+        "stop_id": "12239",
+        "name": "Westmount Rd W at Overlea Dr",
+        "move_m": 0.09038055515534084
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.534454,
+          43.506596
+        ]
+      },
+      "properties": {
+        "stop_id": "10226",
+        "name": "Northland Rd at Rupert St",
+        "move_m": 0.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.5431801669058,
+          43.49720688603522
         ]
       },
       "properties": {
         "stop_id": "13375",
         "name": "Northfield Station at ION platform - Northbound",
-        "move_m": 0.16005625132452747
+        "move_m": 0.3502518946935496
       }
     },
     {
@@ -1221,14 +1236,14 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -80.52906689270198,
-          43.455895401782605
+          -80.5290645646745,
+          43.455895628283365
         ]
       },
       "properties": {
         "stop_id": "11829",
         "name": "Westmount Rd S at William St",
-        "move_m": 0.28715520714567816
+        "move_m": 0.40746654214574507
       }
     },
     {
@@ -1236,14 +1251,14 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -80.52405814118067,
-          43.47246953662821
+          -80.52414554552844,
+          43.472402167786385
         ]
       },
       "properties": {
         "stop_id": "13025",
         "name": "King St N at Marshall",
-        "move_m": 0.28325116523780175
+        "move_m": 10.572134952456542
       }
     },
     {
@@ -1251,14 +1266,14 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -80.53738708480343,
-          43.47793200235517
+          -80.53736433723299,
+          43.477926436979516
         ]
       },
       "properties": {
         "stop_id": "11575",
         "name": "Columbia St W at Lester St",
-        "move_m": 13.09744672162724
+        "move_m": 11.309754522309502
       }
     },
     {
@@ -1266,14 +1281,14 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -80.51523207774517,
-          43.46916990009915
+          -80.51523199,
+          43.46917001
         ]
       },
       "properties": {
         "stop_id": "10989",
         "name": "Bridgeport Rd E at Devitt Ave",
-        "move_m": 0.014123687214879128
+        "move_m": 0.0
       }
     },
     {
@@ -1281,14 +1296,14 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -80.5513811693349,
-          43.499016430525714
+          -80.55138072,
+          43.49901593
         ]
       },
       "properties": {
         "stop_id": "13852",
         "name": "Weber St N at Golden Eagle Rd",
-        "move_m": 0.06641639951447748
+        "move_m": 0.0
       }
     },
     {
@@ -1296,14 +1311,14 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -80.541209,
-          43.473261
+          -80.54117000631238,
+          43.47324713653621
         ]
       },
       "properties": {
         "stop_id": "13380",
         "name": "University of Waterloo Station at ION platform - Southbound",
-        "move_m": 0.0
+        "move_m": 3.5038699422520097
       }
     },
     {
@@ -1311,14 +1326,14 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -80.54806001,
-          43.48961399
+          -80.54806097339595,
+          43.48961397285037
         ]
       },
       "properties": {
         "stop_id": "10157",
         "name": "Cedarbrae Ave at Sprucehill Ave",
-        "move_m": 0.0
+        "move_m": 0.07774229971553583
       }
     },
     {
@@ -1326,14 +1341,14 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -80.51744344970078,
-          43.47503774113438
+          -80.517443027762,
+          43.475037377160156
         ]
       },
       "properties": {
         "stop_id": "11889",
         "name": "Weber St N at Marshall St",
-        "move_m": 0.049550004050529735
+        "move_m": 0.07058069087075376
       }
     },
     {
@@ -1341,14 +1356,14 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -80.52790085096525,
-          43.475238049260795
+          -80.52789997,
+          43.47524001
         ]
       },
       "properties": {
         "stop_id": "13008",
         "name": "University Ave W at Hazel St",
-        "move_m": 0.22932028157818424
+        "move_m": 0.0
       }
     },
     {
@@ -1356,14 +1371,14 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -80.52610918397978,
-          43.48244787693407
+          -80.526106,
+          43.482448
         ]
       },
       "properties": {
         "stop_id": "13274",
         "name": "King St N at Columbia St E",
-        "move_m": 0.2572521476953543
+        "move_m": 0.0
       }
     },
     {
@@ -1371,14 +1386,14 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -80.52968698,
-          43.48070297
+          -80.52968129045499,
+          43.48069719793629
         ]
       },
       "properties": {
         "stop_id": "11564",
         "name": "Columbia St W at Holly St",
-        "move_m": 0.0
+        "move_m": 0.7890935356581268
       }
     },
     {
@@ -1386,14 +1401,14 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -80.51694432575535,
-          43.49020573270976
+          -80.51694468125653,
+          43.490208020742
         ]
       },
       "properties": {
         "stop_id": "12785",
         "name": "Lexington Rd at Dearborn Blvd",
-        "move_m": 0.2579118728826861
+        "move_m": 0.025816595554457866
       }
     },
     {
@@ -1401,14 +1416,14 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -80.530614,
-          43.50147446
+          -80.53061671303001,
+          43.5014744963332
         ]
       },
       "properties": {
         "stop_id": "13158",
         "name": "Kraus Dr at Northfield Dr E",
-        "move_m": 0.0
+        "move_m": 0.2188593872834331
       }
     },
     {
@@ -1416,14 +1431,14 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -80.52940546164074,
-          43.4745523206527
+          -80.52943636031628,
+          43.474561159282366
         ]
       },
       "properties": {
         "stop_id": "11839",
         "name": "University Ave W at Hemlock St",
-        "move_m": 86.97635590120582
+        "move_m": 85.4462066964415
       }
     },
     {
@@ -1446,14 +1461,14 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -80.52554704819349,
-          43.505216083357446
+          -80.52555197,
+          43.50521499
         ]
       },
       "properties": {
         "stop_id": "10954",
         "name": "Northfield Dr E at Wissler Rd",
-        "move_m": 0.4151491425474341
+        "move_m": 0.0
       }
     },
     {
@@ -1491,14 +1506,14 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -80.53916291455987,
-          43.49054843099701
+          -80.53916294,
+          43.49054201
         ]
       },
       "properties": {
         "stop_id": "10182",
         "name": "Albert St at Longwood Dr",
-        "move_m": 0.7139852413592361
+        "move_m": 0.0
       }
     },
     {
@@ -1566,14 +1581,14 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -80.54473724183515,
-          43.50371960598522
+          -80.54473724,
+          43.50372086
         ]
       },
       "properties": {
         "stop_id": "13847",
         "name": "Randall Dr at Kumpf Dr",
-        "move_m": 0.13944016013188584
+        "move_m": 0.0
       }
     },
     {
@@ -1596,14 +1611,14 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -80.51918450072394,
-          43.51505668102734
+          -80.51936589842005,
+          43.51492258891679
         ]
       },
       "properties": {
         "stop_id": "12770",
         "name": "Northfield Dr E at Toman Dr",
-        "move_m": 37.50837662498042
+        "move_m": 16.621276217328546
       }
     },
     {
@@ -1611,14 +1626,14 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -80.51020468622323,
-          43.49453928912206
+          -80.51019998,
+          43.49454204
         ]
       },
       "properties": {
         "stop_id": "12700",
         "name": "Lexington Rd at Dunvegan Dr",
-        "move_m": 0.48752715238348704
+        "move_m": 0.0
       }
     },
     {
@@ -1626,14 +1641,14 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -80.54661289,
-          43.4744891
+          -80.54725652121833,
+          43.47451046251167
         ]
       },
       "properties": {
         "stop_id": "12946",
         "name": "Columbia St W at North Campus Rd",
-        "move_m": 0.0
+        "move_m": 51.990189043436466
       }
     },
     {
@@ -1656,14 +1671,14 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -80.51067925853228,
-          43.43316046099514
+          -80.51068296,
+          43.43316303
         ]
       },
       "properties": {
         "stop_id": "12412",
         "name": "Queens Blvd at Westmount Rd E",
-        "move_m": 0.4134403425610532
+        "move_m": 0.0
       }
     },
     {
@@ -1686,13 +1701,28 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -80.55030196,
-          43.44856296
+          -80.55029821229923,
+          43.448563401081884
         ]
       },
       "properties": {
         "stop_id": "12226",
         "name": "Fischer-Hallman Rd S at Thorndale Dr",
+        "move_m": 0.30648902316926047
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.567125,
+          43.46855802
+        ]
+      },
+      "properties": {
+        "stop_id": "10120",
+        "name": "Fischer-Hallman Rd N at Columbia St W",
         "move_m": 0.0
       }
     },
@@ -1701,29 +1731,14 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -80.56712567117768,
-          43.46855800271192
-        ]
-      },
-      "properties": {
-        "stop_id": "10120",
-        "name": "Fischer-Hallman Rd N at Columbia St W",
-        "move_m": 0.05419810112661561
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -80.5351638549802,
-          43.44251372918171
+          -80.53516139200062,
+          43.44251375474302
         ]
       },
       "properties": {
         "stop_id": "12320",
         "name": "Westwood Dr at Gallarno Crt",
-        "move_m": 0.10396645862621352
+        "move_m": 0.15280042428100962
       }
     },
     {
@@ -1761,14 +1776,14 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -80.52059752260239,
-          43.497050232097614
+          -80.520597,
+          43.49705197
         ]
       },
       "properties": {
         "stop_id": "11869",
         "name": "Davenport Rd at Kingscourt Dr",
-        "move_m": 0.19779018391546377
+        "move_m": 0.0
       }
     },
     {
@@ -1776,14 +1791,14 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -80.54970274051416,
-          43.49564999669149
+          -80.54970194,
+          43.49565116
         ]
       },
       "properties": {
         "stop_id": "10204",
         "name": "Northfield Dr W at Weber St N",
-        "move_m": 0.14457546115001235
+        "move_m": 0.0
       }
     },
     {
@@ -1791,14 +1806,14 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -80.55542309055066,
-          43.487043074640184
+          -80.55542298,
+          43.48704303
         ]
       },
       "properties": {
         "stop_id": "10191",
         "name": "Glen Forrest Blvd at Brookhaven Cres",
-        "move_m": 0.010206968106852376
+        "move_m": 0.0
       }
     },
     {
@@ -1806,14 +1821,14 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -80.55677190534803,
-          43.49455360766813
+          -80.55677256,
+          43.49455402
         ]
       },
       "properties": {
         "stop_id": "10201",
         "name": "Northlake Dr at Skylark Rd",
-        "move_m": 0.06993424055554191
+        "move_m": 0.0
       }
     },
     {
@@ -1821,14 +1836,14 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -80.5122856544713,
-          43.44301659328147
+          -80.51228798,
+          43.44301499
         ]
       },
       "properties": {
         "stop_id": "12174",
         "name": "Victoria St S at Belmont Ave W",
-        "move_m": 0.25890618160339757
+        "move_m": 0.0
       }
     },
     {
@@ -1836,14 +1851,14 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -80.51350563958187,
-          43.471114910631506
+          -80.51486931545102,
+          43.47080294693145
         ]
       },
       "properties": {
         "stop_id": "11720",
         "name": "Weber St N at Lincoln Rd",
-        "move_m": 1.5104061990050948
+        "move_m": 115.39730994726082
       }
     },
     {
@@ -1851,14 +1866,14 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -80.52327511579769,
-          43.47684252426841
+          -80.52327195,
+          43.47684801
         ]
       },
       "properties": {
         "stop_id": "11726",
         "name": "University Ave E at Regina St",
-        "move_m": 0.6613125650328421
+        "move_m": 0.0
       }
     },
     {
@@ -1881,43 +1896,13 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -80.53361081346976,
-          43.50139144330225
+          -80.533612,
+          43.501393
         ]
       },
       "properties": {
         "stop_id": "10208",
         "name": "Northfield Dr W at King St N",
-        "move_m": 0.19779078478853288
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -80.5576227098196,
-          43.45007011429271
-        ]
-      },
-      "properties": {
-        "stop_id": "11023",
-        "name": "Gateview Dr at Westvale Dr",
-        "move_m": 1.6497630971453656
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -80.51574197,
-          43.45016003
-        ]
-      },
-      "properties": {
-        "stop_id": "11821",
-        "name": "Belmont Ave W at Glasgow St",
         "move_m": 0.0
       }
     },
@@ -1926,14 +1911,14 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -80.55368525351051,
-          43.452908996280165
+          -80.55761095,
+          43.45005798
         ]
       },
       "properties": {
-        "stop_id": "11008",
-        "name": "Fischer-Hallman Rd N at Erb St W",
-        "move_m": 0.1167517593439544
+        "stop_id": "11023",
+        "name": "Gateview Dr at Westvale Dr",
+        "move_m": 0.0
       }
     },
     {
@@ -1941,14 +1926,44 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -80.52634922034899,
-          43.48233040703826
+          -80.51574662469919,
+          43.450162434638436
+        ]
+      },
+      "properties": {
+        "stop_id": "11821",
+        "name": "Belmont Ave W at Glasgow St",
+        "move_m": 0.4611732248145861
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.55379355935789,
+          43.45277233361005
+        ]
+      },
+      "properties": {
+        "stop_id": "11008",
+        "name": "Fischer-Hallman Rd N at Erb St W",
+        "move_m": 17.641467560919757
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.52635196,
+          43.48233198
         ]
       },
       "properties": {
         "stop_id": "11562",
         "name": "King St N at Columbia St",
-        "move_m": 0.2818692153165472
+        "move_m": 0.0
       }
     },
     {
@@ -1971,14 +1986,14 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -80.53767583982813,
-          43.47247984519935
+          -80.53765501997133,
+          43.472442121631794
         ]
       },
       "properties": {
         "stop_id": "11730",
         "name": "University Ave W at Phillip St",
-        "move_m": 132.13704463226628
+        "move_m": 129.73613033948644
       }
     },
     {
@@ -1986,14 +2001,14 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -80.55156047263122,
-          43.48566976170551
+          -80.55155691592694,
+          43.48567092985696
         ]
       },
       "properties": {
         "stop_id": "10154",
         "name": "Cedarbrae Ave at Glen Forrest Blvd",
-        "move_m": 0.04450293313651527
+        "move_m": 0.272004831159142
       }
     },
     {
@@ -2001,14 +2016,14 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -80.51468504,
-          43.44197504
+          -80.51468170981671,
+          43.44197367948939
         ]
       },
       "properties": {
         "stop_id": "12282",
         "name": "Victoria St S at Lawrence Ave",
-        "move_m": 0.0
+        "move_m": 0.3085027231522892
       }
     },
     {
@@ -2031,14 +2046,14 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -80.5317285245186,
-          43.46148832505107
+          -80.53149533229114,
+          43.46161520387872
         ]
       },
       "properties": {
         "stop_id": "11039",
         "name": "Erb St W at Roslin Ave S",
-        "move_m": 0.15607999457119381
+        "move_m": 23.579833393724282
       }
     },
     {
@@ -2046,14 +2061,14 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -80.5229456246663,
-          43.44688009925319
+          -80.52294387358229,
+          43.44687210855216
         ]
       },
       "properties": {
         "stop_id": "12982",
         "name": "Westmount Rd W at Westwood Dr",
-        "move_m": 0.21039146718869836
+        "move_m": 0.7186926096858098
       }
     },
     {
@@ -2061,14 +2076,14 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -80.51278915052937,
-          43.51145119619991
+          -80.51389766856165,
+          43.51067099367556
         ]
       },
       "properties": {
         "stop_id": "13131",
         "name": "Chesapeake Dr at Seawind Trail",
-        "move_m": 124.78384721710985
+        "move_m": 0.2140432990181265
       }
     },
     {
@@ -2076,14 +2091,14 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -80.54752,
-          43.496675
+          -80.54750328516822,
+          43.49667441282242
         ]
       },
       "properties": {
         "stop_id": "10140",
         "name": "Northfield Dr W at 190 Northfield Dr W",
-        "move_m": 0.0
+        "move_m": 1.3498382949554133
       }
     },
     {
@@ -2091,14 +2106,14 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -80.52927432,
-          43.49818164
+          -80.52882094432319,
+          43.49807675154405
         ]
       },
       "properties": {
         "stop_id": "12828",
         "name": "Conestoga Station at Stop 3798",
-        "move_m": 0.0
+        "move_m": 38.38429824393832
       }
     },
     {
@@ -2106,14 +2121,14 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -80.53048692616728,
-          43.47423097051978
+          -80.53046202865508,
+          43.47421155065993
         ]
       },
       "properties": {
         "stop_id": "11728",
         "name": "University Ave W at Hemlock St",
-        "move_m": 5.845343173489452
+        "move_m": 8.747450097867963
       }
     },
     {
@@ -2136,14 +2151,14 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -80.56044129025103,
-          43.435156892822576
+          -80.560441,
+          43.435158
         ]
       },
       "properties": {
         "stop_id": "12978",
         "name": "The Boardwalk Station at Stop 3908",
-        "move_m": 0.12532336313458448
+        "move_m": 0.0
       }
     },
     {
@@ -2151,14 +2166,14 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -80.53573096483113,
-          43.46037481505538
+          -80.53679583754818,
+          43.46074147378084
         ]
       },
       "properties": {
         "stop_id": "11001",
         "name": "Erb St W at 202 Erb St W",
-        "move_m": 52.17121713849281
+        "move_m": 147.29407915974087
       }
     },
     {
@@ -2166,14 +2181,14 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -80.52360179,
-          43.44937691
+          -80.52360505622674,
+          43.44937229007141
         ]
       },
       "properties": {
         "stop_id": "12983",
         "name": "Westmount Rd W at Glasgow St",
-        "move_m": 0.0
+        "move_m": 0.5774265690600361
       }
     },
     {
@@ -2181,14 +2196,14 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -80.514513,
-          43.435665
+          -80.51451287545575,
+          43.43566531094418
         ]
       },
       "properties": {
         "stop_id": "12453",
         "name": "Highland Rd W at Westmount Rd W",
-        "move_m": 0.0
+        "move_m": 0.036008139786980024
       }
     },
     {
@@ -2196,28 +2211,13 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -80.5276572421113,
-          43.454348252211894
+          -80.52765996,
+          43.45434699
         ]
       },
       "properties": {
         "stop_id": "11740",
         "name": "Westmount Rd S at John St",
-        "move_m": 0.2604387562386981
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -80.54902203,
-          43.47897002
-        ]
-      },
-      "properties": {
-        "stop_id": "13020",
-        "name": "Hagey Blvd at Wes Graham Way",
         "move_m": 0.0
       }
     },
@@ -2226,14 +2226,14 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -80.52737852748446,
-          43.48749326165691
+          -80.54903056825934,
+          43.47896927156213
         ]
       },
       "properties": {
-        "stop_id": "11560",
-        "name": "King St N at Blue Springs Dr",
-        "move_m": 7.396434342579396
+        "stop_id": "13020",
+        "name": "Hagey Blvd at Wes Graham Way",
+        "move_m": 0.6939268293399512
       }
     },
     {
@@ -2241,14 +2241,29 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -80.51175474035274,
-          43.456318110772514
+          -80.52717027018903,
+          43.4873752574985
+        ]
+      },
+      "properties": {
+        "stop_id": "11560",
+        "name": "King St N at Blue Springs Dr",
+        "move_m": 28.71290929567185
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.512034,
+          43.457299
         ]
       },
       "properties": {
         "stop_id": "13387",
         "name": "Grand River Hospital Station at ION platform - Northbound",
-        "move_m": 111.37469982812365
+        "move_m": 0.0
       }
     },
     {
@@ -2286,14 +2301,14 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -80.52599913516833,
-          43.46413999107679
+          -80.52599698,
+          43.46413998
         ]
       },
       "properties": {
         "stop_id": "10997",
         "name": "Erb St W at Caroline St",
-        "move_m": 0.17393903049983994
+        "move_m": 0.0
       }
     },
     {
@@ -2316,14 +2331,14 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -80.54014902,
-          43.44364798
+          -80.54014931133638,
+          43.44364891246504
         ]
       },
       "properties": {
         "stop_id": "12322",
         "name": "Westwood Dr at Glasgow St",
-        "move_m": 0.0
+        "move_m": 0.10631967297202209
       }
     },
     {
@@ -2331,14 +2346,14 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -80.52558379671589,
-          43.47591006234279
+          -80.5257052569887,
+          43.475984045366474
         ]
       },
       "properties": {
         "stop_id": "10171",
         "name": "University Ave W at King St N",
-        "move_m": 20.580421442439263
+        "move_m": 7.7855670376679145
       }
     },
     {
@@ -2346,14 +2361,14 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -80.53578555408897,
-          43.472227573740824
+          -80.53560532658395,
+          43.47221449302284
         ]
       },
       "properties": {
         "stop_id": "13053",
         "name": "University Ave W at Phillip St",
-        "move_m": 28.911844552866484
+        "move_m": 14.296806813684297
       }
     },
     {
@@ -2361,14 +2376,14 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -80.55598013288153,
-          43.452236909370654
+          -80.5559856508019,
+          43.45222031157959
         ]
       },
       "properties": {
         "stop_id": "13219",
         "name": "Erb St W at Fischer-Hallman Rd N",
-        "move_m": 148.70221796813257
+        "move_m": 149.30626325560232
       }
     },
     {
@@ -2406,14 +2421,14 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -80.54469197,
-          43.44353004
+          -80.54469227417691,
+          43.443529593176464
         ]
       },
       "properties": {
         "stop_id": "12228",
         "name": "Fischer-Hallman Rd at University Ave W",
-        "move_m": 0.0
+        "move_m": 0.05542208630677331
       }
     },
     {
@@ -2451,14 +2466,14 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -80.52702865010507,
-          43.4454969077097
+          -80.52702199,
+          43.4455
         ]
       },
       "properties": {
         "stop_id": "12316",
         "name": "Inwwod Dr at Westwood Dr",
-        "move_m": 0.6382203842966585
+        "move_m": 0.0
       }
     },
     {
@@ -2481,14 +2496,14 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -80.53153194130384,
-          43.48007442996248
+          -80.531527,
+          43.480075
         ]
       },
       "properties": {
         "stop_id": "11565",
         "name": "Columbia St W at Hazel St",
-        "move_m": 0.4036941562134483
+        "move_m": 0.0
       }
     },
     {
@@ -2496,14 +2511,14 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -80.53114704,
-          43.44500501
+          -80.5311463025651,
+          43.4450062353921
         ]
       },
       "properties": {
         "stop_id": "12333",
         "name": "Westwood Dr at Fernwood Pl",
-        "move_m": 0.0
+        "move_m": 0.14869562287818403
       }
     },
     {
@@ -2511,14 +2526,14 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -80.5119401359922,
-          43.44301499851725
+          -80.51193478759903,
+          43.4430106157572
         ]
       },
       "properties": {
         "stop_id": "12634",
         "name": "Victoria St S at Belmont Ave W",
-        "move_m": 0.2866725028562283
+        "move_m": 0.4543367575808985
       }
     },
     {
@@ -2526,13 +2541,43 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -80.55170199,
-          43.48568299
+          -80.5517021960139,
+          43.4856832253467
         ]
       },
       "properties": {
         "stop_id": "10190",
         "name": "Cedarbrae Ave at Glen Forrest Blvd",
+        "move_m": 0.031001284906960826
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.55592134806828,
+          43.49353209106136
+        ]
+      },
+      "properties": {
+        "stop_id": "10202",
+        "name": "Northfield Dr W at Skylark Rd",
+        "move_m": 0.7213782319127005
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.55377305,
+          43.53785696
+        ]
+      },
+      "properties": {
+        "stop_id": "11140",
+        "name": "King St N at Cedar St",
         "move_m": 0.0
       }
     },
@@ -2541,44 +2586,14 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -80.55592755941862,
-          43.4935240590658
-        ]
-      },
-      "properties": {
-        "stop_id": "10202",
-        "name": "Northfield Dr W at Skylark Rd",
-        "move_m": 0.3349729923798744
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -80.55377388987537,
-          43.537857067022415
-        ]
-      },
-      "properties": {
-        "stop_id": "11140",
-        "name": "King St N at Cedar St",
-        "move_m": 0.06873810139988708
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -80.53291434586546,
-          43.481547531915666
+          -80.53291195,
+          43.48154298
         ]
       },
       "properties": {
         "stop_id": "10177",
         "name": "Hazel St at Austin Dr",
-        "move_m": 0.5418066435301321
+        "move_m": 0.0
       }
     },
     {
@@ -2586,14 +2601,14 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -80.52871795686028,
-          43.5039234478015
+          -80.52871796,
+          43.503923
         ]
       },
       "properties": {
         "stop_id": "10213",
         "name": "Davenport Rd at Northfield Dr E",
-        "move_m": 0.049793898340879925
+        "move_m": 0.0
       }
     },
     {
@@ -2601,14 +2616,14 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -80.5394324045588,
-          43.4857383144459
+          -80.5394422804803,
+          43.48573120657206
         ]
       },
       "properties": {
         "stop_id": "10180",
         "name": "Hazel St at Albert St",
-        "move_m": 0.05617524819375446
+        "move_m": 1.0670869349847159
       }
     },
     {
@@ -2631,14 +2646,14 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -80.52912959894442,
-          43.498419197551115
+          -80.52913087081463,
+          43.498417135166136
         ]
       },
       "properties": {
         "stop_id": "12830",
         "name": "Conestoga Station at Stop 3800",
-        "move_m": 0.26690248331019994
+        "move_m": 0.015769737343481558
       }
     },
     {
@@ -2646,14 +2661,14 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -80.51790645348134,
-          43.509086032721065
+          -80.517908,
+          43.509083
         ]
       },
       "properties": {
         "stop_id": "13205",
         "name": "Bridge St W at Chesapeake  Dr",
-        "move_m": 0.3595478080933552
+        "move_m": 0.0
       }
     },
     {
@@ -2661,14 +2676,14 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -80.55538997,
-          43.47157699
+          -80.55538492218587,
+          43.47157562211154
         ]
       },
       "properties": {
         "stop_id": "10102",
         "name": "Columbia St W at University of Waterloo - Ron Eydt Village",
-        "move_m": 0.0
+        "move_m": 0.434809511444771
       }
     },
     {
@@ -2706,14 +2721,14 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -80.53908696,
-          43.48572898
+          -80.53908609454946,
+          43.48572468107308
         ]
       },
       "properties": {
         "stop_id": "10163",
         "name": "Hazel St at Albert St",
-        "move_m": 0.0
+        "move_m": 0.48309123406458304
       }
     },
     {
@@ -2721,14 +2736,14 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -80.529573,
-          43.498127
+          -80.52951711003553,
+          43.49813650367402
         ]
       },
       "properties": {
         "stop_id": "13785",
         "name": "King St N at Conestoga Station",
-        "move_m": 0.0
+        "move_m": 4.63031242801232
       }
     },
     {
@@ -2751,14 +2766,14 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -80.51694801330801,
-          43.48998004379891
+          -80.5169470787863,
+          43.48997935815141
         ]
       },
       "properties": {
         "stop_id": "12763",
         "name": "Lexington Rd at Dearborn Blvd",
-        "move_m": 0.3681255924693325
+        "move_m": 0.4711226039603136
       }
     },
     {
@@ -2766,14 +2781,14 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -80.5190785671073,
-          43.460274235185565
+          -80.51937584994447,
+          43.460267281853525
         ]
       },
       "properties": {
         "stop_id": "11590",
         "name": "King St S at Allen St",
-        "move_m": 24.180916848200297
+        "move_m": 0.17634056168248702
       }
     },
     {
@@ -2781,14 +2796,14 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -80.545184,
-          43.481604
+          -80.5466735979392,
+          43.4811482338651
         ]
       },
       "properties": {
         "stop_id": "13377",
         "name": "Research & Technology Station at ION platform - Southbound",
-        "move_m": 0.0
+        "move_m": 130.43303336142196
       }
     },
     {
@@ -2811,14 +2826,14 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -80.51296499,
-          43.44503696
+          -80.51296546012621,
+          43.44503671976759
         ]
       },
       "properties": {
         "stop_id": "11750",
         "name": "Belmont Ave W at Adelaid St",
-        "move_m": 0.0
+        "move_m": 0.04641189757594188
       }
     },
     {
@@ -2826,14 +2841,14 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -80.54644051078166,
-          43.47511197702752
+          -80.54643154972027,
+          43.4751150049888
         ]
       },
       "properties": {
         "stop_id": "13248",
         "name": "Hagey Blvd at Columbia St W",
-        "move_m": 0.576705734582712
+        "move_m": 0.37575640676164346
       }
     },
     {
@@ -2841,14 +2856,14 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -80.52649113519475,
-          43.44021828487933
+          -80.52649700140262,
+          43.44021863826659
         ]
       },
       "properties": {
         "stop_id": "12179",
         "name": "Hazelglen Dr at Chopin Dr",
-        "move_m": 0.31363952494909847
+        "move_m": 0.17648784658817654
       }
     },
     {
@@ -2856,14 +2871,14 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -80.52825435846857,
-          43.49823292351818
+          -80.5282526833608,
+          43.49827769046036
         ]
       },
       "properties": {
         "stop_id": "10133",
         "name": "Conestoga Station at Stop 1128",
-        "move_m": 49.60458328796074
+        "move_m": 51.68815721667583
       }
     },
     {
@@ -2886,14 +2901,14 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -80.523,
-          43.464142
+          -80.52299993456052,
+          43.46414200871126
         ]
       },
       "properties": {
         "stop_id": "13384",
         "name": "Waterloo Public Square Station at ION platform - Northbound",
-        "move_m": 0.0
+        "move_m": 0.005369442744543004
       }
     },
     {
@@ -2916,14 +2931,14 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -80.52024703,
-          43.468115
+          -80.52024064426838,
+          43.46811452378268
         ]
       },
       "properties": {
         "stop_id": "10990",
         "name": "Bridgeport Rd E at Peppler St",
-        "move_m": 0.0
+        "move_m": 0.5180453922731606
       }
     },
     {
@@ -2931,14 +2946,14 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -80.51523788778579,
-          43.458271663899104
+          -80.51523480729213,
+          43.45826675937539
         ]
       },
       "properties": {
         "stop_id": "11592",
         "name": "King St S at Union St W",
-        "move_m": 0.07813006076259503
+        "move_m": 0.5359967596550026
       }
     },
     {
@@ -2961,14 +2976,14 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -80.52192170481311,
-          43.464955129134474
+          -80.52208780145287,
+          43.46463867234001
         ]
       },
       "properties": {
         "stop_id": "10941",
         "name": "King St N at Willis Way",
-        "move_m": 37.304596098055235
+        "move_m": 0.4013903290519552
       }
     },
     {
@@ -3006,14 +3021,14 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -80.51238202796632,
-          43.49301926746458
+          -80.51238702,
+          43.49300503
         ]
       },
       "properties": {
         "stop_id": "11873",
         "name": "Lexington Rd at Davenport Rd",
-        "move_m": 1.6335467609362053
+        "move_m": 0.0
       }
     },
     {
@@ -3021,14 +3036,14 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -80.51847969089226,
-          43.461593472527866
+          -80.518310707528,
+          43.461554576363284
         ]
       },
       "properties": {
         "stop_id": "10938",
         "name": "King St S at Allen St",
-        "move_m": 149.92558358154398
+        "move_m": 149.33070311508988
       }
     },
     {
@@ -3036,14 +3051,14 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -80.52029290329631,
-          43.43964921670419
+          -80.52029637765247,
+          43.43964950972407
         ]
       },
       "properties": {
         "stop_id": "12280",
         "name": "Victoria St S at Westmount Rd W",
-        "move_m": 0.3367457951073209
+        "move_m": 0.06732120048090134
       }
     },
     {
@@ -3066,14 +3081,14 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -80.55759781503652,
-          43.515438818131145
+          -80.55759691,
+          43.51543736
         ]
       },
       "properties": {
         "stop_id": "12868",
         "name": "King St N at Lobsinger Line",
-        "move_m": 0.1778043226579164
+        "move_m": 0.0
       }
     },
     {
@@ -3081,14 +3096,14 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -80.55871563815867,
-          43.4375933725059
+          -80.55871511,
+          43.4375933
         ]
       },
       "properties": {
         "stop_id": "12943",
         "name": "University Ave W at Baker St",
-        "move_m": 0.043399638281913795
+        "move_m": 0.0
       }
     },
     {
@@ -3096,14 +3111,14 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -80.51604814930617,
-          43.45744566113125
+          -80.51604801,
+          43.457445
         ]
       },
       "properties": {
         "stop_id": "12345",
         "name": "Union Blvd at Park St",
-        "move_m": 0.07436936260300808
+        "move_m": 0.0
       }
     },
     {
@@ -3111,14 +3126,14 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -80.54289254693191,
-          43.50127630751862
+          -80.54289232,
+          43.50127827
         ]
       },
       "properties": {
         "stop_id": "13848",
         "name": "Kumpf Dr at 580 Kumpf Dr",
-        "move_m": 0.2189842478919282
+        "move_m": 0.0
       }
     },
     {
@@ -3126,14 +3141,14 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -80.51190771938627,
-          43.46302826943083
+          -80.51190795,
+          43.46303003
         ]
       },
       "properties": {
         "stop_id": "12301",
         "name": "Union St E at Moore Ave",
-        "move_m": 0.1966491345353644
+        "move_m": 0.0
       }
     },
     {
@@ -3156,14 +3171,14 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -80.5429790382908,
-          43.5102664283016
+          -80.54297235347475,
+          43.51027065839445
         ]
       },
       "properties": {
         "stop_id": "12754",
         "name": "King St N at Martin Grove Rd",
-        "move_m": 0.7731800413361242
+        "move_m": 0.24274524629633115
       }
     },
     {
@@ -3171,14 +3186,14 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -80.51357608785013,
-          43.457368735471164
+          -80.51357567022059,
+          43.457369461650174
         ]
       },
       "properties": {
         "stop_id": "13792",
         "name": "Mount Hope St at King St W",
-        "move_m": 0.15871813867484508
+        "move_m": 0.12289751954957077
       }
     },
     {
@@ -3186,13 +3201,28 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -80.544335,
-          43.497816
+          -80.54432700309363,
+          43.49781566992727
         ]
       },
       "properties": {
         "stop_id": "13788",
         "name": "Northfield Dr W at Kumpf Dr",
+        "move_m": 0.6460807418216352
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.534051,
+          43.501573
+        ]
+      },
+      "properties": {
+        "stop_id": "10136",
+        "name": "Northfield Dr W at King St N",
         "move_m": 0.0
       }
     },
@@ -3201,29 +3231,14 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -80.53404525824604,
-          43.501561855855286
-        ]
-      },
-      "properties": {
-        "stop_id": "10136",
-        "name": "Northfield Dr W at King St N",
-        "move_m": 1.322881462967724
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -80.5252897898685,
-          43.47776594678386
+          -80.52522592510105,
+          43.47776166778435
         ]
       },
       "properties": {
         "stop_id": "10948",
         "name": "King St N at Hickory St E",
-        "move_m": 11.516099167680693
+        "move_m": 6.704158030111566
       }
     },
     {
@@ -3231,14 +3246,14 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -80.55402616226306,
-          43.43923767549478
+          -80.55402629,
+          43.43923263
         ]
       },
       "properties": {
         "stop_id": "12934",
         "name": "University Ave W at Portsmouth Gate",
-        "move_m": 0.5611282083795016
+        "move_m": 0.0
       }
     },
     {
@@ -3261,14 +3276,14 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -80.53439983354835,
-          43.468873186162604
+          -80.53439837536574,
+          43.46887772231075
         ]
       },
       "properties": {
         "stop_id": "13382",
         "name": "Laurier-Waterloo Park Station at ION platform - Northbound",
-        "move_m": 0.6857190292979922
+        "move_m": 0.18028780356723012
       }
     },
     {
@@ -3276,14 +3291,14 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -80.53359298,
-          43.46068796
+          -80.53362482935164,
+          43.46067618049809
         ]
       },
       "properties": {
         "stop_id": "11038",
         "name": "Erb St W at Dietz Ave",
-        "move_m": 0.0
+        "move_m": 2.885045933822781
       }
     },
     {
@@ -3321,14 +3336,14 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -80.56178501,
-          43.46909304
+          -80.56178517305341,
+          43.469093070356635
         ]
       },
       "properties": {
         "stop_id": "10122",
         "name": "Columbia St W at Beechlawn Dr",
-        "move_m": 0.0
+        "move_m": 0.013584346739627955
       }
     },
     {
@@ -3336,14 +3351,14 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -80.56285393136598,
-          43.43745002912926
+          -80.56245571203505,
+          43.4369124208604
         ]
       },
       "properties": {
         "stop_id": "12971",
         "name": "The Boardwalk at Lifestyle Way",
-        "move_m": 22.896001012961793
+        "move_m": 90.77120936216576
       }
     },
     {
@@ -3351,14 +3366,14 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -80.52071698421666,
-          43.47783054617057
+          -80.5207240369131,
+          43.47782508930229
         ]
       },
       "properties": {
         "stop_id": "11725",
         "name": "University Ave E at Weber St N",
-        "move_m": 0.29839976808044655
+        "move_m": 0.5816397944715644
       }
     },
     {
@@ -3366,14 +3381,14 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -80.52861719,
-          43.46302432
+          -80.52861710988323,
+          43.46302407962764
         ]
       },
       "properties": {
         "stop_id": "10998",
         "name": "Erb St W at Barrel Yards Blvd",
-        "move_m": 0.0
+        "move_m": 0.027499186777268883
       }
     },
     {
@@ -3381,14 +3396,14 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -80.53412047516149,
-          43.46753859932098
+          -80.52203278324673,
+          43.465303781571805
         ]
       },
       "properties": {
-        "stop_id": "Laurier - Waterloo Park",
-        "name": "Laurier - Waterloo Park",
-        "move_m": 149.37943439039535
+        "stop_id": "Waterloo Public Square",
+        "name": "Waterloo Public Square",
+        "move_m": 149.86959656986542
       }
     },
     {
@@ -3396,14 +3411,14 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -80.52337277157697,
-          43.462152497715735
+          -80.52337154806763,
+          43.46215276725858
         ]
       },
       "properties": {
         "stop_id": "Willis Way",
         "name": "Willis Way",
-        "move_m": 0.0
+        "move_m": 0.10319591076451827
       }
     },
     {
@@ -3411,14 +3426,14 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -80.51205994712706,
-          43.45729196018955
+          -80.5120607955445,
+          43.457290865118836
         ]
       },
       "properties": {
         "stop_id": "Grand River Hospital",
         "name": "Grand River Hospital",
-        "move_m": 0.0
+        "move_m": 0.13970162500712327
       }
     },
     {
@@ -3441,29 +3456,14 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -80.54116853332651,
-          43.47324659780303
-        ]
-      },
-      "properties": {
-        "stop_id": "University of Waterloo",
-        "name": "University of Waterloo",
-        "move_m": 0.0
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -80.54666889074282,
-          43.48114456590374
+          -80.54516132451859,
+          43.48163254694478
         ]
       },
       "properties": {
         "stop_id": "Research and Technology",
         "name": "Research and Technology",
-        "move_m": 133.13241784476963
+        "move_m": 0.06533885183262024
       }
     },
     {
@@ -3471,29 +3471,14 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -80.54321576462178,
-          43.49721976492402
-        ]
-      },
-      "properties": {
-        "stop_id": "Northfield",
-        "name": "Northfield",
-        "move_m": 0.0
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -80.52880848430219,
-          43.49807911661579
+          -80.52926973856883,
+          43.49818295873502
         ]
       },
       "properties": {
         "stop_id": "Conestoga",
         "name": "Conestoga",
-        "move_m": 52.68080998027874
+        "move_m": 15.528327279027064
       }
     }
   ]

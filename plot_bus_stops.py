@@ -185,7 +185,7 @@ def plot_continuous_before_after_and_coverage(stops_df, demand_df):
     ax1.legend()
 
     fig.tight_layout()
-    out_path = PLOTS / "4_continuous_before_after_coverage.png"
+    out_path = PLOTS / "continuous_before_after_coverage.png"
     fig.savefig(out_path, dpi=300)
     plt.close(fig)
     print("Saved:", out_path)
@@ -250,9 +250,9 @@ def plot_continuous_before_after_and_coverage(stops_df, demand_df):
 
     ax2.legend()
     fig2.tight_layout()
-    fig2.savefig(PLOTS / "5_continuous_avg_and_max.png", dpi=300)
+    fig2.savefig(PLOTS / "continuous_avg_and_max.png", dpi=300)
     plt.close(fig2)
-    print("Saved:", PLOTS / "5_continuous_avg_and_max.png")
+    print("Saved:", PLOTS / "continuous_avg_and_max.png")
 
     # Histogram comparison
     fig3, ax3 = plt.subplots(figsize=(10, 6))
@@ -265,9 +265,9 @@ def plot_continuous_before_after_and_coverage(stops_df, demand_df):
     ax3.grid(alpha=0.25)
     ax3.legend()
     fig3.tight_layout()
-    fig3.savefig(PLOTS / "6_continuous_distance_hist.png", dpi=300)
+    fig3.savefig(PLOTS / "continuous_distance_hist.png", dpi=300)
     plt.close(fig3)
-    print("Saved:", PLOTS / "6_continuous_distance_hist.png")
+    print("Saved:", PLOTS / "continuous_distance_hist.png")
 
     # CDF comparison
     fig4, ax4 = plt.subplots(figsize=(10, 6))
@@ -286,7 +286,7 @@ def plot_continuous_before_after_and_coverage(stops_df, demand_df):
     ax4.grid(alpha=0.25)
     ax4.legend()
     fig4.tight_layout()
-    fig4.savefig(PLOTS / "7_continuous_distance_cdf.png", dpi=300)
+    fig4.savefig(PLOTS / "continuous_distance_cdf.png", dpi=300)
     plt.close(fig4)
     print("Saved:", PLOTS / "7_continuous_distance_cdf.png")
 

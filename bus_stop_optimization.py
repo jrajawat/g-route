@@ -158,13 +158,11 @@ def summarise_metrics(nearest_dist):
     All points are treated equally.
     """
     avg = float(nearest_dist.mean())
-    median = float(np.median(nearest_dist))
     max_d = float(nearest_dist.max())
     coverage_fraction = float((nearest_dist <= COVERAGE_RADIUS_M).mean())
 
     return {
         "avg_m": avg,
-        "median_m": median,
         "max_m": max_d,
         "coverage_fraction": coverage_fraction,
     }
@@ -326,7 +324,6 @@ def prune_stops(
     opt_metrics_full = metrics_for_mask(active)
     print("\nBefore pruning (all points as demand):")
     print(f"  Avg distance: {opt_metrics_full['avg_m']:.1f} m")
-    print(f"  Median:       {opt_metrics_full['median_m']:.1f} m")
     print(f"  Max dist:     {opt_metrics_full['max_m']:.1f} m")
     print(f"  Coverage <= {COVERAGE_RADIUS_M:.0f} m: {opt_metrics_full['coverage_fraction']*100:.1f}%")
 
@@ -464,7 +461,6 @@ def main():
 
     print("\nBaseline metrics (all demand + all stops as demand):")
     print(f"  Avg distance: {base_metrics['avg_m']:.1f} m")
-    print(f"  Median:       {base_metrics['median_m']:.1f} m")
     print(f"  Max dist:     {base_metrics['max_m']:.1f} m")
     print(
         f"  Coverage <= {COVERAGE_RADIUS_M:.0f} m: "
@@ -486,7 +482,6 @@ def main():
 
     print("\nOptimised metrics (before pruning, all points):")
     print(f"  Avg distance: {opt_metrics['avg_m']:.1f} m")
-    print(f"  Median:       {opt_metrics['median_m']:.1f} m")
     print(f"  Max dist:     {opt_metrics['max_m']:.1f} m")
     print(
         f"  Coverage <= {COVERAGE_RADIUS_M:.0f} m: "
